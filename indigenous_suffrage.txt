@@ -1,0 +1,310 @@
+Item 1: Mi’kmaq Grand Council
+Date: January 01, 1400
+Description: Made up of male representatives from acrossMi’kmaqterritory, the council is governed by a grand chief and rules by consensus. The role of chieftain is often handed down from father to son. (Note: The exact date of this event is unknown. The date provided here is an estimate.)
+--------------------------------------------------------------------------------
+Item 2: Blackfoot Confederacy
+Date: January 01, 1400
+Description: A confederacy ofSiksika (Blackfoot)nations is organized aroundbands. Each band has a male leader responsible for decision-making. He governs by consensus. (Note: The exact date of this event is unknown. The date provided here is an estimate.)
+--------------------------------------------------------------------------------
+Item 3: The Haudenosaunee (Iroquois) Confederacy is Active
+Date: January 01, 1500
+Description: Formed by five nations, theHaudenosaunee Confederacyis considered one of the earliest examples of a participatory democracy. (Note: The exact date of this event is unknown. The date provided here is an estimate.)
+--------------------------------------------------------------------------------
+Item 4: Huron-Wendat Village Councils
+Date: January 01, 1500
+Description: Civil and war-related affairs among theHuron-Wendatare determined by respective village councils. Decisions are reached by consensus. All men over 30 are council members but women have little-to-no say in council affairs. (Note: The exact date of this event is unknown. The date provided here is an estimate.)
+--------------------------------------------------------------------------------
+Item 5: Indian Act
+Date: April 12, 1876
+Description: TheIndian Actis introduced. The Act aims to eradicate First Nations culture in favour of assimilation into Euro-Canadian society.The Act also reinforces thatStatus
+Indiansmust voluntarily give up status and treaty
+rights to vote federally. Status Indian women are barred from voting inbandcouncil elections.
+--------------------------------------------------------------------------------
+Item 6: Electoral Franchise Act
+Date: January 01, 1885
+Description: The original draft of the Act gave federal voting rights to some women, but under the final legislation, only men can vote. The Act gives someReserveFirst Nationswith property qualifications the right to vote, but bars Chinese Canadians.
+--------------------------------------------------------------------------------
+Item 7: Status Indians Enfranchised in Nova Scotia
+Date: January 01, 1885
+Description: Federal legislation put forward by Sir John A. Macdonald extended voting rights to Status Indians in eastern Canada who met existing property requirements. The federal legislation was repealed in 1898, but, unlike other provinces, Nova Scotia did not subsequently enact laws disqualifying Status Indians from voting provincially.
+--------------------------------------------------------------------------------
+Item 8: Women Granted Right to Vote in Federal Elections
+Date: May 24, 1918
+Description: Many Canadian women are granted the right to vote in federal elections, butFirst Nationswomen can only vote if they give up theirstatusandtreatyrights.
+--------------------------------------------------------------------------------
+Item 9: Indian Act Amendment Allows for Forced Enfranchisement of Status Indians
+Date: February 26, 1920
+Description: TheIndian Actis amended to allow for the forcedenfranchisementofFirst Nationswhom the government thought should be removed frombandlists. Enfranchisement was the most common of the legal processes by which First Nations peoples lost theirIndian Statusunder theIndian Act.
+--------------------------------------------------------------------------------
+Item 10: Status Indian WWI Veterans Granted Right to Vote
+Date: January 01, 1924
+Description: Male Status Indian veterans of the First World War gain the right to vote in federal elections without losing their status and treaty rights.
+--------------------------------------------------------------------------------
+Item 11: First Nations Veterans Granted Right to Vote
+Date: January 01, 1924
+Description: The federal franchise was extended to Status Indian veterans of the First World War, including those living on reserves.
+--------------------------------------------------------------------------------
+Item 12: Dominion Franchise Act
+Date: January 01, 1934
+Description: InuitandFirst Nationspersons living onreservesare disqualified from voting in federal elections, except for First Nations veterans who had previously received the vote.
+--------------------------------------------------------------------------------
+Item 13: Birth of Gloria George
+Date: July 24, 1942
+Description: Native Council of Canada president Gloria George, who became the first woman to lead a major aboriginal political organization, was born at Hubert, BC.
+--------------------------------------------------------------------------------
+Item 14: Status Indian Servicemen and their Spouses Enfranchised
+Date: January 01, 1944
+Description: During the Second World War, the federal government extended the right to vote to Status Indians who served in the war and their spouses.
+--------------------------------------------------------------------------------
+Item 15: Status Indian WWII Veterans Granted Right to Vote
+Date: January 01, 1944
+Description: Status Indianveterans who served in theSecond World Warand their spouses are permitted to vote in federal elections without losing status, with some conditions.
+--------------------------------------------------------------------------------
+Item 16: Changes toElections ActRegarding Race
+Date: January 01, 1948
+Description: The federalElections Actwas changed so that race was no longer grounds for exclusion from voting in federal elections. While Japanese Canadians were enfranchised, First Nations peoples would not gain that right until 1960.
+--------------------------------------------------------------------------------
+Item 17: Amendments to Dominion Elections Act
+Date: January 01, 1948
+Description: Race is no longer grounds for exclusion from voting in federal elections. However,Status Indiansstill have to give up their Status in order to vote.
+--------------------------------------------------------------------------------
+Item 18: First Nations Gain Right to Vote in British Columbia
+Date: January 01, 1949
+Description: Status Indians in British Columbia were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 19: First Nations Win Right to Vote Provincially
+Date: January 01, 1949
+Description: Except inNova ScotiaandNewfoundland,Status Indianshad been barred from voting provincially. Beginning with British Columbia in 1949 and ending with Quebec in 1969, First Nations peoples gradually win the right to vote in provincial elections without losing status or treaty rights.
+--------------------------------------------------------------------------------
+Item 20: Birth of Elijah Harper
+Date: March 03, 1949
+Description: Cree politician, consultant, policy analyst Elijah Harper was born in Red Sucker Lake, MB. The first Indigenous member of the Legislative Assembly of Manitoba, Harper also served as the minister of Northern Affairs. From 1993 to 1997, he represented the riding of Churchill in the federal Parliament. Harper is best known for the role he played in scuttling the Meech Lake Accord, where he cited the lack of adequate participation and recognition of Indigenous people in that process.
+--------------------------------------------------------------------------------
+Item 21: Inuit Enfranchised
+Date: January 01, 1950
+Description: The Inuit were enfranchised without restrictions. However, the geographic isolation of northern communities meant that many did not have the opportunity to vote until ballot boxes were placed in all Inuit communities for the 1962 federal election.
+--------------------------------------------------------------------------------
+Item 22: Inuit Granted Right to Vote
+Date: January 01, 1950
+Description: Inuitare granted the right to vote in federal elections, but the isolation of several communities means many cannot access polling stations. Later reforms increase access to ballot boxes.
+--------------------------------------------------------------------------------
+Item 23: First Nations Women Granted Right to Vote in Band Council Elections
+Date: January 01, 1951
+Description: Changes to theIndian ActgrantFirst Nationswomen the right to vote inbandcouncil elections.
+--------------------------------------------------------------------------------
+Item 24: First Nations Women Gain Right to Vote in Band Council Elections
+Date: January 01, 1951
+Description: Changes to theIndian Actgranted First Nations women the right to vote in band council elections. Prior to European contact, Indigenous women had traditionally played important roles in community decision-making.
+--------------------------------------------------------------------------------
+Item 25: First Nations Gain Right to Vote in Manitoba
+Date: January 01, 1952
+Description: Status Indians in Manitoba were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 26: First Nations Gain Right to Vote in Ontario
+Date: January 01, 1954
+Description: Status Indians in Ontario were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 27: James Gladstone Enters the Senate
+Date: January 31, 1958
+Description: James Gladstone took his seat in the Senate. A member of the Blood Tribe of the Blackfoot Nation, Gladstone became Canada's first Aboriginal Senator two years before First Nations, Métis and Inuit persons gained the right to vote in Canada.
+--------------------------------------------------------------------------------
+Item 28: First Nations Gain Right to Vote in Saskatchewan
+Date: January 01, 1960
+Description: Status Indians in Saskatchewan were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 29: Right to Vote for Status Indians
+Date: July 01, 1960
+Description: Status Indiansreceive theright to votein federal elections, no longer losing their status ortreatyrights in the process. (See alsoIndigenous Suffrage in Canada.)
+--------------------------------------------------------------------------------
+Item 30: First Nations Can Now Vote in Federal Elections
+Date: July 01, 1960
+Description: First Nations peoples receive the right to vote in federal elections while retaining theirstatusandtreatyrights. However, they are still excluded from voting in some provinces.
+--------------------------------------------------------------------------------
+Item 31: First Nations Gain Right to Vote in Prince Edward Island
+Date: January 01, 1963
+Description: Status Indians in Prince Edward Island were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 32: First Nations Gain Right to Vote in New Brunswick
+Date: January 01, 1963
+Description: Status Indians in New Brunswick were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 33: First Nations Gain Right to Vote in Alberta
+Date: January 01, 1965
+Description: Status Indians in Alberta were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 34: Equal Rights for Indian Women Association Created
+Date: January 01, 1967
+Description: Equal Rights for Indian Women (ERIW) was established in Québec. A provincial organization, ERIW was founded byMohawkwomen’s rights activist Mary Two-Axe Earley, who fought the loss ofIndian statussuffered by Indigenous women married to non-Status Indians. ERIW faced strong resistance from male leaders in First Nations communities.
+--------------------------------------------------------------------------------
+Item 35: Voice of Alberta Native Women's Society Founded
+Date: January 01, 1968
+Description: The Voice of Alberta Native Women's Society (VANWS) was founded byIndigenous activists, includingMétiswar veteranBertha Clark Jones, to advocate on behalf of Status and Non-Status women in the years beforeBill C-31made it possible for those who had lost their status in marriage to regain it. VANWS would evolve into theNative Women's Association of Canada, which has been active since 1974.
+--------------------------------------------------------------------------------
+Item 36: Leonard Marchand Elected to Federal Office
+Date: June 25, 1968
+Description: Leonard Marchand, member of the Okanagan Nation, became the first Indigenous person to be elected to the federal Parliament since Louis Riel.
+--------------------------------------------------------------------------------
+Item 37: First Nations Gain Right to Vote in Québec
+Date: January 01, 1969
+Description: Status Indians in Québec were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 38: Voting Age is Lowered to 18
+Date: January 01, 1970
+Description: Parliamentpasses legislation lowering the federal voting age from 21 to 18. This adds two million Canadians to the electoral rolls.
+--------------------------------------------------------------------------------
+Item 39: Inuit Tapirisat of Canada
+Date: January 01, 1971
+Description: TheInuit Tapirisat of Canada(Tapirisat, meaning Brotherhood in English) was founded. The ITC was created by an organizing committee of Inuit who decided it was time to speak with a united voice on various issues concerning development of the CanadianNorthand preservation ofInuitculture. In 2001, the ITC was renamed the Inuit Tapiriit Kanatami.
+--------------------------------------------------------------------------------
+Item 40: Ontario Native Women’s Association Established
+Date: January 01, 1971
+Description: The Ontario Native Women’s Association (ONWA), a non-profit organization, was established. Working to empower Aboriginal women, the ONWA aims to build connections with government in the fight for equality and ensure the preservation of culture and heritage. Noted Aboriginal women’s activistJeannette Lavellwas a founding ONWA member.
+--------------------------------------------------------------------------------
+Item 41: Indian Rights for Indian Women Established
+Date: January 01, 1972
+Description: Indian Rights for Indian Women, an organization with a nation-wide scope, was established in Alberta. After meeting with Aboriginal women’s activist Mary Two-Axe Earley, First Nations women in Alberta began to organize opposition to the discriminatoryIndian Act. Two-Axe Earley was the group’s vice president for several years.
+--------------------------------------------------------------------------------
+Item 42: Supreme Court Rejects Equal Status for First Nations Women Married to Non-Aboriginals
+Date: August 27, 1973
+Description: TheSupreme Courtruled that theCanadian Bill of Rightsdid not apply to theIndian Actsection that determined Aboriginal women married to non-Status Indianslost their Indian status. ActivistJeannette Lavellchallenged theIndian Actclaiming it discriminated on the basis of sex, a Bill of Rights violation (seeLavell Case).
+--------------------------------------------------------------------------------
+Item 43: Quebec Native Women Inc. Established
+Date: January 01, 1974
+Description: Québec Native Women Inc. (QNW) was founded. The bilingual QNW represents Indigenous women from Quebec. Working to achieve equal rights for all Aboriginal women, the QNW promotes issues such as non-violence and justice. It is a member organization of the Native Women’s Association of Canada.
+--------------------------------------------------------------------------------
+Item 44: Native Women's Association of Canada Founded
+Date: January 01, 1974
+Description: TheNative Women's Association of Canada(NWAC) was founded byIndigenouswomenand their allies, including non-Indigenous feminists active in thewomen’s movement. Members concerned themselves with the preservation and continuation of Indigenous culture on a local level, while focusing nationally on addressing the inequity in status conditions for women under theIndian Act.NWAC's first president wasMétiswar veteranandactivistBertha Clark Jones.
+--------------------------------------------------------------------------------
+Item 45: First Assembly of the Native Women’s Association of Canada
+Date: August 22, 1974
+Description: The Native Women’s Association of Canada (NWAC) convened its first assembly. The NWAC, a non-profit organization, brought together 13 Aboriginal women’s groups from across Canada. It represents mainlyFirst NationsandMétiswomen, with the aim to achieve equal opportunities and influence policy initiatives impacting its members.
+--------------------------------------------------------------------------------
+Item 46: Nunavut Land Claims Presented to Government
+Date: January 01, 1976
+Description: TheInuit Tapirisat of Canadasubmitted a formal land claims proposal to the Government of Canada.
+--------------------------------------------------------------------------------
+Item 47: Nunatsiaq Riding Created
+Date: January 01, 1976
+Description: A federal riding was created in the Northwest Territories. Called Nunatsiaq, it represented territory that now comprises Nunavut.
+--------------------------------------------------------------------------------
+Item 48: Dene Nation
+Date: August 14, 1978
+Description: The Indian Brotherhood of the Northwest Territories became the Dene Nation during the 8th Dene National Assembly held in Fort Norman, NT.
+--------------------------------------------------------------------------------
+Item 49: “Indian Women’s March” Protests theIndian Act
+Date: July 19, 1979
+Description: Twenty-eight women from the Tobique First Nation’s women’s group organized a 160 km walk from the Oka Reserve in Québec to Ottawa. They aimed to bring national attention to gender discrimination in theIndian Act.
+--------------------------------------------------------------------------------
+Item 50: UNHRC Decision HighlightsIndian ActDiscrimination
+Date: July 30, 1981
+Description: TheUnited NationsHuman Rights Commission (UNHRC) presented its decision on the Lovelace case. Sandra Lovelace, of the Maliseet First Nation, argued that losing herIndian Statusafter marrying a non-Status Indian was discriminatory. The UNHRC declared Lovelace’s status loss tantamount to cultural interference.
+--------------------------------------------------------------------------------
+Item 51: Tungavik Federation of Nunavut Established
+Date: January 01, 1982
+Description: The Tungavik Federation of Nunavut (TFN) was established in order to negotiate a land claims agreement with the Government of Canada.
+--------------------------------------------------------------------------------
+Item 52: Northwest Territories Plebiscite
+Date: April 14, 1982
+Description: The majority of voters (56 per cent) chose to divide the Northwest Territories in two in a territorialplebiscite.The division would create a mainly Inuit eastern territory.Over 80 per cent of the territory’s Inuit voted, more than 80 per cent of whom voted in favour of the creation of Nunavut. The results of the plebiscite were not binding federally.
+--------------------------------------------------------------------------------
+Item 53: Pauktuutit, the Inuit Women’s Association, Established
+Date: March 30, 1984
+Description: The Inuit Women’s Association, known as Pauktuutit, was incorporated. The national organization seeks to represent the needs ofInuitwomen, advocating on their behalf in federal policy initiatives. These include social justice issues such as violence against women, and health issues such as promoting traditional midwifery practices.
+--------------------------------------------------------------------------------
+Item 54: Bill C-31, An Act to Amend theIndian Act, Passed
+Date: June 17, 1985
+Description: Since the mid-1800s the status of women had been tied to that of their husbands. Therefore, if a Status Indian woman married a non-Status Indian man, she would lose her status and if a non-Status Indian woman married a Status Indian man, she would acquire status. Bill C-31 removed these discriminatory provisions.
+--------------------------------------------------------------------------------
+Item 55: First Indigenous Woman Elected to Federal Government
+Date: November 21, 1988
+Description: Ethel Dorothy Blondin-Andrew, member of the Dene Nation, became the first Indigenous woman elected to the House of Commons.
+--------------------------------------------------------------------------------
+Item 56: Cournoyea Elected Premier of NWT
+Date: November 14, 1991
+Description: Nellie J. Cournoyea, of Inupiaq heritage, was elected premier of the Northwest Territories, making her the first Indigenous woman to hold the position of government leader.
+--------------------------------------------------------------------------------
+Item 57: Métis Women’s National Council Formed
+Date: January 01, 1992
+Description: The Métis Women’s National Council (MWNC) was established as an organization separate from the Métis National Council, which was formed in 1983. The MWNC aims to promote understanding of the traditional roles played by Métis women, and to raise awareness of socio-cultural issues impacting Métis women and their children.
+--------------------------------------------------------------------------------
+Item 58: Nunavut Boundary Plebiscite
+Date: May 04, 1992
+Description: A plebiscite was held in order to confirm the boundary between the Northwest Territories and Nunavut. Fifty-four per cent voted in favour of the proposed boundaries.
+--------------------------------------------------------------------------------
+Item 59: Gros-Louis Elected Grand Chief
+Date: August 16, 1992
+Description: The Huron-Wendat Nation of Wendake (located near Québec City) elected Jocelyne Gros-Louis as Grand Chief. She was the first woman to be named as the leader of a First Nation in Canada.
+--------------------------------------------------------------------------------
+Item 60: ​Inuit Accept the Terms of the Nunavut Land Claims Agreement
+Date: November 03, 1992
+Description: A majority of Inuit beneficiaries voted to accept the terms of the proposed Nunavut Land Claims Agreement. In tandem with theNunavut Act, the land claims agreement led to the creation of the territory of Nunavut.
+--------------------------------------------------------------------------------
+Item 61: Inuit Endorse Nunavut
+Date: November 12, 1992
+Description: The Inuit endorsed the creation of Nunavut, a semi-autonomous territory, in a referendum.
+--------------------------------------------------------------------------------
+Item 62: Nunavut ActReceives Royal Assent
+Date: June 10, 1993
+Description: TheNunavut Act, which established the new territory and its government,received royal assent in Parliament. The territory'sInuitpopulation became beneficiaries under the Nunavut Land Settlement Agreement, which also received royal assent on this day.Nunavutofficially became Canada’s third territory on 1 April 1999.
+--------------------------------------------------------------------------------
+Item 63: First Inuit MP Elected
+Date: June 02, 1997
+Description: Liberal Nancy Karetak-Lindell was elected the first Member of Parliament for the newly-created riding of Nunavut, and became the first Inuit woman elected to the House of Commons.
+--------------------------------------------------------------------------------
+Item 64: First Métis Woman Appointed to Senate
+Date: November 26, 1997
+Description: Thelma Chalifoux, an active member of the Métis Nation of Alberta, became the first Métis woman appointed to the Senate.
+--------------------------------------------------------------------------------
+Item 65: First Woman Elected to the Nunavut Legislative Assembly
+Date: February 15, 1999
+Description: Manitok Thompson became the first woman elected to the Nunavut Legislative Assembly.
+--------------------------------------------------------------------------------
+Item 66: Nunavut Declared
+Date: April 01, 1999
+Description: The new territory of Nunavut, covering some 2 million sqare kilometers of the eastern Arctic, was declared as part of Canada's first territorial changes since Newfoundland joined Confederation in 1949.
+--------------------------------------------------------------------------------
+Item 67: Off-Reserve Voting Rights
+Date: May 20, 1999
+Description: The Supreme Court of Canada ruled unanimously to open Indigenous band elections to off-reserve band members, stating that excluding them violated the Canadian Charter of Rights and Freedoms.
+--------------------------------------------------------------------------------
+Item 68: First Female First Nations Senator Appointed
+Date: September 21, 2005
+Description: Sandra Lovelace Nicholas, a Maliseet woman from the Tobique First Nation in New Brunswick, became the first First Nations woman appointed to the Senate.
+--------------------------------------------------------------------------------
+Item 69: BC's First Aboriginal Lieutenant-Governor
+Date: September 04, 2007
+Description: PM Stephen Harper announced the appointment of Steven Point as BC's first Aboriginal lieutenant-governor.
+--------------------------------------------------------------------------------
+Item 70: First Inuit Federal Cabinet Minister
+Date: October 30, 2008
+Description: Leona Aglukkaq was appointed Minister of Health, making her the first Inuk to serve as a senior federal cabinet minister.
+--------------------------------------------------------------------------------
+Item 71: Aariak Becomes First Female Premier of Nunavut
+Date: November 14, 2008
+Description: Eva Aariak, the MLA for Iqaluit East and Nunavut's former languages commissioner, defeated Paul Okalik to become Nunavut’s second premier and the territory’s first female premier. She was, however, the only woman in the legislature.
+--------------------------------------------------------------------------------
+Item 72: Nicholas Appointed Lieutenant-Governor
+Date: September 10, 2009
+Description: The Honourable Graydon Nicholas was appointed New Brunswick's 30th lieutenant-governor. He was first Indigenous person in the province to hold the honour.
+--------------------------------------------------------------------------------
+Item 73: First Indigenous Constitution in Ontario
+Date: January 10, 2014
+Description: Members of the Nipissing First Nation voted in favour of adopting their ownconstitution, or Gichi-Naaknigewin, believed to be the first such document amongFirst Nationscommunities inOntario. Its purpose is to allow the nation to define its membership and create laws. Legal experts say it is unclear, however, whether this constitution will run up against Canadian laws such as theIndian Act, which it is designed to replace.
+--------------------------------------------------------------------------------
+Item 74: Winnipeg’s First Aboriginal Mayor
+Date: October 22, 2014
+Description: Métis lawyer Brian Bowman was elected as Winnipeg’s first Aboriginal mayor in the city’s 140-year history.
+--------------------------------------------------------------------------------
+Item 75: Perry Bellegarde Elected National Chief
+Date: December 10, 2014
+Description: Perry Bellegarde, former chief of the Federation of Saskatchewan Indian Nations and Saskatchewan regional chief of the Assembly of First Nations (AFN), was elected national chief of the AFN.
+--------------------------------------------------------------------------------
+Item 76: REDress Project Calls for Donations
+Date: October 04, 2015
+Description: The REDress Project, an art installation commemorating Canada’smissing and murdered Indigenous  women, asked for the donation of red dresses, and for Canadians to hang their own.Métisartist Jaime Black initiated the project, which has displayed hundreds of red dresses in public spaces such as theCanadian Museum of Human Rights.
+--------------------------------------------------------------------------------
+Item 77: Canada Supports UN Declaration on Indigenous Rights
+Date: May 10, 2016
+Description: Indigenous Affairsminister Carolyn Bennett announced Canada’s full support of the United Nations Declaration on the Rights of Indigenous Peoples. TheConservativegovernment underStephen Harperhad endorsed the declaration in 2010, but with qualifications that gave Canada “objector” status at the UN with respect to the document. Bennett's announcement removed this status. The declaration recognizes a wide range ofIndigenous rights, from basichuman rightsto land, language andself-determinationrights.
+--------------------------------------------------------------------------------
