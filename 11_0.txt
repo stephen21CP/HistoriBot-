@@ -1,0 +1,916 @@
+Item 1: Griffon Launched
+Date: August 07, 1679
+Description: Cavelierde La Salle launched theGriffon, a boat armed with 7 cannon, on Lake Erie near the mouth of the Niagara River. It was the first European vessel on the Great Lakes.
+--------------------------------------------------------------------------------
+Item 2: First Printing Press
+Date: August 03, 1751
+Description: Bartholomew Green established the first printing press in Canada at Halifax.
+--------------------------------------------------------------------------------
+Item 3: Halifax GazettePrinted
+Date: March 23, 1752
+Description: Canada's first newspaper, theHalifax Gazette, was printed by John Bushell. He also published the first book in Canada on 6 December; it was an 8-page pamphlet for the government.
+--------------------------------------------------------------------------------
+Item 4: First Post Office
+Date: December 09, 1755
+Description: The first post office in Canada was opened in Halifax.
+--------------------------------------------------------------------------------
+Item 5: Québec GazettePublished
+Date: June 21, 1764
+Description: The first edition of theQuébec Gazette/La Gazette de Québecwas published, by William Brown and Thomas Gilmore.
+--------------------------------------------------------------------------------
+Item 6: Gazette LittéraireCeases Publication
+Date: June 02, 1779
+Description: TheGazette Littéraire pour la ville et district de Montréalceased publication. It was the first entirely French newspaper in Canada.
+--------------------------------------------------------------------------------
+Item 7: Newspapermen Arrested
+Date: June 02, 1779
+Description: Newspapermen Fleury Mesplet and Valentin Jautard were arrested by order of the governor after criticizing a judge''s rulings in their paperGazette Littéraire.
+--------------------------------------------------------------------------------
+Item 8: First Newspaper in NB
+Date: December 12, 1783
+Description: The first newspaper in New Brunswick, theRoyal Saint John Gazetteand Nova Scotian Intelligencer, was published by William Lewis and John Ryan at Parrtown.
+--------------------------------------------------------------------------------
+Item 9: Montreal Gazette Published
+Date: August 25, 1785
+Description: Fleury Mesplet published the Montreal Gazette/La Gazette de Montréal, the oldest newspaper still in existence in Canada.
+--------------------------------------------------------------------------------
+Item 10: North West AmericaLaunched
+Date: September 20, 1788
+Description: TheNorth West America, the first European vessel built on the BC coast, was launched by John Meares, sea captain, entrepreneur and fur trader. The ship was used in the trade for sea otter pelts.
+--------------------------------------------------------------------------------
+Item 11: First Stagecoach Service
+Date: December 27, 1789
+Description: The first stagecoach service was established between Queenston and Fort Erie.
+--------------------------------------------------------------------------------
+Item 12: Yonge Street Opened
+Date: February 20, 1796
+Description: Yonge Street was opened from York to Pine Fort Landing on Lake Simcoe, a distance of about 55 km.
+--------------------------------------------------------------------------------
+Item 13: Parliamentary Library Established
+Date: March 14, 1802
+Description: The Parliamentary Library of Lower Canada was established when clerk Samuel Phillips was placed in charge of the House's entire holdings, about 25 books.
+--------------------------------------------------------------------------------
+Item 14: Quebec MercuryPublished
+Date: January 05, 1805
+Description: The first edition of theQuebec Mercurynewspaper was published.
+--------------------------------------------------------------------------------
+Item 15: Le Canadien Published
+Date: November 22, 1806
+Description: The Parti canadien newspaper, Le Canadien, was first published in Québec City
+--------------------------------------------------------------------------------
+Item 16: Le Vrai CanadienFounded
+Date: March 10, 1810
+Description: The political newspaperLe Vrai Canadienwas founded by Jonathan Sewell and Pierre-Amable De Bonne.
+--------------------------------------------------------------------------------
+Item 17: Kingston Gazette Published
+Date: March 17, 1810
+Description: The first issue of theKingston Gazette(now theWhig-Standard) was published.
+--------------------------------------------------------------------------------
+Item 18: Kingston and York Linked
+Date: January 04, 1817
+Description: Stagecoach service began between Kingston and York, Upper Canada.
+--------------------------------------------------------------------------------
+Item 19: Welland Canal Initiated
+Date: November 30, 1823
+Description: Construction began on the first Welland Canal, joining Lakes Erie and Ontario, with a sod-turning ceremony that included its chief promoter William Hamilton Merritt.
+--------------------------------------------------------------------------------
+Item 20: Rideau Canal Begun
+Date: September 21, 1826
+Description: Construction began on the Rideau Canal. It was completed in 1832 after five working seasons.
+--------------------------------------------------------------------------------
+Item 21: Welland Canal Opened
+Date: November 30, 1829
+Description: Two schooners passed from Port Dalhousie to Port Robinson, Upper Canada, symbolically opening the Welland Canal and linking Lakes Erie and Ontario for the first time. The canal opened the way to the west and countered the threat of the US Erie Canal.
+--------------------------------------------------------------------------------
+Item 22: First Railway Incorporated in Canada
+Date: February 25, 1832
+Description: The Champlain and St Lawrence Railroad Company was incorporated, the first railway legislation in Canada.
+--------------------------------------------------------------------------------
+Item 23: First Steamer on the Pacific
+Date: March 18, 1836
+Description: The Hudson's Bay Company steamerBeaver, the first on the Pacific Coast, arrived at Fort Vancouver (near present-day Portland, Oregon).
+--------------------------------------------------------------------------------
+Item 24: First Steamer Arrives on Pacific Coast
+Date: April 10, 1836
+Description: The Hudson's Bay Co steamerBeaver, the first on the Pacific coast, arrived at Fort Vancouver, near present-day Portland, Oregon.
+--------------------------------------------------------------------------------
+Item 25: First Railway Opens in Canada
+Date: July 21, 1836
+Description: Canada's first railway, the Champlain and St Lawrence Railroad, officially opened; it began operations on July 25. The railway heralded the most important change in transportation in Canadian history.
+--------------------------------------------------------------------------------
+Item 26: Albion Mines Railway
+Date: September 19, 1839
+Description: A celebration marked the opening of the first 4 kilometers of the Albion Mines Railway in Pictou County, NS. It was the second steam railway in Canada, and the first to use standard gauge.
+--------------------------------------------------------------------------------
+Item 27: BritanniaSails
+Date: July 04, 1840
+Description: TheBritanniasailed from Liverpool, England. It was the maiden voyage of Cunard's steam packet mail service across the Atlantic.
+--------------------------------------------------------------------------------
+Item 28: First Edition ofThe Islander
+Date: January 12, 1842
+Description: The first edition of the PEI newspaperThe Islanderwas published.
+--------------------------------------------------------------------------------
+Item 29: Brown Founds Globe
+Date: March 05, 1844
+Description: George Brown founded the TorontoGlobenewspaper.
+--------------------------------------------------------------------------------
+Item 30: St Lawrence and Atlantic RR
+Date: March 17, 1845
+Description: The St Lawrence and Atlantic Railroad was chartered to build a line between Montréal and Portland, Maine, giving Montréal year-round access to the Atlantic.
+--------------------------------------------------------------------------------
+Item 31: FirstHamilton Spectator
+Date: July 15, 1846
+Description: The first issue of theHamilton Spectatornewspaper was published.
+--------------------------------------------------------------------------------
+Item 32: Railway to Longueuil Opens
+Date: October 11, 1850
+Description: The St Lawrence and Atlantic Railroad was opened from Longueuil to Richmond, Québec.
+--------------------------------------------------------------------------------
+Item 33: First Canadian Stamp
+Date: April 07, 1851
+Description: The first Canadian postage stamp,a Three-Pence Beaver,was issued.It was followed by a Twelve-Pence Black, showing Queen Victoria at the age of 19, and a Six-Pence Prince Consort, which carried a portrait of Prince Albert.
+--------------------------------------------------------------------------------
+Item 34: Marco PoloLaunched
+Date: April 17, 1851
+Description: The clipperMarco Polowas launched at Saint John, NB. It was the fastest ship in the world in its day, and set records on the run from Liverpool to Australia.
+--------------------------------------------------------------------------------
+Item 35: First propeller-driven Steamship
+Date: August 05, 1853
+Description: The Otter, the first propeller-driven steamship in the North Pacific, arrived and went into general trading and tow-boating service.
+--------------------------------------------------------------------------------
+Item 36: Globe Issued as Daily
+Date: October 01, 1853
+Description: The Toronto Globe was first issued as a daily newspaper.
+--------------------------------------------------------------------------------
+Item 37: Great Western Railway Opens
+Date: January 27, 1854
+Description: The Great Western Railway opened its main line between London and Windsor, Ont.
+--------------------------------------------------------------------------------
+Item 38: Bridge Over Niagara
+Date: March 08, 1855
+Description: A suspension bridge was opened across the Niagara River, at Niagara Falls.
+--------------------------------------------------------------------------------
+Item 39: First Passenger Train
+Date: October 27, 1856
+Description: The first passenger train travelled from Montréal to Toronto on the Grand Trunk line.
+--------------------------------------------------------------------------------
+Item 40: Grand Trunk Completed
+Date: November 17, 1856
+Description: The Grand Trunk Railway was completed from Guelph to Stratford, Ont; the last stretch from St Marys to Sarnia was finished on November 21. The GTR was a significant factor in the economic development of Canada.
+--------------------------------------------------------------------------------
+Item 41: Desjardins Canal Train Disaster
+Date: March 12, 1857
+Description: A Great Western Railway passenger train crashed through the rotting timber bridge over the Desjardins Canal, near Hamilton, Ont, killing 59 people.
+--------------------------------------------------------------------------------
+Item 42: Railway to Truro Opens
+Date: February 08, 1858
+Description: A railway opened from Halifax to Truro and Windsor in Nova Scotia.
+--------------------------------------------------------------------------------
+Item 43: Telegraph Message to Valencia
+Date: August 12, 1858
+Description: The first telegraph message was sent from Trinity Bay, Newfoundland, to Valencia, Ireland, on cable laid by USSNiagaraand HMSAgamemnon.
+--------------------------------------------------------------------------------
+Item 44: Steamship Arrives at Red River
+Date: April 15, 1859
+Description: Captain Anson Northrup brought the first steamship, theAnson Northrup(formerly theNorth Star) to Red River.
+--------------------------------------------------------------------------------
+Item 45: First Newspaper in Red River
+Date: December 28, 1859
+Description: The Nor'Wester was published at Fort Garry, the first newspaper in the Red River district.
+--------------------------------------------------------------------------------
+Item 46: Street Railway in Toronto
+Date: September 11, 1861
+Description: The first horse-drawn street-railway line in Toronto opened.
+--------------------------------------------------------------------------------
+Item 47: Rail Disaster at St Hilaire
+Date: June 29, 1864
+Description: A Grand Trunk Railway train plunged off the Beloeil Bridge into the Richelieu River at St-Hilaire, Qué, killing 99 people and injuring another 100. It was Canada's worst train wreck.
+--------------------------------------------------------------------------------
+Item 48: Great EasternLays Cable
+Date: July 27, 1866
+Description: The shipGreat Easterncompleted the laying of the first transatlantic cable at Heart's Content, Nfld.
+--------------------------------------------------------------------------------
+Item 49: FirstMontreal Star
+Date: January 16, 1869
+Description: The first issue of theMontreal Starnewspaper was published.
+--------------------------------------------------------------------------------
+Item 50: Canadian Illustrated News
+Date: October 24, 1869
+Description: Georges Desbarats founded the Canadian Illustrated News at Montréal. On October 24 it became the first periodical in the world to carry halftone photographs.
+--------------------------------------------------------------------------------
+Item 51: First Issue of theToronto Mail
+Date: March 31, 1872
+Description: The first issue of theToronto Mailwas published.
+--------------------------------------------------------------------------------
+Item 52: CPR Formed
+Date: October 15, 1872
+Description: TheCanadian Pacific RailwayCompany was formed. The company was given a charter on 5 February 1873. Methods used by SirHugh Allanto secure the charter led to the defeat of Sir John A. Macdonald's government.
+--------------------------------------------------------------------------------
+Item 53: Pacific Scandal Forces Resignations
+Date: November 05, 1873
+Description: In thePacific Scandal, the Macdonald government resigned over the evidence that members of the government had accepted campaign funds from SirHugh Allanin return for theCanadian Pacific Railwaycontract.
+--------------------------------------------------------------------------------
+Item 54: William D. LawrenceLaunched
+Date: October 27, 1874
+Description: TheWilliam D. Lawrence, the largest wooden ship built in the Maritimes, was launched at Maitland, NS.
+--------------------------------------------------------------------------------
+Item 55: Halifax HeraldEstablished
+Date: January 14, 1875
+Description: The first issue of theHalifax Heraldnewspaper was published.
+--------------------------------------------------------------------------------
+Item 56: Construction Begins on CPR
+Date: June 01, 1875
+Description: At the Kaministiquia River, near present-day Thunder Bay, Ont, construction began on the CPR.
+--------------------------------------------------------------------------------
+Item 57: Bell Speaks First Words
+Date: March 10, 1876
+Description: Alexander Graham Bell spoke the first words ever heard on the telephone when working on the device in his attic room in Boston, Mass; he made the first call from one building to another at Mt Pleasant, Ont, on Aug 3 when he called his uncle at Brantford.
+--------------------------------------------------------------------------------
+Item 58: North Shore Railway Complete
+Date: February 09, 1879
+Description: The North Shore Railway between Montréal and Québec City was completed.
+--------------------------------------------------------------------------------
+Item 59: Fraser Canyon Rail Extension
+Date: December 23, 1879
+Description: Railway contractor Andrew Onderdonk signed an agreement with the Canadian government to extend the CPR through the Fraser Canyon.
+--------------------------------------------------------------------------------
+Item 60: CPR Enters British Columbia
+Date: May 14, 1880
+Description: Construction of the CPR began in BC under the direction of Andrew Onderdonk.
+--------------------------------------------------------------------------------
+Item 61: CPR Incorporated
+Date: February 16, 1881
+Description: The Canadian Pacific Railway Company was incorporated.
+--------------------------------------------------------------------------------
+Item 62: CPR Arrives in Alberta
+Date: June 01, 1883
+Description: The Canadian Pacific Railway arrived in Alberta, at Medicine Hat.
+--------------------------------------------------------------------------------
+Item 63: Calgary HeraldFirst Issue
+Date: August 31, 1883
+Description: TheCalgary Heraldnewspaper was first published by Andrew Armour and Thomas Braden as theCalgary Herald, Mining and Ranche Advocate and General Advertiser Inc.
+--------------------------------------------------------------------------------
+Item 64: La PressePublished
+Date: October 20, 1884
+Description: The first issue ofLa Pressenewspaper was published in Montréal.
+--------------------------------------------------------------------------------
+Item 65: Death of Jumbo
+Date: September 15, 1885
+Description: A Grand Trunk Railway locomotive struck and killed Jumbo, beloved circus elephant in Barnum and Bailey’s “Greatest Show on Earth,” near St. Thomas, ON. The autopsy showed that Jumbo’s stomach contained “a hat-full” of English pennies, gold and silver coins, metal trinkets and a police whistle, among other things. The death of the elephant made headlines world-wide.
+--------------------------------------------------------------------------------
+Item 66: First Train to Lethbridge
+Date: October 15, 1885
+Description: The first train rolled into Lethbridge.
+--------------------------------------------------------------------------------
+Item 67: Last Spike Driven for CPR
+Date: November 07, 1885
+Description: The “last spike” of theCanadian Pacific Railwaywas hammered byLord StrathconaatCraigellachie,British Columbia. This fulfilled a government promise to connect BC to Eastern Canada via a transcontinental railway. Among the workers who built the railway were 15,000 labourers fromChina, many of whomdied during the railway’s construction.
+--------------------------------------------------------------------------------
+Item 68: First Transcontinental Passenger Train
+Date: July 04, 1886
+Description: The first scheduled CPR transcontinental passenger train reached Port Moody, after travelling "from sea to sea" for five days, 19 hours.
+--------------------------------------------------------------------------------
+Item 69: Macdonald Drives Last Spike
+Date: August 13, 1886
+Description: Prime minister Sir John A. Macdonald, on his only visit to BC, drove the last spike on the Esquimalt and Nanaimo Railway at Cliffside near Shawnigan Lake.
+--------------------------------------------------------------------------------
+Item 70: Saturday Night Founded
+Date: December 03, 1887
+Description: Saturday Night magazine was founded in Toronto by Edmund Ernest Sheppard.
+--------------------------------------------------------------------------------
+Item 71: Granville Street Bridge Opened
+Date: January 04, 1889
+Description: The first Granville Street Bridge opened in Vancouver. (The current bridge is the third built at that site.)
+--------------------------------------------------------------------------------
+Item 72: Empress of IndiaArrives at Vancouver
+Date: April 28, 1891
+Description: The CPR steamerEmpress of Indiafirst arrived at Vancouver, carrying 486 passengers and 1839 t of tea, silk and rice. This steamer continued to make regular trips around the world by way of the Suez Canal.
+--------------------------------------------------------------------------------
+Item 73: First CPR Train Reaches Edmonton
+Date: August 10, 1891
+Description: The CPR built a spur line from Calgary to Edmonton. The first train arrived in 1891.
+--------------------------------------------------------------------------------
+Item 74: Railroad Opens from Seattle to New Westminster
+Date: November 27, 1891
+Description: A subsidiary of the Great Northern Railroad, an American competitor to the Canadian Pacific Railway, opened from Seattle to New Westminster, BC.
+--------------------------------------------------------------------------------
+Item 75: Slocum Sails Around World
+Date: April 24, 1895
+Description: Nova Scotia-born Joshua Slocum set out in his small boatSprayfrom Boston, Mass, on his voyage around the world. He completed his journey on 27 June 1898, making him the first man to sail around the world alone.
+--------------------------------------------------------------------------------
+Item 76: White Pass and Yukon Railway
+Date: July 29, 1900
+Description: The last spike was driven on the White Pass and Yukon Railway, which ran from Skagway to Whitehorse.
+--------------------------------------------------------------------------------
+Item 77: Minto Opens Canal
+Date: September 01, 1900
+Description: Governor General Lord Minto opened an irrigation canal, which ran 184 km between Kimball and Lethbridge, Alberta.
+--------------------------------------------------------------------------------
+Item 78: Fessenden's Wireless
+Date: December 23, 1900
+Description: Reginald Aubrey Fessenden of Québec transmitted the first wireless voice broadcast near Washington, DC. On December 24, 1906, he made the first radio voice broadcast from Brant Rock, Mass.
+--------------------------------------------------------------------------------
+Item 79: Copper Mountain Trail
+Date: August 27, 1901
+Description: TheRossland Minerreported that Mines Minister Richard McBride had visited the Similkameen and had ordered the expenditure of $300 on the Copper Mountain trail.
+--------------------------------------------------------------------------------
+Item 80: First Transatlantic Wireless
+Date: December 12, 1901
+Description: At Signal Hill, St John's, Nfld, Italian inventor Guglielmo Marconi received the first transatlantic wireless (radio) message from Poldhu, Cornwall, England.
+--------------------------------------------------------------------------------
+Item 81: Completion of trans-Pacific Telegraph Cable
+Date: October 31, 1902
+Description: The trans-Pacific telegraph cable was completed from Bamfield to Brisbane, Australia, with the first message sent by Canadian innovator-engineer Sir Sandford Fleming.
+--------------------------------------------------------------------------------
+Item 82: First Transatlantic Radio Report
+Date: December 15, 1902
+Description: The first transatlantic radio press report was filed from Glace Bay, NS, by aTimescorrespondent.
+--------------------------------------------------------------------------------
+Item 83: Cars in Montréal
+Date: March 31, 1904
+Description: A city-wide survey revealed that there were 45 cars in Montréal. That number would increase to 102 the next year, forcing the Québec government to change its law on cars.
+--------------------------------------------------------------------------------
+Item 84: First Bridge Opens at New Westminster
+Date: July 23, 1904
+Description: The first bridge built across the lower reaches of the Fraser River opened at New Westminster. To mark the occasion, residents held a civic luncheon, watched Aboriginal canoe races and set off fireworks from the bridge's upper deck.
+--------------------------------------------------------------------------------
+Item 85: Canadian Northern Completed
+Date: November 24, 1905
+Description: The Canadian Northern Railway was completed to Edmonton.
+--------------------------------------------------------------------------------
+Item 86: Grand Trunk Pacific Railway Begun
+Date: May 17, 1906
+Description: Construction on the Grand Trunk Pacific Railway began at Prince Rupert with the 
+construction of a tool shed and the erection of tents as accommodation.
+--------------------------------------------------------------------------------
+Item 87: British Wireless
+Date: October 17, 1907
+Description: Transatlantic wireless (radio) service for the public to Britain was begun.
+--------------------------------------------------------------------------------
+Item 88: CPR Opens New Lines
+Date: August 25, 1909
+Description: The CPR opened its new line over Kicking Horse Pass near Field, BC. The route featured 2 spiral tunnels, bypassing the former switchback with its steep grades.
+--------------------------------------------------------------------------------
+Item 89: Le DevoirFirst Published
+Date: January 10, 1910
+Description: The newspaperLe Devoirwas first published in Montréal, by Henri Bourassa.
+--------------------------------------------------------------------------------
+Item 90: Vancouver Morning Sun Published
+Date: February 12, 1912
+Description: The first issue of theVancouver Morning Sunwas published. Later, it became an afternoon newspaper, theVancouver Sun.
+--------------------------------------------------------------------------------
+Item 91: Fraser River Railway Strikes
+Date: March 12, 1912
+Description: Railway workers organized by the Industrial Workers of the World (IWW) walked out of construction camps on the Canadian Northern line to protest conditions.
+--------------------------------------------------------------------------------
+Item 92: First Crossing of Canada by Automobile
+Date: October 14, 1912
+Description: Thomas Wilby and Jack Haney arrived in Vancouver after completing the first crossing of Canada by automobile.
+--------------------------------------------------------------------------------
+Item 93: Point Atkinson Lighthouse
+Date: November 25, 1912
+Description: The present Point Atkinson Lighthouse at West Vancouver, BC, became operational. It was recognized as a structure of national historic significance on September 18, 1994.
+--------------------------------------------------------------------------------
+Item 94: First Aviation Fatality in Canada
+Date: August 06, 1913
+Description: The first death involving an airplane in Canada occurred in Victoria, BC, when American barnstormer John M. Bryant was killed.He was instantly killed when one of the wings of his airplane collapsed and he crashed onto the roof of a building.
+--------------------------------------------------------------------------------
+Item 95: National Transcontinental Complete
+Date: November 17, 1913
+Description: The last spike was driven on the National Transcontinental Railway, which had begun work in 1903 and ran from Winnipeg, via Sioux Lookout, Kapuskasing, Cochrane and Québec City, to Moncton, NB.
+--------------------------------------------------------------------------------
+Item 96: Grand Trunk Pacific Completed
+Date: April 07, 1914
+Description: The Grand Trunk Pacific Railway was completed to Nechako, BC. The first train arrived at Prince Rupert on April 9.
+--------------------------------------------------------------------------------
+Item 97: Canadian Northern Railway
+Date: January 23, 1915
+Description: The last spike was driven on the Canadian Northern Railway at Basque, BC.
+--------------------------------------------------------------------------------
+Item 98: Canadian Press Founded
+Date: September 01, 1917
+Description: The Canadian Press, a co-operative news agency, was founded.
+--------------------------------------------------------------------------------
+Item 99: Bell's Hydrofoil
+Date: September 09, 1919
+Description: The hydrofoil created by Alexander Graham Bell, his wife Mabel Bell and the engineer F.W. Casey Baldwin set a record for speed over water on the tranquil waters of the Bras d'Or, NS. At a time when the greatest steamships of the world made less than 60km/h, the HD-4 hydrofoil vessel was clocked at 114km/h.
+--------------------------------------------------------------------------------
+Item 100: Canadian ForumFounded
+Date: May 14, 1920
+Description: TheCanadian Forummagazine was founded; it is Canada's oldest continually published political periodical.
+--------------------------------------------------------------------------------
+Item 101: First Radio Station
+Date: November 02, 1920
+Description: Station KDKA in Pittsburgh became the first radio broadcasting station in the world.
+--------------------------------------------------------------------------------
+Item 102: BluenoseLaunched
+Date: March 26, 1921
+Description: The schoonerBluenosewas launched at Lunenburg, Nova Scotia.
+--------------------------------------------------------------------------------
+Item 103: First Alberta Radio Broadcast
+Date: May 01, 1922
+Description: Radio station CJCA made its first broadcast in Edmonton, Alberta.
+--------------------------------------------------------------------------------
+Item 104: Postal Workers
+Date: February 05, 1925
+Description: Post office employees were brought under civil service regulations.
+--------------------------------------------------------------------------------
+Item 105: First Radio Drama
+Date: January 22, 1931
+Description: The first episode of "The Romance of Canada" was broadcast from Montréal; it was the first series of radio dramas produced in Canada.
+--------------------------------------------------------------------------------
+Item 106: CRBC (future CBC) Established
+Date: May 26, 1932
+Description: Parliament passed an Act establishing the publicly funded Canadian Radio Broadcasting Commission, the forerunner of the Canadian Broadcasting Corp of 1936. Before the CRBC almost all programs available to Canadians were from the US.
+--------------------------------------------------------------------------------
+Item 107: Honoré Mercier Bridge
+Date: June 22, 1934
+Description: The Honoré Mercier Bridge over the St Lawrence River was inaugurated. It united the city of LaSalle to the Caughnawaga Reserve (now Kahnawake).
+--------------------------------------------------------------------------------
+Item 108: CRBC Becomes CBC
+Date: November 02, 1936
+Description: The Canadian Broadcasting Corporation was created to replace the Canadian Radio Broadcasting Commission.
+--------------------------------------------------------------------------------
+Item 109: Globe and Mail Formed
+Date: November 18, 1936
+Description: The Toronto Globe purchased the Mail and Empire newspaper to form the Globe and Mail.
+--------------------------------------------------------------------------------
+Item 110: Dawn to Dusk Across Canada
+Date: July 30, 1937
+Description: C.D. Howe and H.J. Symington flew to Vancouver in the "Dawn to Dusk" cross-Canada flight to publicize the new service.
+--------------------------------------------------------------------------------
+Item 111: Trans-Canada Air Lines
+Date: September 01, 1937
+Description: The first regular flight of Trans-Canada Air Lines (now Air Canada) took place.
+--------------------------------------------------------------------------------
+Item 112: Lions Gate Bridge Opens
+Date: November 12, 1938
+Description: The Lions Gate Bridge in Vancouver was opened to pedestrian traffic. The first across was R.F. Hearns of West Vancouver.
+--------------------------------------------------------------------------------
+Item 113: First Transcontinental Airmail
+Date: March 01, 1939
+Description: Trans-Canada Air Lines (now Air Canada) began the first transcontinental airmail service.
+--------------------------------------------------------------------------------
+Item 114: First Transatlantic Air Service
+Date: June 27, 1939
+Description: The first transatlantic air service began with a Pan American flight between Botwood, Nfld, and Southampton, England.
+--------------------------------------------------------------------------------
+Item 115: CBC Introduces News Service
+Date: January 01, 1941
+Description: The CBC introduced its own national news service, with Lorne Greene as the first announcer.
+--------------------------------------------------------------------------------
+Item 116: Wartime Information Board
+Date: September 09, 1942
+Description: The Wartime Information Board was established to influence the public's interpretation of the war.
+--------------------------------------------------------------------------------
+Item 117: Alaska Highway Opens
+Date: November 20, 1942
+Description: The Alaska Highway, which winds across 2,451 km of mountain wilderness from Dawson Creek to Fairbanks, Alaska, was opened to military traffic.
+--------------------------------------------------------------------------------
+Item 118: BC Commits to Link with Alaska Highway
+Date: June 24, 1943
+Description: BC premier John Hart announced that the government had allocated $6 million to link
+Prince George with the Alaska Highway.
+--------------------------------------------------------------------------------
+Item 119: CBC Shortwave Radio Service
+Date: February 24, 1945
+Description: The CBC began its international shortwave radio service. The first broadcasts were directed mainly to Canadian forces overseas.
+--------------------------------------------------------------------------------
+Item 120: Halt to Canol Project
+Date: March 08, 1945
+Description: The United States announced that it was abandoning the $134 million Canol project, a pipeline to carry oil from Norman Wells to a Yellowknife refinery.
+--------------------------------------------------------------------------------
+Item 121: BluenoseSinks
+Date: January 31, 1946
+Description: The once-famous schoonerBluenosehit a reef and sank off the coast of Haiti. The crew of 8 men was rescued.
+--------------------------------------------------------------------------------
+Item 122: First Non-stop Trans-Canada Flight
+Date: January 15, 1949
+Description: A Canadair North Star aircraft from the Experimental and Proving Establishment based in Rockcliffe, Ontario, completed the first non-stop trans-Canada flight, from Vancouver to Halifax.
+--------------------------------------------------------------------------------
+Item 123: JetlinerFlies
+Date: August 10, 1949
+Description: The first commercial jet transport in North America, theJetliner, built by Avro Canada of Toronto, flew from an airport outside the city. Exceeding speeds of 800 km/h, theJetlineraroused interest in the US, particularly from Howard Hughes, and was one of the outstanding aeronautical achievements of its day. It never saw production, as the government concentrated efforts on the CF-100Canuck.
+--------------------------------------------------------------------------------
+Item 124: Family Rosary Hour
+Date: October 01, 1950
+Description: The Family Rosary Hour aired for the first time on CKAC radio, led by Cardinal Paul-Émile Léger. It aired every night at 7 pm following the 6:00 news. Over 65% of the population tuned in. Léger led the broadcast until 1967, when he left for Africa. The program continued until 1970.
+--------------------------------------------------------------------------------
+Item 125: St Lawrence Seaway Authority
+Date: December 12, 1951
+Description: The St Lawrence Seaway Authority was established.
+--------------------------------------------------------------------------------
+Item 126: Lethbridge Herald Building Completed
+Date: May 24, 1952
+Description: With the completion of construction of the Lethbridge Herald Building, the most modern newspaper facility in Western Canada opened, replacing the old facility that had stood for 42 years.
+--------------------------------------------------------------------------------
+Item 127: Children's Programs on Radio Canada
+Date: August 10, 1952
+Description: Radio-Canada began to air children's programs.
+--------------------------------------------------------------------------------
+Item 128: Canada's First TV Station
+Date: September 06, 1952
+Description: Canada's first television station, CBFT in Montréal, began transmitting. English-language CBLT in Toronto began operations September 8.
+--------------------------------------------------------------------------------
+Item 129: National Library Established
+Date: January 01, 1953
+Description: The National Library of Canada was established in Ottawa.
+--------------------------------------------------------------------------------
+Item 130: Freedom Road Completed
+Date: September 26, 1953
+Description: The Freedom Road (now Highway 20) linking the Bella Coola Valley to interior BC was completed.
+--------------------------------------------------------------------------------
+Item 131: Pipeline Completed
+Date: October 15, 1953
+Description: The Trans Mountain oil pipeline from Edmonton to Vancouver was completed.
+--------------------------------------------------------------------------------
+Item 132: CBUT Launched
+Date: December 16, 1953
+Description: Western Canada's first television station, CBC-owned and operated CBUT, was launched in a remodelled auto showroom on West Georgia Street in Vancouver.
+--------------------------------------------------------------------------------
+Item 133: First Pipeline Oil in Ontario
+Date: January 08, 1954
+Description: The first crude oil reached Sarnia, Ont, through the pipeline from Edmonton.
+--------------------------------------------------------------------------------
+Item 134: First Subway in Canada
+Date: March 30, 1954
+Description: The Yonge Street subway, the first subway line in Canada, was opened by the Toronto Transit Commission.
+--------------------------------------------------------------------------------
+Item 135: Seaway Groundbreaking
+Date: August 10, 1954
+Description: An international ceremony was held at Cornwall, Ont, and Massena, NY, for the groundbreaking for the St Lawrence Seaway.
+--------------------------------------------------------------------------------
+Item 136: Bridge Links Halifax and Dartmouth
+Date: April 02, 1955
+Description: The Angus L. Macdonald Bridge linking Halifax and Dartmouth opened.
+--------------------------------------------------------------------------------
+Item 137: Last Streetcar in Vancouver
+Date: April 24, 1955
+Description: The last streetcar ran in Vancouver, ending 65 years of street-rail service in the city.
+--------------------------------------------------------------------------------
+Item 138: Pipeline Debate
+Date: May 08, 1956
+Description: A bill to provide an $80 million loan to TransCanada PipeLines was introduced in the House of Commons. The government invoked closure at each stage of the Pipeline Debate, the first time it had been used in this way.
+--------------------------------------------------------------------------------
+Item 139: First Ship in the Seaway
+Date: November 22, 1957
+Description: The first ship passed through the Iroquois Lock, the first lock of the St Lawrence Seaway to be completed.
+--------------------------------------------------------------------------------
+Item 140: Orson Welles Interviewed
+Date: June 02, 1958
+Description: Journalist Judith Jasmin interviewed Orson Welles on Radio-Canada television.
+--------------------------------------------------------------------------------
+Item 141: BC Ferries Assume Passenger Service
+Date: July 18, 1958
+Description: Premier Bennett announced that the British Columbia Ferry Authority (BC Ferries) would assume passenger service from the islands to the mainland.
+--------------------------------------------------------------------------------
+Item 142: Canadian Content Rules
+Date: November 18, 1959
+Description: The Board of Broadcast Governors announced that television programs must have 45% Canadian content from 1 April 1961 and 55% from 1 April 1962.
+--------------------------------------------------------------------------------
+Item 143: This Hour Has Seven Days
+Date: October 04, 1964
+Description: The controversial CBC television public affairs programThis Hour Has Seven Dayswas first broadcast. It was discontinued after 8 May 1966.
+--------------------------------------------------------------------------------
+Item 144: Air Canada Named
+Date: January 01, 1965
+Description: The name of Trans-Canada Airlines was changed by Act of Parliament to Air Canada.
+--------------------------------------------------------------------------------
+Item 145: Fowler Report Released
+Date: September 09, 1965
+Description: The Fowler Report on Canadian broadcasting recommended more Canadian content and the creation of an independent authority to replace the Board of Broadcast Governors of 1958.
+--------------------------------------------------------------------------------
+Item 146: Electrical Blackout
+Date: November 09, 1965
+Description: The failure of a relay device of Ontario Hydro's Queenston generating station triggered a massive power failure extending from the Atlantic coast of the US to Chicago, and from Florida to southern Ontario, lasting up to 12 hours.
+--------------------------------------------------------------------------------
+Item 147: CBC's First Colour TV
+Date: September 01, 1966
+Description: Colour television broadcasting was inaugurated by the CBC.
+--------------------------------------------------------------------------------
+Item 148: National Library Opens
+Date: June 20, 1967
+Description: PM Pearson opened the National Library and Archives Building in Ottawa.
+--------------------------------------------------------------------------------
+Item 149: National Museum of Science
+Date: November 16, 1967
+Description: The National Museum of Science and Technology opened to the public in Ottawa.
+--------------------------------------------------------------------------------
+Item 150: Death of Carl Agar
+Date: January 27, 1968
+Description: Carl Agar, who pioneered techniques for flying helicopters in mountainous terrain, died at Victoria.
+--------------------------------------------------------------------------------
+Item 151: Radio Québec Formed
+Date: February 22, 1968
+Description: Radio Québec was created by the Government of Quebec.
+--------------------------------------------------------------------------------
+Item 152: CRTC Formed
+Date: April 01, 1968
+Description: The Canadian Radio-television and Telecommunications Commission was formed under the Broadcasting Act.
+--------------------------------------------------------------------------------
+Item 153: Telesat Canada Formed
+Date: May 02, 1969
+Description: The federal government and Trans-Canada Telephone Systems concluded an agreement to form Telesat Canada, for the development of communications satellites.
+--------------------------------------------------------------------------------
+Item 154: Alberta Resources Railway
+Date: May 28, 1969
+Description: Alberta premier Harry Strom opened the Alberta Resources Railway, a 378 km line from Grande Prairie north to Solomon.
+--------------------------------------------------------------------------------
+Item 155: Manhattanin the Canadian Arctic
+Date: August 24, 1969
+Description: The US oil tankerManhattanleft Chester, Penn, on a trial voyage through the Northwest Passage. With the assistance of the Canadian icebreaker CCGSJohn A. Macdonald, theManhattanreached Sachs Harbour, NWT, on September 15.
+--------------------------------------------------------------------------------
+Item 156: CRTC Introduces Content Rules
+Date: May 22, 1970
+Description: The Canadian Radio-television and Telecommunications Commission (CRTC) announced the introduction of 50% Canadian program content requirements for radio and television, effective in September 1970 for the CBC and September 1971 for the private sector.
+--------------------------------------------------------------------------------
+Item 157: First Deep-water Terminal
+Date: September 09, 1970
+Description: North America's first deep-water terminal for supertankers officially opened, at Mispec Point, New Brunswick, near Saint John.
+--------------------------------------------------------------------------------
+Item 158: Ontario Place Opens
+Date: May 22, 1971
+Description: Ontario Place opened on the Toronto lakeshore.
+--------------------------------------------------------------------------------
+Item 159: Spadina Expressway Cancelled
+Date: June 03, 1971
+Description: The Ontario government halted construction of the Spadina Expressway due to intense public opposition to the project.
+--------------------------------------------------------------------------------
+Item 160: Bluenose IIPresented
+Date: July 29, 1971
+Description: The Oland family presented theBluenose IIto the province of Nova Scotia as a floating maritime museum.
+--------------------------------------------------------------------------------
+Item 161: Toronto Sun Published
+Date: November 01, 1971
+Description: The Toronto Sun newspaper began publication.
+--------------------------------------------------------------------------------
+Item 162: Subway Trains Collide
+Date: December 03, 1971
+Description: Two Montréal subway trains collided, killing one person and destroying 36 subway cars.
+--------------------------------------------------------------------------------
+Item 163: Cigarette Advertising Ends
+Date: January 01, 1972
+Description: Cigarette manufacturers ceased to broadcast advertising.
+--------------------------------------------------------------------------------
+Item 164: CRTC Grants Licence to Global
+Date: July 21, 1972
+Description: The CRTC granted a licence to Global to operate a TV network in southern Ontario.
+--------------------------------------------------------------------------------
+Item 165: Anik A-1 Launched
+Date: November 09, 1972
+Description: Canada launched the world's first geostationary domestic satellite, Anik A-1
+--------------------------------------------------------------------------------
+Item 166: CN Tower Begins Construction
+Date: February 06, 1973
+Description: Construction began on the CN Tower.
+--------------------------------------------------------------------------------
+Item 167: Data-route in Operation
+Date: February 19, 1973
+Description: Trans-Canada Telephone System inaugurated Data-route, the world's first national digital system in commercial operation.
+--------------------------------------------------------------------------------
+Item 168: Anik A-2 Launched
+Date: April 20, 1973
+Description: The telecommunications satellite Anik A-2 was launched from Cape Canaveral, Fla. With its launch, Canada became the first country in the world to employ satellites for domestic communications.
+--------------------------------------------------------------------------------
+Item 169: Marshall McLuhan Appointed
+Date: June 01, 1973
+Description: Marshall McLuhan was appointed to the Papal Commission for Social Communication.
+--------------------------------------------------------------------------------
+Item 170: Global TV On Air
+Date: January 06, 1974
+Description: Global TV aired its first broadcast.
+--------------------------------------------------------------------------------
+Item 171: Foreign-owned Magazine Tax
+Date: January 23, 1975
+Description: The government announced plans to end tax concessions to Canadian companies advertising in Canadian editions of foreign-owned magazines.
+--------------------------------------------------------------------------------
+Item 172: Mackenzie Valley Pipeline
+Date: March 03, 1975
+Description: Justice Thomas Berger opened hearings in the Mackenzie Valley Pipeline Inquiry.
+--------------------------------------------------------------------------------
+Item 173: CN Tower Complete
+Date: April 02, 1975
+Description: The last section of the CN Tower, the world's highest free-standing structure at the time, was put in place.
+--------------------------------------------------------------------------------
+Item 174: Anik A-3 Launched
+Date: May 01, 1975
+Description: Communications satellite Anik A-3 was launched.
+--------------------------------------------------------------------------------
+Item 175: Pipeline Extension
+Date: May 20, 1975
+Description: Inter-provincial Pipelines Ltd received approval to extend its pipeline from Sarnia to Montréal.
+--------------------------------------------------------------------------------
+Item 176: Mirabel Airport Opens
+Date: October 04, 1975
+Description: Mirabel airport in Montréal opened.
+--------------------------------------------------------------------------------
+Item 177: Last Canadian Edition ofTime
+Date: March 02, 1976
+Description: The last Canadian edition ofTimemagazine was published.
+--------------------------------------------------------------------------------
+Item 178: CRTC Given Regulatory Power
+Date: April 01, 1976
+Description: The CRTC was given regulatory power over telecommunications.
+--------------------------------------------------------------------------------
+Item 179: Pilots and Air-traffic Strike
+Date: June 20, 1976
+Description: Pilots and air-traffic controllers went on strike over bilingualism at Québec airports.
+--------------------------------------------------------------------------------
+Item 180: CN Tower Opens
+Date: June 25, 1976
+Description: The CN Tower, at 553 m the world's tallest free-standing structure at that time, was officially opened.
+--------------------------------------------------------------------------------
+Item 181: Via Rail Established
+Date: February 28, 1977
+Description: The federal government established Via Rail.
+--------------------------------------------------------------------------------
+Item 182: Dempster Highway Opens
+Date: August 18, 1979
+Description: The Dempster Highway officially opened in Flat Creek, Yukon.The first all-weather road to cross the Arctic Circle took 20 years to build and required the assistance of the Canadian Forces.
+--------------------------------------------------------------------------------
+Item 183: Globe's Satellite Edition
+Date: October 23, 1980
+Description: The Globe and Mail printed its new national edition using satellite communications, the first Canadian newspaper to do this.
+--------------------------------------------------------------------------------
+Item 184: Death of Marshall McLuhan
+Date: December 31, 1980
+Description: Marshall McLuhan, the communications philosopher, died.
+--------------------------------------------------------------------------------
+Item 185: Anik-D Launched
+Date: August 16, 1982
+Description: Anik D-1 was launched, replacing the aging Anik A and B satellites. Anik D-1 was the first commercial satellite built by a Canadian prime contractor, Spar Aerospace Limited.
+--------------------------------------------------------------------------------
+Item 186: TurboTrain Makes Last Run
+Date: October 31, 1982
+Description: TheTurboTrainwas an early, high-speed passenger train that made its final run in 1982. Meant to revolutionize travel, it ran from 1968 to 1982 on theMontreal–Torontoroute. It suffered from technical problems and declining interest from travellers in its first years of service, which led to it being replaced byBombardier’s LRC.
+--------------------------------------------------------------------------------
+Item 187: Fuel-less Boeing Glides to Gimli
+Date: June 23, 1983
+Description: A Boeing 767 ran out of fuel and was guided by its pilot, with luck and skill, to a safe landing at Gimli, Manitoba.
+--------------------------------------------------------------------------------
+Item 188: Expo 86 Opens
+Date: May 02, 1986
+Description: Expo 86 at Vancouver, BC, was opened by the Prince and Princess of Wales. It ran to 13 October 1986 and had 20 million visitors.
+--------------------------------------------------------------------------------
+Item 189: Vancouver's Expo 86 Closes
+Date: October 13, 1986
+Description: Vancouver's Expo 86 closed.
+--------------------------------------------------------------------------------
+Item 190: Canadian's Final Trip
+Date: January 14, 1990
+Description: Via Rail's premier transcontinental passenger train, theCanadian, began its final trip across Canada before massive cuts to Via Rail service took effect on the 15th.
+--------------------------------------------------------------------------------
+Item 191: Rogers Withdraws Scheme
+Date: January 05, 1995
+Description: Rogers Cablesystems withdrew a proposed new fee system for its service packages following consumer protests.
+--------------------------------------------------------------------------------
+Item 192: Beatty Heads CBC
+Date: March 31, 1995
+Description: Perrin Beatty was appointed president and chief executive of the CBC, accepting a mandate to absorb a 25% cut in the corporation's funding.
+--------------------------------------------------------------------------------
+Item 193: Front Page ChallengeDropped
+Date: April 13, 1995
+Description: The CBC announced that it was dropping the programFront Page Challenge, which had been on the air since 1957.
+--------------------------------------------------------------------------------
+Item 194: Satellite-to-home Television
+Date: April 26, 1995
+Description: The federal government introduced a bill instructing the CRTC to begin licensing satellite-to-home television services.
+--------------------------------------------------------------------------------
+Item 195: Thomson Sells Newspapers
+Date: July 27, 1995
+Description: The Thomson Corporation announced that it had agreed to sell 19 newspapers to Conrad Black's Hollinger Inc.
+--------------------------------------------------------------------------------
+Item 196: Magazine Bill Passed
+Date: November 03, 1995
+Description: The House of Commons passed a bill designed to prevent foreign magazines from publishing "split-run" regional editions in Canada. The bill passed the Senate on December 14.
+--------------------------------------------------------------------------------
+Item 197: Thomson Sells Last British Paper
+Date: November 03, 1995
+Description: Thomson Corp announced the sale of the last of its British newspaper holdings. It had owned 66 newspapers at the beginning of 1995.
+--------------------------------------------------------------------------------
+Item 198: CBC Drops American TV Shows
+Date: November 23, 1995
+Description: The CBC announced that it would drop all American-produced television programs from its prime-time schedule.
+--------------------------------------------------------------------------------
+Item 199: CNR Goes Public
+Date: November 28, 1995
+Description: The Canadian government announced a stock offering of the publicly owned CNR. The issue earned $2.6 billion.
+--------------------------------------------------------------------------------
+Item 200: Mr Dressup Quits
+Date: February 14, 1996
+Description: Ernie Coombs did his last show as Mr Dressup, after 31 years on the air.
+--------------------------------------------------------------------------------
+Item 201: CRTC Demands Violence Rating
+Date: March 14, 1996
+Description: The CRTC ruled that television broadcasters must devise a system to rate the levels of violence in programs.
+--------------------------------------------------------------------------------
+Item 202: Hollinger Takes over Southam
+Date: May 24, 1996
+Description: Conrad Black's Hollinger Inc increased its holdings in Southam Inc, publisher of 20 Canadian newspapers, to 41%.
+--------------------------------------------------------------------------------
+Item 203: Internet Use Survey
+Date: July 23, 1996
+Description: A research company in Toronto reported the results of a survey showing that 29% of Canadian adults have used the Internet.
+--------------------------------------------------------------------------------
+Item 204: Coach House Press Closes
+Date: July 25, 1996
+Description: The literary publisher Coach House Press of Toronto announced that it would cease operations as a result of cuts by the Conservative government of Mike Harris. It reopened in 1997 with a new focus on electronic editions.
+--------------------------------------------------------------------------------
+Item 205: New Cable Licenses
+Date: September 04, 1996
+Description: The CRTC announced the award of broadcast licences for 23 new channels, including a new History and Entertainment Network. CHUM Ltd of Toronto received 6 licences.
+--------------------------------------------------------------------------------
+Item 206: Canadian Information Office
+Date: September 16, 1996
+Description: Heritage Minister Sheila Copps opened the Canadian Information Office, a new national unity agency.
+--------------------------------------------------------------------------------
+Item 207: New Bombardier Jet Flies
+Date: October 13, 1996
+Description: Bombardier's new Global express business jet made its first test flight.
+--------------------------------------------------------------------------------
+Item 208: Canada Loses Magazine Dispute
+Date: January 16, 1997
+Description: The World Trade Organization panel rejected Canada's excise tax on "split run" publications, American magazines with Canadian advertising.
+--------------------------------------------------------------------------------
+Item 209: CRTC Lifts Ban
+Date: May 01, 1997
+Description: The CRTC announced that it was lifting its ban on local telephone service competition, effective 1 January 1998.
+--------------------------------------------------------------------------------
+Item 210: CRTC Rating System
+Date: June 18, 1997
+Description: The CRTC approved a new television rating system grading programs in 6 categories from those appropriate to children (C) to those for adults only (18+).
+--------------------------------------------------------------------------------
+Item 211: CN Buys US Railway Company
+Date: February 10, 1998
+Description: Canadian National announced plans to acquire US rail company Illinois Central Corp for $2.4 billion, making CN the 5th largest railway company in North America with 30 000 km of track.
+--------------------------------------------------------------------------------
+Item 212: Canadian Singers Clean Up at Grammys
+Date: February 24, 1999
+Description: Three Canadian singers won major Grammy Awards: Céline Dion (Best Female Pop Vocal Performance, Record of the Year), Alanis Morissette (Best Female Rock Vocal Performance, Best Rock Song) and Shania Twain (Best Female Country Vocal Performance,Best Country Song).
+--------------------------------------------------------------------------------
+Item 213: Magazine Agreement
+Date: June 04, 1999
+Description: Canada and the US signed an agreement in which US magazines issuing Canadian editions would be allowed to sell a restricted amount of advertising to Canadian advertisers. The agreement staved off a trade war.
+--------------------------------------------------------------------------------
+Item 214: Bell Buys BCE
+Date: August 05, 1999
+Description: Bell Canada announced that it would buy the remaining 35% stake in BCE Mobile Communications Inc.
+--------------------------------------------------------------------------------
+Item 215: Air Canada Takes Over Canadian
+Date: December 21, 1999
+Description: The federal government approved Air Canada's plan to take over struggling Canadian Airlines International.
+--------------------------------------------------------------------------------
+Item 216: CBC Rejects CRTC Order
+Date: January 06, 2000
+Description: The CRTC ordered the CBC to stop airing foreign films in prime time and to cut sports programs by 20% while devoting more time to cultural programming. The CBC refused.
+--------------------------------------------------------------------------------
+Item 217: BC Ferries' Collide
+Date: February 06, 2000
+Description: A high-speed catamaran,The Royal Vancouver, collided with the BC Ferries'Queen of Saanichin the fog in Active Pass, injuring 23 catamaran passengers.
+--------------------------------------------------------------------------------
+Item 218: Rogers Buys Vidéotron
+Date: February 07, 2000
+Description: Rogers Communications announced plans to acquire Groupe Vidéotron Ltée in a $6 billion stock deal. The merger linked the 2 companies' cable and fibre optic networks.
+--------------------------------------------------------------------------------
+Item 219: BC Film Revenues Hit Peak
+Date: February 08, 2000
+Description: The BC government announced that the province's film and television industry earned more than $1 billion in 1999, ranking the province third in North America after Los Angeles and New York.
+--------------------------------------------------------------------------------
+Item 220: Thomson to Sell Newspapers
+Date: February 15, 2000
+Description: Thomson Corp announced that it had put all but one of its 130 newspapers up for sale in order to move the company to electronic content.
+--------------------------------------------------------------------------------
+Item 221: Black Sells Newspapers to CanWest
+Date: July 31, 2000
+Description: Hollinger CEO Conrad Black announced plans to sell most of his Canadian newspapers to CanWest Global in a $3.5 billion deal.
+--------------------------------------------------------------------------------
+Item 222: BC Ferry Collides with Powerboat
+Date: September 14, 2000
+Description: BC Ferries'Spirit of Vancouver Islandcollided with a powerboat near the Swartz Bay ferry terminal at Victoria, killing two in the powerboat.
+--------------------------------------------------------------------------------
+Item 223: Black SellsNational Post
+Date: August 24, 2001
+Description: Conrad Black announced plans to sell the ailingNational Postnewspaper to CanWest Global.
+--------------------------------------------------------------------------------
+Item 224: BC Ferry Sinks
+Date: March 22, 2006
+Description: BC Ferries'Queen of the Northhit a rock near Gil Island and sank while traveling south from Prince Rupert. Two of the 101 passengers were never found.
+--------------------------------------------------------------------------------
+Item 225: BC Ferries Report
+Date: June 05, 2006
+Description: The Transportation Safety Board declared that human error caused BC Ferries'Queen of 
+the Northto sink on 22 March 2006, killing 2.
+--------------------------------------------------------------------------------
+Item 226: RIM Execs Resign
+Date: January 22, 2012
+Description: Mike Lazaridis and Jim Balsillie, co-chief executives of Research in Motion, stepped down as heads of the technology company after months of pressure from shareholders.
+--------------------------------------------------------------------------------
+Item 227: Last Major Business Deal in Canadian Print?
+Date: October 06, 2014
+Description: Postmedia announced its purchase of175 English-language publications fromQuebecor Media Inc., including the Sun chain of dailies, for $316 million. Reporting on the deal,Maclean'sspeculated that it was "likely the last-ever blockbuster deal in Canadian print."
+--------------------------------------------------------------------------------
+Item 228: Greyhound Ends Bus Service in Canada
+Date: May 13, 2021
+Description: Embed from Getty ImagesAfter shutting down its services in Western Canada in 2018 and suffering a year without revenue due to the COVID-19pandemic, Greyhound Canada permanently ceased operations after
+	almost 100 years in business. The company’s American affiliate said that it would continue to operate cross-border bus routes to and from the US.
+--------------------------------------------------------------------------------

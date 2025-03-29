@@ -1,0 +1,163 @@
+Item 1: Mi’kmaq Grand Council
+Date: January 01, 1400
+Description: Made up of male representatives from acrossMi’kmaqterritory, the council is governed by a grand chief and rules by consensus. The role of chieftain is often handed down from father to son. (Note: The exact date of this event is unknown. The date provided here is an estimate.)
+--------------------------------------------------------------------------------
+Item 2: Blackfoot Confederacy
+Date: January 01, 1400
+Description: A confederacy ofSiksika (Blackfoot)nations is organized aroundbands. Each band has a male leader responsible for decision-making. He governs by consensus. (Note: The exact date of this event is unknown. The date provided here is an estimate.)
+--------------------------------------------------------------------------------
+Item 3: The Haudenosaunee (Iroquois) Confederacy is Active
+Date: January 01, 1500
+Description: Formed by five nations, theHaudenosaunee Confederacyis considered one of the earliest examples of a participatory democracy. (Note: The exact date of this event is unknown. The date provided here is an estimate.)
+--------------------------------------------------------------------------------
+Item 4: Huron-Wendat Village Councils
+Date: January 01, 1500
+Description: Civil and war-related affairs among theHuron-Wendatare determined by respective village councils. Decisions are reached by consensus. All men over 30 are council members but women have little-to-no say in council affairs. (Note: The exact date of this event is unknown. The date provided here is an estimate.)
+--------------------------------------------------------------------------------
+Item 5: First Civil Election in New France
+Date: July 21, 1647
+Description: Residents ofQuebec City,MontrealandTrois-Rivièreselectsyndics, or trustees, to a colonial council responsible to thegouverneur. Syndics act as liaisons between residents and the council. However, they have no power to affect policy because the colonies are ruled by amonarchy.
+--------------------------------------------------------------------------------
+Item 6: Meeting of the First Elected Legislative Assembly
+Date: October 02, 1758
+Description: At the first elected legislative assembly in what is nowNova Scotia, only property-owningProtestantmen over the age of 21 are eligible to vote. (See alsoNova Scotia: The Cradle of Canadian Parliamentary Democracy.)
+--------------------------------------------------------------------------------
+Item 7: First Elections in Lower Canada
+Date: June 11, 1792
+Description: The first elections are held inLower Canada. Anyone over 21 who owns sufficient property can vote, including women.
+--------------------------------------------------------------------------------
+Item 8: Abolition of Slavery Act
+Date: August 01, 1834
+Description: Blackpeople are now consideredBritish subjects, paving the way for property-owning
+	Black men to vote. Butracismanddiscriminationat polling stations mean many do not
+	cast their ballots. (SeeSlavery Abolition Act, 1833.)
+--------------------------------------------------------------------------------
+Item 9: Women’s Voting Rights Removed in the Province of Canada
+Date: May 01, 1849
+Description: Legislation barring women from voting is passed by theProvince of Canadaand becomes law.
+--------------------------------------------------------------------------------
+Item 10: Gradual Civilization Act Passed in the Province of Canada
+Date: January 01, 1857
+Description: The government attempts to assimilateFirst Nationsmen by offering them theright to voteif they voluntarily enfranchise. This means giving up rights, includingtreatyrights. Only one person elects to do so under this Act.(See alsoIndigenous Peoples in Canadian Law.)
+--------------------------------------------------------------------------------
+Item 11: First Election Post-Confederation
+Date: September 20, 1867
+Description: Sir John A. Macdonaldleads theConservative Partyto victory. Men over the age of 21 who meet property qualifications can vote.
+--------------------------------------------------------------------------------
+Item 12: Chinese Canadians Banned from Voting in BC
+Date: May 01, 1872
+Description: TheBritish Columbialegislative assembly passes a law banningChinese Canadiansfrom voting. Previously, Chinese Canadian men could vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 13: Indian Act
+Date: April 12, 1876
+Description: TheIndian Actis introduced. The Act aims to eradicate First Nations culture in favour of assimilation into Euro-Canadian society.The Act also reinforces thatStatus
+Indiansmust voluntarily give up status and treaty
+rights to vote federally. Status Indian women are barred from voting inbandcouncil elections.
+--------------------------------------------------------------------------------
+Item 14: Electoral Franchise Act
+Date: January 01, 1885
+Description: The original draft of the Act gave federal voting rights to some women, but under the final legislation, only men can vote. The Act gives someReserveFirst Nationswith property qualifications the right to vote, but bars Chinese Canadians.
+--------------------------------------------------------------------------------
+Item 15: Japanese Canadians Lose the Right to Vote in BC
+Date: January 01, 1895
+Description: British Columbia amends theProvincial Voters’ Actto remove the right to vote fromJapanese Canadians.
+--------------------------------------------------------------------------------
+Item 16: Federal Government Returns Determination of Voters to Provinces
+Date: June 13, 1898
+Description: Provinces are given the right to decide who can vote in provincial elections. Some excludeChinese Canadiansfrom voting provincially. However, federal legislation allows Chinese Canadians to vote in federal elections.
+--------------------------------------------------------------------------------
+Item 17: BC Provincial Elections Act Amendment Act, 1907
+Date: January 01, 1907
+Description: British Columbia removes voting rights from anyone with origins inSouth Asia.
+--------------------------------------------------------------------------------
+Item 18: Manitoba Women Win Right to Vote
+Date: January 28, 1916
+Description: Women in Manitoba who are of British descent or citizenship, 21 or older, and not otherwise disqualified are given the right to vote provincially and to hold provincial office. Other provinces soon follow and grant women the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 19: Wartime Elections Act and Military Voters Act
+Date: September 20, 1917
+Description: Parliament passes theWartime Elections Act.The right to vote federally now extends to
+women in thearmed
+forcesand female relatives of military men. However,
+Citizens considered of “enemy alien” birth and somepacifistcommunities are disenfranchised.
+--------------------------------------------------------------------------------
+Item 20: Women Granted Right to Vote in Federal Elections
+Date: May 24, 1918
+Description: Many Canadian women are granted the right to vote in federal elections, butFirst Nationswomen can only vote if they give up theirstatusandtreatyrights.
+--------------------------------------------------------------------------------
+Item 21: Dominion Elections Act
+Date: July 01, 1920
+Description: TheDominion Elections Actenfranchised many of those who had been disenfranchised during the First World War, such as those originating from countries with which Canada had been at war. However, theActstated that anyone who was disenfranchised by provincial legislation because of race would remain disenfranchised from the federal vote. This included persons of Chinese origin in Saskatchewan, and those of Indigenous, Chinese, Japanese, and South Asian origins in British Columbia.
+--------------------------------------------------------------------------------
+Item 22: Status Indian WWI Veterans Granted Right to Vote
+Date: January 01, 1924
+Description: Male Status Indian veterans of the First World War gain the right to vote in federal elections without losing their status and treaty rights.
+--------------------------------------------------------------------------------
+Item 23: Japanese-Canadian WWI Veterans in BC Granted Right to Vote
+Date: January 01, 1931
+Description: Veterans of theFirst World WarinBritish Columbiabecome the firstJapanese Canadiansgranted the right to vote in federal or provincial elections.
+--------------------------------------------------------------------------------
+Item 24: Dominion Franchise Act
+Date: January 01, 1934
+Description: InuitandFirst Nationspersons living onreservesare disqualified from voting in federal elections, except for First Nations veterans who had previously received the vote.
+--------------------------------------------------------------------------------
+Item 25: Status Indian WWII Veterans Granted Right to Vote
+Date: January 01, 1944
+Description: Status Indianveterans who served in theSecond World Warand their spouses are permitted to vote in federal elections without losing status, with some conditions.
+--------------------------------------------------------------------------------
+Item 26: Canadian Citizenship Act and repeal of Chinese Immigration Act
+Date: January 01, 1947
+Description: Changes to federal legislation allowChineseandSouth AsianCanadians to vote. However, it isn’t until 1951 that the final restrictions are lifted in provincial elections Canada-wide.
+--------------------------------------------------------------------------------
+Item 27: Amendments to Dominion Elections Act
+Date: January 01, 1948
+Description: Race is no longer grounds for exclusion from voting in federal elections. However,Status Indiansstill have to give up their Status in order to vote.
+--------------------------------------------------------------------------------
+Item 28: Japanese Canadians Win Right to Vote in BC
+Date: January 01, 1949
+Description: The last restriction on Japanese Canadians’ voting rights is lifted when British Columbia grants them the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 29: First Nations Win Right to Vote Provincially
+Date: January 01, 1949
+Description: Except inNova ScotiaandNewfoundland,Status Indianshad been barred from voting provincially. Beginning with British Columbia in 1949 and ending with Quebec in 1969, First Nations peoples gradually win the right to vote in provincial elections without losing status or treaty rights.
+--------------------------------------------------------------------------------
+Item 30: Inuit Granted Right to Vote
+Date: January 01, 1950
+Description: Inuitare granted the right to vote in federal elections, but the isolation of several communities means many cannot access polling stations. Later reforms increase access to ballot boxes.
+--------------------------------------------------------------------------------
+Item 31: First Nations Women Granted Right to Vote in Band Council Elections
+Date: January 01, 1951
+Description: Changes to theIndian ActgrantFirst Nationswomen the right to vote inbandcouncil elections.
+--------------------------------------------------------------------------------
+Item 32: First Nations Can Now Vote in Federal Elections
+Date: July 01, 1960
+Description: First Nations peoples receive the right to vote in federal elections while retaining theirstatusandtreatyrights. However, they are still excluded from voting in some provinces.
+--------------------------------------------------------------------------------
+Item 33: Official Languages Act (1969)
+Date: July 09, 1969
+Description: TheOfficial Languages Actwas given assent, to come into effect on September 7. It declared English and French the official languages of the federal administration. Federal government services — including all services related to federal elections — must now be available in both French and English. (SeeOfficial Languages Act, 1969.)
+--------------------------------------------------------------------------------
+Item 34: Voting Age is Lowered to 18
+Date: January 01, 1970
+Description: Parliamentpasses legislation lowering the federal voting age from 21 to 18. This adds two million Canadians to the electoral rolls.
+--------------------------------------------------------------------------------
+Item 35: Canadian Charter of Rights and Freedoms
+Date: April 17, 1982
+Description: TheCanadian Charter of Rights and Freedomsaffirms the right of every Canadian citizen 18 and older to vote and to stand as a candidate.
+--------------------------------------------------------------------------------
+Item 36: People with Intellectual Disabilities Granted Right to Vote
+Date: January 01, 1988
+Description: People with intellectual disabilities are granted the right to vote after a successful Charter challenge.
+--------------------------------------------------------------------------------
+Item 37: Bill C-78
+Date: January 01, 1992
+Description: Bill C-78 passes, changing the voting andelectoral processesto make them more accessible to people withdisabilities.
+--------------------------------------------------------------------------------
+Item 38: All Prisoners Granted Right to Vote
+Date: October 31, 2002
+Description: InSauvé v Canada, theSupreme Court of Canadaholds that, under theCharter of Rights and Freedoms, all prisoners have the right to vote.
+--------------------------------------------------------------------------------
+Item 39: Supreme Court Guarantees Expat Voting Rights
+Date: January 11, 2019
+Description: In a 5–2 decision, theSupreme Courtruled that expat Canadians can vote infederal electionsregardless of how long they’ve lived outside the country. The ruling, which came a month after theLiberalgovernment passed similar legislation, reversed a 1993 law and will likely prevent any future legislation from infringing on expatvoting rights.
+--------------------------------------------------------------------------------

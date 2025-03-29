@@ -1,0 +1,137 @@
+Item 1: Birth of Wilfrid Laurier
+Date: November 20, 1841
+Description: Prime minister Sir Wilfrid Laurier, who was the first French Canadian prime minister and who held the longest unbroken tenure as PM, was born at St-Lin, Canada East.
+--------------------------------------------------------------------------------
+Item 2: Canada Comes Into Existence
+Date: July 01, 1867
+Description: The Dominion of Canada came into existence, consisting of Ontario, Québec, Nova Scotia and New Brunswick.
+--------------------------------------------------------------------------------
+Item 3: Wilfrid Laurier Marries
+Date: May 13, 1868
+Description: Wilfrid Lauriermarried Zoé Lafontaine in Montréal. The marriage was almost not to be. Laurier left Montréal for health reasons, thinking he had tuberculosis. Lafontaine began to see another man, planning to marry him. Laurier returned, learned he was not tubercular and rushed to see Lafontaine. They married that night.
+--------------------------------------------------------------------------------
+Item 4: Louis Riel Hanged
+Date: November 16, 1885
+Description: Louis Rielwas hanged for treason at the Regina jail. He had been convicted after a trial held in Regina from 28 July to 1 August. Macdonald's refusal to grant leniency made Riel a symbol of English-Canadian oppression.
+--------------------------------------------------------------------------------
+Item 5: Laurier Chosen Leader
+Date: June 07, 1887
+Description: Wilfrid Laurier was chosen leader of the Liberal opposition in Parliament, succeeding Edward Blake.
+--------------------------------------------------------------------------------
+Item 6: Liberal Victory, Laurier PM
+Date: June 23, 1896
+Description: In the federal election, the Liberals defeated the Conservatives with 118 seats to 88. Wilfrid Laurier became Canada's first French-Canadian prime minister and marked a turning point in Canadian politics after years of Conservative Party rule.
+--------------------------------------------------------------------------------
+Item 7: Bourassa Resigns
+Date: October 18, 1899
+Description: Henri Bourassa resigned his seat in Parliament to protest Canada's involvement in a British colonial war (the South African War).
+--------------------------------------------------------------------------------
+Item 8: First Canadians to South Africa
+Date: October 30, 1899
+Description: The first Canadian troops (2nd Battalion, Royal Canadian Regiment, with 57 officers and 1224 men commanded by W.D. Otter) set sail from Québec for South Africa.
+--------------------------------------------------------------------------------
+Item 9: More Canadians to South Africa
+Date: January 21, 1900
+Description: A second contingent of Canadian troops sailed for South Africa to fight in the Boer War.
+--------------------------------------------------------------------------------
+Item 10: Liberals Hold Power 1900
+Date: November 07, 1900
+Description: In the federal election, the Liberals were sustained in power, with 132 seats to the Conservatives' 81. Laurier remained prime minister.
+--------------------------------------------------------------------------------
+Item 11: Duke and Duchess Visit Québec
+Date: September 16, 1901
+Description: The Duke and Duchess of York visited Québec City and were welcomed by Prime Minister Wilfrid Laurier and Québec Premier Simon-Napoléon Parent.
+--------------------------------------------------------------------------------
+Item 12: First Victoria Day
+Date: May 24, 1902
+Description: The first Victoria Day was observed throughout Canada. PM Wilfrid Laurier designated the holiday to fall on the birthday of Queen Victoria.
+--------------------------------------------------------------------------------
+Item 13: South African War Ends
+Date: May 31, 1902
+Description: The Boer War between Britain and the Boer states ended with the treaty signed at the South African town of Vereeniging.
+--------------------------------------------------------------------------------
+Item 14: Ministerial Conference
+Date: December 18, 1902
+Description: Prime Minister Wilfrid Laurier arrived at Québec City to attend a ministerial conference. Premier and city mayor Simon Napoléon-Parent was particularly interested in addressing the matter of trans-Canadian railways.
+--------------------------------------------------------------------------------
+Item 15: Alaska Boundary Dispute
+Date: October 20, 1903
+Description: Settlement of the Alaska-Canada boundary dispute established the Alaska-Canada border as it is today. The border denied Canada access to the sea in both northern BC and the Yukon.
+--------------------------------------------------------------------------------
+Item 16: Liberals Retain Power 1904
+Date: November 03, 1904
+Description: In a federal election, the Liberals maintained power, with 139 seats to the Conservatives' 75. Laurier remained prime minister.
+--------------------------------------------------------------------------------
+Item 17: Dominion Act
+Date: July 18, 1905
+Description: The Dominion Act created the provinces of Alberta and Saskatchewan, effective September 1. Regina and Edmonton, respectively, became the capitals on July 20.
+--------------------------------------------------------------------------------
+Item 18: Alberta and Saskatchewan Become Provinces
+Date: September 01, 1905
+Description: Alberta and Saskatchewan entered Canada as the 8th and 9th provinces by two federal Acts which received royal assent on 20 July.Alberta's boundary with Saskatchewan was set at 110°, though Albertans wanted 107°.The Acts (Autonomy Bills) declared that the West was to have non-denominational schools.
+--------------------------------------------------------------------------------
+Item 19: Canadian Northern Completed
+Date: November 24, 1905
+Description: The Canadian Northern Railway was completed to Edmonton.
+--------------------------------------------------------------------------------
+Item 20: Grand Trunk Pacific Railway Begun
+Date: May 17, 1906
+Description: Construction on the Grand Trunk Pacific Railway began at Prince Rupert with the 
+construction of a tool shed and the erection of tents as accommodation.
+--------------------------------------------------------------------------------
+Item 21: Liberals Retain Power 1908
+Date: October 26, 1908
+Description: In a federal election, the Liberals remained in power with 133 seats to the Conservatives' 75. Laurier remained prime minister.
+--------------------------------------------------------------------------------
+Item 22: Naval Service Act
+Date: May 04, 1910
+Description: The Canadian Navy began as the Canadian Naval Service when the Naval Service Act was passed. Canada has sent over 850 warships to sea since its creation.
+--------------------------------------------------------------------------------
+Item 23: Vancouver Exhibition Opens
+Date: August 15, 1910
+Description: The Vancouver Exhibition (now Pacific National Exhibition) opened to the public for the first time. PM Wilfrid Laurier presided over the official opening on August 16.
+--------------------------------------------------------------------------------
+Item 24: Conservatives Back in Power
+Date: September 21, 1911
+Description: In a federal election, the Conservatives under Robert Borden's leadership returned to power, winning 133 seats to the Liberals' 86. Laurier's Liberals had been in power since 1896. The election was a defeat for the Liberals' policy of free trade.
+--------------------------------------------------------------------------------
+Item 25: Borden Becomes Prime Minister
+Date: October 11, 1911
+Description: Robert Borden became prime minister, ending Laurier's 15-year rule.
+--------------------------------------------------------------------------------
+Item 26: National Transcontinental Complete
+Date: November 17, 1913
+Description: The last spike was driven on the National Transcontinental Railway, which had begun work in 1903 and ran from Winnipeg, via Sioux Lookout, Kapuskasing, Cochrane and Québec City, to Moncton, NB.
+--------------------------------------------------------------------------------
+Item 27: Grand Trunk Pacific Completed
+Date: April 07, 1914
+Description: The Grand Trunk Pacific Railway was completed to Nechako, BC. The first train arrived at Prince Rupert on April 9.
+--------------------------------------------------------------------------------
+Item 28: Canada and Newfoundland Enter the First World War
+Date: August 04, 1914
+Description: After Britain’s ultimatum to Germany to withdraw its army from Belgium expires at midnight on the third, the British government declares war on Germany the next day. As dominions of the British Empire, Canada and Newfoundland are also at war.
+--------------------------------------------------------------------------------
+Item 29: Canadian Northern Railway
+Date: January 23, 1915
+Description: The last spike was driven on the Canadian Northern Railway at Basque, BC.
+--------------------------------------------------------------------------------
+Item 30: Borden Announces Conscription
+Date: May 18, 1917
+Description: Sir Robert Borden announced his decision in Parliament to implement Conscription. The imposition of conscription on reluctant French Canadians was a failure and bitterly divided the country along French-English lines.
+--------------------------------------------------------------------------------
+Item 31: Military Service Act
+Date: August 29, 1917
+Description: The Military Service Act was passed, making most male British subjects up to 45 years of age liable for active military service (Conscription).
+--------------------------------------------------------------------------------
+Item 32: Anti-conscription Riots
+Date: March 28, 1918
+Description: Anti-conscription riots began in Québec City.
+--------------------------------------------------------------------------------
+Item 33: Armistice
+Date: November 11, 1918
+Description: The Armistice with Germany ended First World War. A total of 628,562 Canadians served in the Canadian armed forces, including 424,589 who went overseas; 60,661 were killed.
+--------------------------------------------------------------------------------
+Item 34: Death of Laurier
+Date: February 17, 1919
+Description: Sir Wilfrid Laurier died at Ottawa.
+--------------------------------------------------------------------------------

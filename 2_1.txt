@@ -1,0 +1,332 @@
+Item 1: Bjarni Sights America
+Date: January 01, 0985
+Description: Bjarni Herjolfsson sighted mainland North America, probably Newfoundland, southern Labrador and Baffin Island. Bjarni was likely the first European to visit North America, and his discovery led to a brief Norse colonization of Newfoundland.
+--------------------------------------------------------------------------------
+Item 2: John Cabot Claims Atlantic Coast
+Date: June 24, 1497
+Description: John Cabot landed on the Atlantic coast of North America, claiming it for England. Cabot's discovery led to England's interest in what is now Atlantic Canada, especially the fishery.
+--------------------------------------------------------------------------------
+Item 3: Magellan Rounds S America
+Date: October 21, 1520
+Description: Portuguese explorer Ferdinand Magellan discovered and entered the strait in South America that now bears his name.
+--------------------------------------------------------------------------------
+Item 4: Magellan Killed
+Date: April 27, 1521
+Description: Portuguese navigator Ferdinand Magellan was killed by islanders in the Philippines. Only four of his crew eventually returned to Portugal on September 6, 1522, becoming the first people to sail around the world.
+--------------------------------------------------------------------------------
+Item 5: Cartier Reaches Labrador
+Date: April 02, 1534
+Description: French explorer Jacques Cartier arrived on the coast of Labrador. He further explored the Gulf of St Lawrence, discovering the Magdalen Islands and PEI.
+--------------------------------------------------------------------------------
+Item 6: Cartier Lands at Gaspé
+Date: July 24, 1534
+Description: Jacques Cartieris one of the first Europeans to enter the Gulf of theSt. Lawrence River. In 1535, while on his second of three voyages, Cartier hears theIroquoianword for village,kanata, and documents the name in his journal. The name Canada subsequently appears on the 1547 Harleian world map, indicating land north of the St. Lawrence.
+--------------------------------------------------------------------------------
+Item 7: Name St-Laurent First Used
+Date: August 10, 1535
+Description: Jacques Cartier gave the name St-Laurent to a bay north of Ile d'Anticosti.
+--------------------------------------------------------------------------------
+Item 8: Cartier Discovers Île-aux-Coudres
+Date: September 06, 1535
+Description: French explorer Jacques Cartier discovered the Île-aux-Coudres during the second of his three voyages.
+--------------------------------------------------------------------------------
+Item 9: Cartier Reaches Stadacona
+Date: September 14, 1535
+Description: Jacques Cartier reached the Native village Stadacona (site of Québec) on his second voyage up the St Lawrence River.
+--------------------------------------------------------------------------------
+Item 10: Cartier Reached Hochelega
+Date: October 02, 1535
+Description: French explorer Jacques Cartier sailed down the St. Lawrence River and reached the Iroquois village of Hochelega. Cartier’s log describes a walled village that was home to roughly 1,500 people living in about 50 enormous longhouses. A cairn set near the main entrance to McGill University commemorates the location of the village, which remains uncertain.
+--------------------------------------------------------------------------------
+Item 11: Death of Cartier
+Date: September 01, 1557
+Description: Jacques Cartier died at Limoilou, near St-Malo, France.
+--------------------------------------------------------------------------------
+Item 12: Frobisher Sights Baffin Island
+Date: August 11, 1576
+Description: Martin Frobisher sighted the bay in Baffin Island that now bears his name.
+--------------------------------------------------------------------------------
+Item 13: Champlain's First Trip
+Date: March 15, 1603
+Description: Samuel de Champlain boarded the Bonne-Renommée at Honfleur, France, destined for New France, as a private passenger on Gravé Du Pont's expedition.
+--------------------------------------------------------------------------------
+Item 14: Champlain Reaches Tadoussac
+Date: May 26, 1603
+Description: Samuel de Champlain reached Tadoussac on the north shore of the St Lawrence River and set foot for the first time in New France.
+--------------------------------------------------------------------------------
+Item 15: Champlain Learns of Hudson Bay
+Date: June 11, 1603
+Description: Samuel de Champlain travelled nearly 60 km up the Saguenay River, and learned from the Montagnais tribe that a large saltwater body existed to the north (the Hudson Bay).
+--------------------------------------------------------------------------------
+Item 16: Champlain Reaches Montréal
+Date: July 04, 1603
+Description: Samuel de Champlain explored the Saguenay River and journeyed up the St Lawrence River, reaching the Lachine Rapids and the future site of Montréal on July 4.
+--------------------------------------------------------------------------------
+Item 17: Champlain Arrives at Gaspé
+Date: July 15, 1603
+Description: Samuel de Champlain arrived at Gaspé, where he first heard about Acadia.
+--------------------------------------------------------------------------------
+Item 18: Champlain Explores Bay of Fundy
+Date: September 02, 1604
+Description: Samuel de Champlain began exploring the Bay of Fundy to seek an ideal site for a permanent settlement, becoming the first European to create a geographical description of the area.
+--------------------------------------------------------------------------------
+Item 19: Expedition to Massachusetts
+Date: September 05, 1606
+Description: Samuel de Champlain and Jean de Poutrincourt launched another expedition from Port-Royal to explore the coast of Massachusetts, hoping to establish friendly relationships with the Secoudon and Messamouet in the area. Their efforts were met with hostility and soon abandoned.
+--------------------------------------------------------------------------------
+Item 20: Port-Royal Abandoned
+Date: August 11, 1607
+Description: The Port-Royal settlement was abandoned on orders from France. On Sept 3, after skirting the Straits of Canso and mapping the Atlantic coastline from Cape Breton to the south of Cap Blanc, Samuel de Champlain and the other voyagers headed home to St Malo. Only Poutrincourt would return, in 1610.
+--------------------------------------------------------------------------------
+Item 21: Champlain Leaves on 3rd Voyage
+Date: April 13, 1608
+Description: As lieutenant to the Sieur de Monts, Samuel de Champlain set out on his third voyage to New France. He arrived at Tadoussac on 3 June.
+--------------------------------------------------------------------------------
+Item 22: Champlain Explores Haudenosaunee Country
+Date: June 28, 1609
+Description: Samuel de Champlain explored Haudenosaunee country, entering the Rivière des Iroquois (Richelieu), paddling upriver and reaching a great lake that would later bear his name.
+--------------------------------------------------------------------------------
+Item 23: Champlain Battles the Haudenosaunee
+Date: July 30, 1609
+Description: Champlain and his First Nations allies battled the Haudenosaunee on Lake Champlain, beginning 150 years of war between Iroquois and French. Champlain's musket kills three and astonishes the enemy.
+--------------------------------------------------------------------------------
+Item 24: Champlain Returns to France
+Date: October 13, 1609
+Description: Samuel de Champlain arrived back in France, ready to report to the king on the success of New France and extol the virtues of the Québec habitation as a warehouse for the fur trade.
+--------------------------------------------------------------------------------
+Item 25: Hudson Enters Hudson Bay
+Date: August 03, 1610
+Description: Henry Hudson entered Hudson Bay. He wintered on the coast of James Bay.
+--------------------------------------------------------------------------------
+Item 26: Champlain Sets Sail for France
+Date: August 08, 1610
+Description: After a disastrous year for the fur trade, Samuel de Champlain set sail for France, leaving behind 16 men under the command of Jean de Godet Du Parc.
+--------------------------------------------------------------------------------
+Item 27: Champlain Leaves for Lachine
+Date: May 28, 1611
+Description: Samuel de Champlain left Québec and arrived at Lachine and named the island in the middle of the St Lawrence River St. Hélène for his wife.
+--------------------------------------------------------------------------------
+Item 28: Champlain Shoots Rapids
+Date: June 13, 1611
+Description: Samuel de Champlain impressed his native allies by shooting the dangerous Lachine Rapids in a canoe.
+--------------------------------------------------------------------------------
+Item 29: Hudson's Crew Mutinies
+Date: June 23, 1611
+Description: Henry  Hudson's crew mutinied and set Hudson, his son John and 7 others adrift in a small boat. They were never heard from again.
+--------------------------------------------------------------------------------
+Item 30: Champlain Reaches Ottawa River
+Date: May 29, 1613
+Description: Champlain reached the mouth of the Ottawa River. On June 4 he noted the mouths of the Gatineau and Rideau rivers at the present site of Ottawa.
+--------------------------------------------------------------------------------
+Item 31: Champlain Promotes New France
+Date: September 26, 1613
+Description: Champlain left for France, where he remained until April 24, 1615 to promote the cause of New France.
+--------------------------------------------------------------------------------
+Item 32: Récollets Arrive
+Date: May 25, 1615
+Description: Four Récollets from France arrived at Tadoussac with Champlain, only to quickly go their separate ways. The best-known Récollet, Gabriel Sagard, later published Le Grand Voyage du pays des Hurons, an indispensable source of knowledge of Huron customs and culture.
+--------------------------------------------------------------------------------
+Item 33: Champlain Visits Huronia
+Date: July 01, 1615
+Description: French explorer Samuel de Champlain reached Huronia, at the southern end of Georgian Bay.
+--------------------------------------------------------------------------------
+Item 34: Champlain Treks Up Ottawa River
+Date: July 09, 1615
+Description: Samuel de Champlain began his journey up the Ottawa River, passing through the Lac des Népissingues (Lake Nipissing), the Rivière des Français (French River) and the great Lac Attigouautau (Lake Huron). He arrived among the Hurons on 1 August.
+--------------------------------------------------------------------------------
+Item 35: Champlain Arrives at Huronia
+Date: August 01, 1615
+Description: Samuel de Champlain completed his journey up the Ottawa River, arriving among the Hurons.
+--------------------------------------------------------------------------------
+Item 36: Champlain Leaves Huronia
+Date: January 15, 1616
+Description: Samuel de Champlain left Huronia to visit the Tobacco Nation (south of Nottawasaga Bay), then the Cheveux-Relevés (Ottawas, south of Georgian Bay), extending an invitation to the natives to come to Québec.
+--------------------------------------------------------------------------------
+Item 37: Champlain Returns with Map
+Date: September 10, 1616
+Description: Samuel de Champlain arrived in France, where he would publish an engraved map of New France.
+--------------------------------------------------------------------------------
+Item 38: Récollet Arrives in Québec
+Date: July 07, 1620
+Description: Récollet lay brother Gabriel Sagard arrived at Québec. He was the author ofThe Long Journey to the Country of the Hurons.
+--------------------------------------------------------------------------------
+Item 39: Champlain's Final Voyage
+Date: March 23, 1633
+Description: Samuel de Champlain set sail on his final voyage to Québec at age 63.
+--------------------------------------------------------------------------------
+Item 40: Explorers Reach Lake Erie
+Date: March 23, 1670
+Description: Fathers Dollier de Casson and Galinée claimed Lake Erie for France.
+--------------------------------------------------------------------------------
+Item 41: French Reach Mississippi
+Date: June 15, 1673
+Description: Explorers Jolliet and Marquette arrived at the upper reaches of the Mississippi River.
+--------------------------------------------------------------------------------
+Item 42: La Salle Reaches Mouth of the Mississippi
+Date: April 09, 1682
+Description: The La Salle expedition passed the mouth of the Mississippi River.On April 9 he claimed the entire region for Louis XIV.
+--------------------------------------------------------------------------------
+Item 43: La Salle Claims Louisiana
+Date: April 09, 1682
+Description: La Salle, de Tonty and Jacques Bourdon d'Autray arrived at the Mississippi Delta. La Salle claimed the territory he had explored for France and named it Louisiana.
+--------------------------------------------------------------------------------
+Item 44: La Salle Assassinated
+Date: March 19, 1687
+Description: La Salle was assassinated by his own men in present-day Texas.
+--------------------------------------------------------------------------------
+Item 45: La Vérendrye at Grand Portage
+Date: August 26, 1731
+Description: La Vérendrye and his three sons reached Grand Portage. In the autumn they built Fort Saint-Pierre, the first of 8 posts.
+--------------------------------------------------------------------------------
+Item 46: Fort La Reine Founded
+Date: October 03, 1738
+Description: La Vérendrye arrived at the site of Portage-la-Prairie on the Assiniboine River, where he built Fort La Reine.
+--------------------------------------------------------------------------------
+Item 47: La Vérendryes Sight Rockies
+Date: January 01, 1743
+Description: The La Vérendryes sighted the Rocky Mountains, most likely the Big Horn Range.
+--------------------------------------------------------------------------------
+Item 48: La Vérendrye's Plaque
+Date: March 30, 1743
+Description: La Vérendrye left a metal plate inscribed "Posé par le Chevalier de la Lavérendre le 30 Mars 1743" in the northwest. It was recovered in 1913 near Pierre, South Dakota.
+--------------------------------------------------------------------------------
+Item 49: Henday in the West
+Date: July 24, 1754
+Description: Anthony Henday reached Fort Paskoyac; he later reached a Blackfoot camp southwest of present-day Red Deer, being likely the first European to set foot in territory that became Alberta.
+--------------------------------------------------------------------------------
+Item 50: Hearne Reaches the Arctic
+Date: July 17, 1771
+Description: Samuel Hearne, exploring inland from Churchill with his Native guide Montonabbe, reached the Arctic Ocean via the Coppermine River; he returned via Great Slave Lake.
+--------------------------------------------------------------------------------
+Item 51: Juan Pérez Hernández
+Date: July 15, 1774
+Description: Spanish explorer Juan Josef Pérez Hernández sighted the Queen Charlotte Islands.
+--------------------------------------------------------------------------------
+Item 52: Cook Sails from Plymouth
+Date: July 12, 1776
+Description: In search of a Pacific-coast exit from the Northwest Passage, Captain James Cook set sail on his third and final voyage. Though he would discover the Sandwich Islands (now the Hawaiian Islands) on this voyage, Cook's expedition was blocked entry to the Northwest Passage by a frozen Bering Strait.
+--------------------------------------------------------------------------------
+Item 53: Cook Sights Vancouver Island
+Date: March 29, 1778
+Description: Captain James Cook sighted land at Vancouver Island. He landed at Nootka, sighted Mount Elias (10 May) and continued north to Alaska and the Bering Strait.
+--------------------------------------------------------------------------------
+Item 54: Martinez Reaches Nootka
+Date: May 05, 1789
+Description: A Spanish expedition under Esteban José Martinez reached Nootka Sound and plundered a number of British ships, touching off the Nootka Sound Controversy.
+--------------------------------------------------------------------------------
+Item 55: Mackenzie Reaches Arctic
+Date: July 10, 1789
+Description: Alexander Mackenzie travelled down the Mackenzie River and reached the Arctic Delta.
+--------------------------------------------------------------------------------
+Item 56: Spanish Sight Vancouver
+Date: June 22, 1792
+Description: Spanish explorers Alcalà-Galiano and Valdés sighted George Vancouver's shipsDiscoveryandChathamnear present-day Vancouver. Each side was mortified to discover its major competitor.
+--------------------------------------------------------------------------------
+Item 57: Mackenzie Reaches the Pacific
+Date: July 21, 1793
+Description: Alexander Mackenzie party reached the Pacific via the Bella Coola River, the first explorer to complete the journey overland. Though a physical triumph, Mackenzie's achievement failed to provide the fur traders with a viable route.
+--------------------------------------------------------------------------------
+Item 58: Death of George Vancouver
+Date: May 12, 1798
+Description: British naval officer and explorer George Vancouver, known for his exploration of the BC Pacific coast, died at London, England.
+--------------------------------------------------------------------------------
+Item 59: Death of Estéban José Martinez
+Date: October 28, 1798
+Description: Spanish naval officer Estéban José Martinez, whose seizure of several trading vessels in Nootka Sound during the summer of 1789 touched off a confrontation with England, died at Loreto, Mexico.
+--------------------------------------------------------------------------------
+Item 60: Fraser Reaches Pacific
+Date: July 02, 1808
+Description: Simon Fraser reached the Pacific, after descending the river that now bears his name.
+--------------------------------------------------------------------------------
+Item 61: Thompson Ascends Columbia River
+Date: July 15, 1811
+Description: David Thompson, descending the Columbia River, reached the Pacific Ocean at Cape Disappointment, a few weeks after American traders had staked their claim.
+--------------------------------------------------------------------------------
+Item 62: North Magnetic Pole Found
+Date: June 01, 1831
+Description: Sir James Clark Ross located the North Magnetic Pole. He set up the British flag, took possession of the North Magnetic Pole and adjoining territory in the name of King William IV, and erected a cairn.
+--------------------------------------------------------------------------------
+Item 63: Search for Franklin Begins
+Date: January 10, 1850
+Description: Robert McClure and Richard Collinson began the extensive search for Franklin, likely the greatest search mission in the history of exploration. In the process, more was revealed of the geography of the North than at any other time.
+--------------------------------------------------------------------------------
+Item 64: Rae Searches for Franklin
+Date: April 15, 1853
+Description: John Rae set out from Fort Confidence on a search for Sir John Franklin. He covered 1126 km of previously unknown coastline.
+--------------------------------------------------------------------------------
+Item 65: Rae Learns Fate of Franklin
+Date: October 22, 1854
+Description: John Rae learned of the fate of Franklin and his crew from Inuit around Pelly Bay. Franklin's ship had become frozen into the northern ice in 1846, setting off one of the most extensive rescue operations in the history of exploration. Based on Inuit reports and evidence of personal effects, John Rae claimed the £10,000 reward for settling Franklin's fate.
+--------------------------------------------------------------------------------
+Item 66: Tyrrell's Survey
+Date: March 13, 1900
+Description: J.W. Tyrrell began a 2782 km journey to survey the area from Great Slave Lake to Chesterfield Inlet.
+--------------------------------------------------------------------------------
+Item 67: Peary Turns Back
+Date: April 21, 1902
+Description: Robert Peary turned back at 84°17' north latitude, in his attempt to reach the North Pole.
+--------------------------------------------------------------------------------
+Item 68: Amundsen Completes Passage
+Date: August 26, 1905
+Description: Roald Amundsen, travelling west of King William Island, sighted an American whaling ship that had come from San Francisco. At this point, he knew that he had achieved the Northwest Passage, a quest that had obsessed explorers for nearly 400 years.
+--------------------------------------------------------------------------------
+Item 69: Amundsen Tells World of Achievement of Passage
+Date: November 05, 1905
+Description: Roald Amundsen and an American companion reached Eagle City, Alaska, after a voyage by dog sled over 800 km of ice from his ice-bound ship. There he was able to use the telegraph to announce to the world that he had completed the Northwest Passage.
+--------------------------------------------------------------------------------
+Item 70: Peary Reaches North Pole
+Date: April 06, 1909
+Description: American explorer Robert Peary claimed to be the first person to reach the North Pole.
+--------------------------------------------------------------------------------
+Item 71: Amundsen Reaches South Pole
+Date: December 14, 1911
+Description: Roald Amundsen and 4 companions were the first humans to reach the South Pole.
+--------------------------------------------------------------------------------
+Item 72: Scott Reaches South Pole
+Date: January 18, 1912
+Description: British explorer Robert Scott and four others reached the South Pole, only to find Norwegian Roald Amundsen had beaten him by a month. None of Scott's expedition survived.
+--------------------------------------------------------------------------------
+Item 73: St. RochLaunched
+Date: May 07, 1928
+Description: The RCMP schoonerSt. Rochwas launched at the Burrard Shipbuilding & Drydock Company, North Vancouver, BC. It would become the first ship to sail the Northwest Passage from west to east and to circumnavigate North America.
+--------------------------------------------------------------------------------
+Item 74: Amundsen Lost
+Date: June 18, 1928
+Description: Roald Amundsen, Norwegian polar explorer, was lost on a rescue mission in the Arctic.
+--------------------------------------------------------------------------------
+Item 75: West to East Northwest Passage
+Date: June 23, 1940
+Description: An RCMP patrol commanded by Henry Asbjorn Larsen sailed from Vancouver in theSt. Roch. They reached Halifax via the Arctic, in the first successful west to east navigation of the Northwest Passage.
+--------------------------------------------------------------------------------
+Item 76: St. RochArrives in Halifax
+Date: October 11, 1942
+Description: TheSt. Rocharrived in Halifax after navigating the Northwest Passage from west to east.
+--------------------------------------------------------------------------------
+Item 77: St. RochLeaves Halifax
+Date: July 22, 1944
+Description: The RCMP shipSt. Rochleft Halifax to return to Vancouver by the Northwest Passage; the trip was completed 86 days later.
+--------------------------------------------------------------------------------
+Item 78: St. RochArrives in Vancouver
+Date: October 16, 1944
+Description: The RCMP shipSt. Rocharrived in Vancouver from Halifax via the Northwest Passage, the first ship to have sailed the passage in both directions.
+--------------------------------------------------------------------------------
+Item 79: St. RochCompletes Voyage
+Date: May 29, 1950
+Description: The RCMP shipSt. Rochreached Halifax after passing through the Panama Canal from Vancouver. It was the first ship to circumnavigate North America.
+--------------------------------------------------------------------------------
+Item 80: St. Roch IIArrives in Victoria
+Date: December 14, 2000
+Description: TheSt. Roch IIarrived in Victoria, BC, after repeating the historic trip of its predecessor, theSt. Roch, which in 1944 became the first ship to traverse the Northwest Passage.
+--------------------------------------------------------------------------------
+Item 81: Laliberté Travels to Space
+Date: September 30, 2009
+Description: Cirque du Soliel creator Guy Laliberté became the first Canadian civilian to enter space, a mission he hoped would increase awareness of the need for global water conservation. Donning a red clown nose, Laliberté blasted off to a chorus of Elton John's "Rocket Man" from cheering fans below. The ride aboard Russian Soyuz craft cost the billionaire entertainer US $35 million.
+--------------------------------------------------------------------------------
+Item 82: Franklin Expedition Ship Discovered
+Date: September 09, 2014
+Description: The HMSErebus, one of Sir John Franklin's expedition ships, was found submerged off the coast of King William Island.The ship waspart of Sir John Franklin's 1845 expedition  to find the Northwest Passage from the Atlantic Ocean to Asia.
+--------------------------------------------------------------------------------
+Item 83: Discovery of HMS Terror
+Date: September 12, 2016
+Description: A team from the Arctic Research Foundation (founded byJim Balsillie) announced that they had found the second lost ship of theFranklin expedition, HMSTerror, inNunavut’s Terror Bay, north of where theErebuswas found in 2014. Thediscoverywas confirmed byParks Canadaon 26 September 2016.
+--------------------------------------------------------------------------------

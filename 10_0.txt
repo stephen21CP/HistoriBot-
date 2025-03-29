@@ -1,0 +1,514 @@
+Item 1: Roberval Made Viceroy
+Date: January 15, 1540
+Description: Jean-François de la Rocque de sieur Roberval was appointed viceroy of Canada, Newfoundland and Labrador, and given a mandate to establish a permanent colony.
+--------------------------------------------------------------------------------
+Item 2: Gilbert Claims Newfoundland
+Date: August 05, 1583
+Description: Sir Humphrey Gilbert took possession of Newfoundland for Elizabeth I. He drowned in a storm on 9 September off Sable Island in Canada's first recorded marine disaster.
+--------------------------------------------------------------------------------
+Item 3: La Roche's Monopoly
+Date: January 12, 1598
+Description: The Marquis de la Roche received a fur-trade monopoly to New France. He landed with a party on Sable Island, today in NS. Only 11 of the 40 colonists survived to be rescued 5 years later.
+--------------------------------------------------------------------------------
+Item 4: Champlain Reaches Tadoussac
+Date: May 26, 1603
+Description: Samuel de Champlain reached Tadoussac on the north shore of the St Lawrence River and set foot for the first time in New France.
+--------------------------------------------------------------------------------
+Item 5: de Monts's Monopoly Renewed
+Date: January 07, 1608
+Description: Henri IV of France renewed de Monts's fur-trade monopoly, temporarily saving the colony at Port-Royal.
+--------------------------------------------------------------------------------
+Item 6: Founding of Cupids Bay
+Date: July 05, 1610
+Description: John Guy and 39 settlers departed Bristol, arriving in Newfoundland in August. Though his settlement at Cupids Bay lasted only to 1628, its founding was a signal event in the early history of Newfoundland.
+--------------------------------------------------------------------------------
+Item 7: First Jesuits Arrive in New France
+Date: May 22, 1611
+Description: The first Jesuits to arrive in New France, Pierre Biard and Ennemond Massé, arrived at Port-Royal on May 22, 1611.
+--------------------------------------------------------------------------------
+Item 8: Champlain Visits Huronia
+Date: July 01, 1615
+Description: French explorer Samuel de Champlain reached Huronia, at the southern end of Georgian Bay.
+--------------------------------------------------------------------------------
+Item 9: Champlain Treks Up Ottawa River
+Date: July 09, 1615
+Description: Samuel de Champlain began his journey up the Ottawa River, passing through the Lac des Népissingues (Lake Nipissing), the Rivière des Français (French River) and the great Lac Attigouautau (Lake Huron). He arrived among the Hurons on 1 August.
+--------------------------------------------------------------------------------
+Item 10: Champlain Arrives at Huronia
+Date: August 01, 1615
+Description: Samuel de Champlain completed his journey up the Ottawa River, arriving among the Hurons.
+--------------------------------------------------------------------------------
+Item 11: Seigneurial System Instituted
+Date: February 04, 1623
+Description: The feudal seigneurial system was instituted in New France, when Louis Hébert was granted the fief of Sault-au-Matelot, near Québec. The system was not abolished until 1854.
+--------------------------------------------------------------------------------
+Item 12: Compagnie des Cent-Associés
+Date: April 29, 1627
+Description: The Compagnie des Cent-Associés was granted New France from Florida to the Arctic. The Company was given full seigneurial ownership of New France.
+--------------------------------------------------------------------------------
+Item 13: Oxen in New France
+Date: April 27, 1628
+Description: Samuel de Champlain recorded in his journal that, for the first time in New France, land had been broken by the plough drawn by oxen, a task typically carried out by human strength.
+--------------------------------------------------------------------------------
+Item 14: Champlain Recommended to Lead Colony
+Date: March 01, 1633
+Description: Asked by Cardinal Richelieu to take command of the colony, Isaac de Razilly deferred to Champlain as being more competent in colonial affairs.
+--------------------------------------------------------------------------------
+Item 15: Champlain Returns to Québec
+Date: May 23, 1633
+Description: Champlain returned to Québec and began to rebuild the Habitation from its ruins and to build the church of Notre-Dame-de-la-Recouvrance.
+--------------------------------------------------------------------------------
+Item 16: La Tour Granted Land
+Date: January 15, 1635
+Description: Charles de La Tour was granted land around present-day Saint John, NB.
+--------------------------------------------------------------------------------
+Item 17: Death of Champlain
+Date: December 25, 1635
+Description: Champlain died at Québec. He had suffered a stroke the previous October and signed his will November 17.
+--------------------------------------------------------------------------------
+Item 18: First Saint-Jean-Baptiste Celebrations in New France
+Date: June 24, 1636
+Description: The earliest record ofSaint-Jean-Baptiste Daycelebrations in the colony ofNew Franceappears in theJesuit Relationsof 1636. The tradition has its origins in pagan Europe with the lighting of bonfires to mark the summer solstice. With the spread ofChristianityin the middle ages, the custom became tied to the feast day of Saint John the Baptist (24 June).Saint-Jean-Baptiste celebrationshave endured in French Canada, and the day is now officially known as the Fête nationale du Québec (national holiday of Québec).
+--------------------------------------------------------------------------------
+Item 19: Compagnie des Habitants Formed
+Date: March 06, 1645
+Description: The Compagnie des Habitants was formed in New France when a royal edict transferred the trade monopoly for fur, held by the Compagnie des Cent-Associés, to all inhabitants of the colony. In practice, only a few of the wealthiest benefited from the change. The monopoly’s cost was the equivalent of the colony's administrative expenses plus an annual payment of 1,000 beaver skins and the promise to bring in 20 new colonists a year.
+--------------------------------------------------------------------------------
+Item 20: Louis XIV Sets up Council
+Date: March 27, 1647
+Description: Louis XIV set up the Council of Québec, providing the first political constitution of New France.
+--------------------------------------------------------------------------------
+Item 21: First Civil Election in New France
+Date: July 21, 1647
+Description: Residents ofQuebec City,MontrealandTrois-Rivièreselectsyndics, or trustees, to a colonial council responsible to thegouverneur. Syndics act as liaisons between residents and the council. However, they have no power to affect policy because the colonies are ruled by amonarchy.
+--------------------------------------------------------------------------------
+Item 22: Jesuits Killed
+Date: March 16, 1649
+Description: Jesuit missionaries Jean de Brébeuf and Charles Lalemant were executed by the Haudenosaunee.
+--------------------------------------------------------------------------------
+Item 23: New France a Crown Colony
+Date: February 24, 1663
+Description: King Louis XIV revoked the monopoly of The Compagnie des Cent-Associés and New France became a Crown colony. The king appointed a new governor and an intendant.
+--------------------------------------------------------------------------------
+Item 24: Talon Becomes Intendant
+Date: March 23, 1665
+Description: Jean Talon received his commission as intendant of New France. He arrived in Québec on September 12.
+--------------------------------------------------------------------------------
+Item 25: Hudson's Bay Company Founded
+Date: May 02, 1670
+Description: King Charles II of England granted a charter to Prince Rupert and his "Company of Adventurers of England trading into Hudson's Bay." The charter granted the company a monopoly of trade in the Bay and ownership of all lands drained by rivers flowing into the Bay. The HBC established an English presence in the Northwest and a competitive route to the fur trade centred on Montréal.
+--------------------------------------------------------------------------------
+Item 26: Silver Covenant Chain Treaty
+Date: January 01, 1677
+Description: This wampum treaty between Britain and the Haudenosaunee represented an open and honest communication between two peoples. Subsequent wampum treaties reinforce this idea, as well as the idea of mutual interest and peace. Such wampum treaties oblige the parties to help each other, in war if necessary, should they be asked.
+--------------------------------------------------------------------------------
+Item 27: La Salle Builds Fort Crévecour
+Date: January 05, 1680
+Description: La Salle built Fort Crévecour on the Illinois River.
+--------------------------------------------------------------------------------
+Item 28: Fire Destroys Québec
+Date: August 05, 1682
+Description: A fire reduced the public square of Québec to rubble.
+--------------------------------------------------------------------------------
+Item 29: Haudenosaunee (Iroquois) Peace Treaty
+Date: January 22, 1690
+Description: The Haudenosaunee concluded a peace treaty with the English and the tribes of the Great Lakes.
+--------------------------------------------------------------------------------
+Item 30: Great Peace of Montreal
+Date: August 01, 1701
+Description: Three dozen Indigenous groups and the French colonial government sign theGreat Peace of Montréal, forging peaceful relations that end nearly a century of war between the Haudenosaunee and the French (and their Indigenous allies).
+--------------------------------------------------------------------------------
+Item 31: Germans Settle Lunenburg
+Date: June 17, 1753
+Description: Almost 1500 German settlers arrived at Lunenburg, NS.They built a palisade for defence on the present site of the academy, drew lots and planted some crops.
+--------------------------------------------------------------------------------
+Item 32: Andrew Rollo Captures Île Saint-Jean
+Date: August 08, 1759
+Description: Brigadier-General Andrew Rollo, the 5th Lord Rollo, captured Île Saint-Jean (now Prince Edward Island) from the French at the height of the Seven Years'' War. Roughly 3,500 Acadians were swiftly repatriated to France whilst Rollo constructed Fort Amherst in honour of, and on orders from, General Jeffrey Amherst.
+--------------------------------------------------------------------------------
+Item 33: Huron Treaty
+Date: September 05, 1760
+Description: A treaty was concluded between the Huron-Wendat and the British. The Huron-Wendat agreed to put down their arms. In return they would receive safe passage, free exercise of religion, local government and justice. The treaty was recognized in 1990 by the Supreme Court.
+--------------------------------------------------------------------------------
+Item 34: Pontiac's Treaty
+Date: July 24, 1766
+Description: Ottawa chief Pontiac signed a treaty with the British ending the uprising he initiated three years earlier. The treaty helped to establish Indigenous rights for the future.
+--------------------------------------------------------------------------------
+Item 35: Government for PEI
+Date: June 28, 1769
+Description: A separate government was established for St John Island, which was not named Prince Edward Island until 1799.
+--------------------------------------------------------------------------------
+Item 36: Arrival of theHector
+Date: September 15, 1773
+Description: A group of Scottish highlanders followed a piper off the shipHectorto land at Pictou, NS. Their arrival marked the symbolic beginning of Scottish settlement in Canada, although earlier groups had previously settled in PEI.
+--------------------------------------------------------------------------------
+Item 37: Niagara Purchase of 1781
+Date: May 09, 1781
+Description: TheNiagara Purchase of 1781, also known as Treaty 381, was one of the first land agreements betweenIndigenous peoplesand British authorities inUpper Canada(nowOntario). As a result, a 6.5-km-wide strip along the west bank of theNiagara RiverconnectingLake ErieandLake Ontariowas made available for settlement byLoyalists, who had been displaced by theAmerican Revolution. The Niagara Purchase was one of many agreements made in the 1700s and 1800s that are collectively known as theUpper Canada Land Surrenders.
+--------------------------------------------------------------------------------
+Item 38: Mohawk Families Arrive at Bay of Quinte
+Date: May 22, 1784
+Description: During theAmerican Revolution(1775–83), the British promised their allies, theMohawks, that their homeland would be returned to them after the war. But when the revolution ended, theTreaty of Parisgave traditional Mohawk territory to the United States. The British instead offered the Mohawks their choice of any unsettled land inUpper Canada(nowOntario). They chose land along the north shore ofLake Ontarioon theBay of Quinte. About 20 Mohawk families (100–125 people) travelled bycanoefromLachineand arrived at the Bay of Quinte on 22 May 1784. (See alsoCrown Grant to the Mohawks of the Bay of Quinte.)
+--------------------------------------------------------------------------------
+Item 39: John Collins’s Purchase of 1785
+Date: August 01, 1785
+Description: John Collins’ Purchase of 1785is one of the oldest land agreements betweenIndigenous peoplesand British authorities inUpper Canada(nowOntario). It concerned the use of lands extending from the northwestern end ofLake Simcoeto Matchedash Bay, an inlet offGeorgian BayinLake Huron. The purpose was to provide the British with a protected inland water route betweenLake Ontarioand Lake Huron, away from potential American interference. John Collins’s Purchase is one of many agreements made in the late 18th and early 19th centuries, known as theUpper Canada Land Surrenders.
+--------------------------------------------------------------------------------
+Item 40: McKee’s Purchase of 1790
+Date: May 20, 1790
+Description: McKee’s Purchaseof 1790 (also known as the McKee Treaty or Treaty 2) was an early land agreement betweenIndigenous peoplesand British authorities inUpper Canada(nowOntario). The southernmost Upper Canada treaty, it consisted of a large strip of territory from the southwestern shore ofLake Erienorth to theThames Riverand east to a point southwest of modern-dayLondon,Ontario. This land was made available for settlement byLoyalistswho were displaced by theAmerican Revolution. McKee’s Purchase legitimized the land transfers of 1784 and 1786 as well as many other private illegal sales of Indigenous land to settlers.
+--------------------------------------------------------------------------------
+Item 41: First Elections in Lower Canada
+Date: June 11, 1792
+Description: The first elections are held inLower Canada. Anyone over 21 who owns sufficient property can vote, including women.
+--------------------------------------------------------------------------------
+Item 42: Simcoe Arrives in Upper Canada
+Date: June 24, 1792
+Description: John Graves Simcoe arrived in Upper Canada. He reached Kingston July 1 and took office July 8.
+--------------------------------------------------------------------------------
+Item 43: Crown Grant to the Mohawks of the Bay of Quinte
+Date: April 01, 1793
+Description: Upper CanadaLieutenant-GovernorJohn Graves SimcoeexecutedTreaty 3½ or the Simcoe Deedto recognize theMohawks’ contributions to the British during theAmerican Revolution. The treaty granted theMohawkssome 92,700 acres (375 km2) on theBay of Quinte, an area about the size of a township. However, the government gave Mohawk land toLoyalists, who continued to arrive between 1820 and 1843. As a result, the Mohawk tract was reduced ultimately to 18,000 acres (73 km2).
+--------------------------------------------------------------------------------
+Item 44: First Smallpox Vaccinations
+Date: June 01, 1800
+Description: The first smallpox vaccinations in Canada (and possibly in North America) were given by Dr. John Clinch of Trinity, NL. By the end of 1801, Clinch had vaccinated 700 people in the area. The disease wasn’t eradicated until 1977, but vaccination gradually checked the devastating epidemics that Canada had experienced since the 17th century.
+--------------------------------------------------------------------------------
+Item 45: Highlanders Settle Sydney
+Date: January 03, 1802
+Description: Three hundred Scottish Highlanders settled at Sydney, NS.
+--------------------------------------------------------------------------------
+Item 46: Macdonell Reaches Red River
+Date: August 29, 1812
+Description: Governor Miles Macdonell arrived at Red River with Scottish colonists to establish Selkirk's colony. A second group arrived in October.
+--------------------------------------------------------------------------------
+Item 47: Pemmican Proclamation
+Date: January 08, 1814
+Description: Governor Miles MacDonell of Red River tried to monopolize the provision trade in the Northwest with the Pemmican Proclamation.
+--------------------------------------------------------------------------------
+Item 48: The Underground Railroad
+Date: January 01, 1815
+Description: Canada's reputation as a safe haven for Blacks grew substantially during and after the War of 1812. Between 1815 and 1865, tens of thousands of African-Americans sought refuge in Upper and Lower Canada via the legendary Underground Railroad.
+--------------------------------------------------------------------------------
+Item 49: Battle of Seven Oaks
+Date: June 19, 1816
+Description: About 60 Métis and First Nations men, led by North West Company clerk Cuthbert Grant, were confronted at Seven Oaks by Hudon's Bay Company Governor Robert Semple and 28 men (mostly HBC officers and employees). The gunfire and hand-to-hand combat that resulted left Semple and 20 of the HBC party dead. On the Métis side, 16-year-old Joseph Letendre died, and Joseph Trottier was wounded.The battle was a culmination of the Pemmican Wars and the escalating fur trade disputes between the HBC and NWC.
+--------------------------------------------------------------------------------
+Item 50: Death of Selkirk
+Date: April 08, 1820
+Description: Lord Selkirk and his family received a land grant from the Hudson’s Bay Company in 1811 for roughly 300,400 km2in Assiniboia, part of what is now Manitoba. An advance party, sent under Miles Macdonell, established theRed River Colonyin 1812.After his death, Lord Selkirk's executors took over administration of the Red River Colony.
+--------------------------------------------------------------------------------
+Item 51: Founding Fort Vancouver
+Date: March 19, 1825
+Description: The Hudson's Bay Company established Fort Vancouver on the Columbia River, near present-day Portland, Oregon.
+--------------------------------------------------------------------------------
+Item 52: Canada Company Founded
+Date: June 27, 1825
+Description: John Galt's Canada Company was incorporated.
+--------------------------------------------------------------------------------
+Item 53: Bytown Founded
+Date: September 26, 1826
+Description: Bytown (the future Ottawa) grew from a campsite established by John By as a base for the construction of the Rideau Canal.
+--------------------------------------------------------------------------------
+Item 54: Construction of Fort Langley
+Date: July 30, 1827
+Description: Construction began on the Hudson's Bay Company post of Fort Langley, at the mouth of the Fraser River.
+--------------------------------------------------------------------------------
+Item 55: Assiniboia Transferred
+Date: May 04, 1836
+Description: The territory of Assiniboia was transferred to the Hudson's Bay Company by Lord Selkirk's family.
+--------------------------------------------------------------------------------
+Item 56: Smallpox Hits Prairies
+Date: June 24, 1837
+Description: An American Fur Company boat arrived at Fort Union, setting off a smallpox epidemic across the praries, killing an estimated three-quarters of the Blackfoot, Blood, Peigan, Sarcee and Assiniboine peoples of the prairies.
+--------------------------------------------------------------------------------
+Item 57: The Gradual Civilization Act
+Date: June 10, 1857
+Description: TheGradual Civilization Actrequires maleStatus IndiansandMétisover the age of 21 to read, write and speak eitherEnglishorFrench, and to choose a government-approved surname. It awards 50 acres of land to any “sufficiently advanced” Indigenous male, and in return removes any tribal affiliation ortreatyrights.
+--------------------------------------------------------------------------------
+Item 58: Overlanders
+Date: July 25, 1862
+Description: The Overlanders, a group of some 150 settlers who travelled from Canada West, reached Fort Edmonton. They crossed the Rockies and travelled on to BC.
+--------------------------------------------------------------------------------
+Item 59: William McDougall Ordered the Red River Land Survey
+Date: July 01, 1869
+Description: Anticipating the transfer of Red River Colony and the North-West from the HBC to Canadian jurisdiction, Minister of Public Works William McDougall ordered the Dominion Government land survey of the Red River settlement. The Métis, fearful of the implications of the transfer, disdained the survey, which they blocked on 11 October.
+--------------------------------------------------------------------------------
+Item 60: Red River Resistance
+Date: November 02, 1869
+Description: With 120 men,Louis RieloccupiedUpper Fort Garryin theRed River Colonyto block the transfer ofRupert’s Landfrom theHudson’s Bay Company(HBC) to Canada. Known as theRed River Resistance, theMétis— led by Riel — andFirst Nationsallies defended theRed River Colonyfrom White settlers and government encroachment on their lands. Louis Riel was hanged fortreason, andCreechiefsMistahimaskwa (Big Bear)andPitikwahanapiwiyin (Poundmaker)were imprisoned. Promises to protect the Métis were still unfulfilled more than a decade later, sparking theNorthwest Resistancein 1885. In 2019, Poundmaker was exonerated by thefederal government.
+--------------------------------------------------------------------------------
+Item 61: Métis Refuse McDougall Entry to Red River and the North West
+Date: November 02, 1869
+Description: In a show of solidarity, Métis horsemen refused North-West Territories Lieutenant-Governor William McDougall entry to their land. He was forced to retreat to the United States.
+--------------------------------------------------------------------------------
+Item 62: Riel's Provisional Government
+Date: December 23, 1869
+Description: Louis Riel issued a Declaration of the people of Rupert's Land and the Northwest and became head of the provisional government of Red River.
+--------------------------------------------------------------------------------
+Item 63: Treaty 1
+Date: August 03, 1871
+Description: The first post-Confederation treaty was signed at Lower Fort Garry, Man. The first of many “Numbered Treaties,”Treaty 1was signed between the Crown and the Ojibwe and Swampy Cree Nations. The treaty included the provision of livestock, agricultural equipment and the establishment of schools in exchange for ceding large tracts of Indigenous hunting grounds.
+--------------------------------------------------------------------------------
+Item 64: Treaty 2
+Date: August 21, 1871
+Description: Treaty 2was concluded with Chippewa of Manitoba, who ceded land from the mouth of Winnipeg River to the northern shores of Lake Manitoba across the Assiniboine River to the United States frontier.
+--------------------------------------------------------------------------------
+Item 65: Cypress Hills Massacre
+Date: June 01, 1873
+Description: A gang of wolf hunters looking for a stolen horse killed 20 Assiniboine camped in the Cypress Hills. Some of the attackers were tried but none convicted. The event sped up the arrival of police.
+--------------------------------------------------------------------------------
+Item 66: Treaty 3
+Date: October 03, 1873
+Description: Treaty 3was signed by the Saulteaux (Chippewa) of northwestern Ontario and of Manitoba. For the surrender of a tract comprising about 55,000 sq. miles, the Dominion Government reserved not more than one square mile for each family of five and agreed to pay $12 per head and an annuity of $5 per head.
+--------------------------------------------------------------------------------
+Item 67: Treaty 4
+Date: September 15, 1874
+Description: Treaty 4was signed at Fort Qu'Appelle, Saskatchewan, with Cree, Saulteaux (Chippewa) and other First Nations.
+--------------------------------------------------------------------------------
+Item 68: Establishment of Fort Macleod
+Date: October 01, 1874
+Description: One hundred and fifty North-West Mounted Police established the first police post in what is now Alberta on an island in the Oldman River, and named it after Assistant Commissioner James F. Macleod.
+--------------------------------------------------------------------------------
+Item 69: Treaty 5
+Date: September 20, 1875
+Description: Treaty 5was concluded at Lake Winnipeg ceding an area of approximately 100,000 sq. miles inhabited by Chippewa and Swampy Cree (Maskegon) of Manitoba and Ontario.
+--------------------------------------------------------------------------------
+Item 70: Indian Act
+Date: April 12, 1876
+Description: TheIndian Actis introduced. The Act aims to eradicate First Nations culture in favour of assimilation into Euro-Canadian society.The Act also reinforces thatStatus
+Indiansmust voluntarily give up status and treaty
+rights to vote federally. Status Indian women are barred from voting inbandcouncil elections.
+--------------------------------------------------------------------------------
+Item 71: Treaty 6
+Date: August 23, 1876
+Description: Treaty 6was signed at Carlton and at Fort Pitt with the Plains Cree, Woodland Cree and Assiniboine. It ceded an area of 120,000 sq. miles of the plains of Saskatchewan and Alberta.
+--------------------------------------------------------------------------------
+Item 72: Treaty 7
+Date: September 22, 1877
+Description: Treaty 7was signed at Blackfoot Crossing in southern Alberta by the Siksika, Kainai, Piikani, Tsuut'ina and Stoney. Canadian officials understood that by the treaty First Nations surrendered some 35,000 sq miles of land to the Crown in return for reserves, payments and annuities.
+--------------------------------------------------------------------------------
+Item 73: Creation of Residential Schools
+Date: April 19, 1884
+Description: Amendments to theIndian Actof 1876 provide for the creation ofresidential schools, funded and operated by the Government of Canada and Roman Catholic, Anglican, Methodist, Presbyterian and United churches.
+--------------------------------------------------------------------------------
+Item 74: Chinese Head Tax
+Date: January 01, 1885
+Description: Chinese migrants were obligated to pay a $50 "entry" or"head" taxbefore being admitted into Canada. The Chinese were the only ethnic group required to pay a tax to enter Canada. By 1903, the head tax was increased to $500; the number of Chinese who paid the fee in the first fiscal year dropped from 4719 to 8.
+--------------------------------------------------------------------------------
+Item 75: Electoral Franchise Act
+Date: January 01, 1885
+Description: The original draft of the Act gave federal voting rights to some women, but under the final legislation, only men can vote. The Act gives someReserveFirst Nationswith property qualifications the right to vote, but bars Chinese Canadians.
+--------------------------------------------------------------------------------
+Item 76: Battle of Duck Lake
+Date: March 26, 1885
+Description: Leif Crozier, with a force of 98North-West Mounted Police, was routed byMétisunderGabriel DumontatDuck Lake, Saskatchewan, marking the outbreak of theNorth-West Resistance.
+--------------------------------------------------------------------------------
+Item 77: Peasant Farm Policy Introduced
+Date: January 01, 1889
+Description: From 1889 to 1897, theCanadian government’sPeasant Farm Policyset limits onIndigenousagricultureon the Prairies. The policy included rules about the types of toolsFirst Nationsfarmers could use onreservelands. It also restricted how much they grew and what they could sell. The policy impeded the growth and development of First Nations farms and reduced their ability to compete with settler farms on the open market.
+--------------------------------------------------------------------------------
+Item 78: Death of Sitting Bull
+Date: December 15, 1890
+Description: Hunkpapa Lakota Sioux warrior and chief Tatanka Iyotake, also known as Sitting Bull, died at Standing Rock, South Dakota. Sitting Bull was a leader in indigenous resistance against American westward expansion. He and his people sought refuge in Canada, but left when the Canadian government refused to establish a reserve for them. Sitting Bull was killed during a gunfight with American authorities trying to execute a warrant for his arrest.
+--------------------------------------------------------------------------------
+Item 79: Sifton Encourages Immigration
+Date: January 01, 1896
+Description: Clifford Sifton removed red tape, broadened the selection of potential immigrants and offered incentives to those who would come to settle the Canadian West, "the last, best West." The result was an influx of immigrants from eastern and southern Europe that changed the composition of the Canadian population forever.
+--------------------------------------------------------------------------------
+Item 80: Treaty 8
+Date: June 21, 1899
+Description: Cree, Beaver, Chipewyan and Slavey First Nations ceded territory south and west of Great Slave Lake in northern Alberta to the federal government inTreaty 8.
+--------------------------------------------------------------------------------
+Item 81: Barr Colonists Arrive
+Date: April 17, 1903
+Description: The Barr colonists arrived in Saskatoon, where they spent 2 weeks reorganizing before embarking on a wagon trip to the Barr colony on the Alberta border.
+--------------------------------------------------------------------------------
+Item 82: Indian Act Amendment Allows for Forced Enfranchisement of Status Indians
+Date: February 26, 1920
+Description: TheIndian Actis amended to allow for the forcedenfranchisementofFirst Nationswhom the government thought should be removed frombandlists. Enfranchisement was the most common of the legal processes by which First Nations peoples lost theirIndian Statusunder theIndian Act.
+--------------------------------------------------------------------------------
+Item 83: Residential Schools Become Mandatory
+Date: April 01, 1920
+Description: Deputy Superintendent General of Indian Affairs,Duncan Campbell Scott, makes attendance at residential school mandatory for every First Nations child between 7 and 16 years of age. This policy was also inconsistently applied to Métis and Inuit children.
+--------------------------------------------------------------------------------
+Item 84: Lake of the Woods Treaty
+Date: February 24, 1925
+Description: Canada signed a boundary treaty with the US, providing for an International Lake of the Woods Control Board.
+--------------------------------------------------------------------------------
+Item 85: CN Rail Establishes Canadian National Land Settlement Association
+Date: March 09, 1925
+Description: TheCanadian National Railway(CN) established theCanadian National Land Settlement Associationto promoteimmigrationand land settlement in Canada. This increased rail traffic and helped the railway use some of the land granted by the federal government.
+--------------------------------------------------------------------------------
+Item 86: Ewing Report Recommends “Métis colonies” Be Established
+Date: February 15, 1936
+Description: The Ewing Commission was the result ofMétisleadershiplobbyingtheAlbertagovernment to set aside land for Métis settlers. The commission examined the socio-economic conditions faced by Métis in Alberta and recommended creating “Métis colonies.” The provincial government eventually established 12Métis settlementsin the central and northern parts of the province. By 1960, the provincial government had rescinded four of those settlements. The remaining eight (Paddle Prairie, Peavine, Gift Lake, East Prairie, Buffalo Lake, Kikino, Elizabeth and Fishing Lake) continue to be vibrant Métis communities.
+--------------------------------------------------------------------------------
+Item 87: The Sixties Scoop
+Date: January 01, 1960
+Description: Asresidential schoolsclosed, thousands of Indigenous children were taken from their families by provincial and federal social workers and placed in foster or adoption homes. Often, these homes were non-Indigenous. Some children were even placed outside of Canada. (See alsoSixties Scoop.)
+--------------------------------------------------------------------------------
+Item 88: Yukon Land Claims
+Date: February 14, 1973
+Description: The federal government established a committee to negotiate land claims in the Yukon.
+--------------------------------------------------------------------------------
+Item 89: First Reserve in NWT
+Date: March 18, 1973
+Description: The first First Nations reserve in the Northwest Territories was created at Hay River.
+--------------------------------------------------------------------------------
+Item 90: NWT Court Allows Land Claim
+Date: September 07, 1973
+Description: The Northwest Territories Supreme Court allowed the Indian Brotherhood of the NWT to file a land claim for one-third of the NWT.
+--------------------------------------------------------------------------------
+Item 91: Nunavut Land Claims Presented to Government
+Date: January 01, 1976
+Description: TheInuit Tapirisat of Canadasubmitted a formal land claims proposal to the Government of Canada.
+--------------------------------------------------------------------------------
+Item 92: “Indian Women’s March” Protests theIndian Act
+Date: July 19, 1979
+Description: Twenty-eight women from the Tobique First Nation’s women’s group organized a 160 km walk from the Oka Reserve in Québec to Ottawa. They aimed to bring national attention to gender discrimination in theIndian Act.
+--------------------------------------------------------------------------------
+Item 93: UNHRC Decision HighlightsIndian ActDiscrimination
+Date: July 30, 1981
+Description: TheUnited NationsHuman Rights Commission (UNHRC) presented its decision on the Lovelace case. Sandra Lovelace, of the Maliseet First Nation, argued that losing herIndian Statusafter marrying a non-Status Indian was discriminatory. The UNHRC declared Lovelace’s status loss tantamount to cultural interference.
+--------------------------------------------------------------------------------
+Item 94: Inuvialuit Final Agreement
+Date: June 05, 1984
+Description: After ten years of negotiation, the Inuvialuit Final Agreement (IFA) was settled in Northwest Territories. The IFA was Canada’s second finalized comprehensive land claim, and the first in the extreme North. The Inuvialuit exchanged exclusive usage of ancestral lands for guaranteed rights over land, wildlife protocols and funds.
+--------------------------------------------------------------------------------
+Item 95: Bill C-31, An Act to Amend theIndian Act, Passed
+Date: June 17, 1985
+Description: Since the mid-1800s the status of women had been tied to that of their husbands. Therefore, if a Status Indian woman married a non-Status Indian man, she would lose her status and if a non-Status Indian woman married a Status Indian man, she would acquire status. Bill C-31 removed these discriminatory provisions.
+--------------------------------------------------------------------------------
+Item 96: Oka Standoff
+Date: July 11, 1990
+Description: A standoff began at Oka, Québec, when police attempted to storm a barricade erected by the Mohawk to block the expansion of a golf course onto land claimed by the Mohawk. The protesters surrendered to soldiers on September 26, after a 2-month-long siege.
+--------------------------------------------------------------------------------
+Item 97: Canadian Forces Called in at Oka
+Date: August 17, 1990
+Description: Québec premier Robert Bourassa asked that the Canadian Forces replace the Sûreté du Québec (SQ) to resolve the Oka Crisis, a standoff by the Mohawk of the Kanesatake Reserve who had set up a blockade to protest the expansion of a golf course across land they claimed. Corporal Marcel Lemay, of the SQ, was killed on July 11 when the SQ stormed the blockade. The standoff ended peaceably 78 days after it began.
+--------------------------------------------------------------------------------
+Item 98: Phil Fontaine’s Testimony of Abuse at Residential Schools
+Date: October 30, 1990
+Description: Phil Fontaine, Head of the Assembly of Manitoba Chiefs, speaks publicly of the abuse he suffered at Fort Alexander Residential School. He calls for a public inquiry into the schools, which the federal government initiates in 1991.
+--------------------------------------------------------------------------------
+Item 99: Gwich’in Comprehensive Land Claim Agreement
+Date: April 22, 1992
+Description: The Gwich’in Tribal Council and the Canadian and the Northwest Territories governments signed the Gwich’in Comprehensive Land Claim Agreement. The Agreement involved lands in the Mackenzie Delta in the Northwest Territories and in Yukon. Special hunting rights were also extended, permitting the harvest of fur-bearing animals throughout the settlement area.
+--------------------------------------------------------------------------------
+Item 100: ​Inuit Accept the Terms of the Nunavut Land Claims Agreement
+Date: November 03, 1992
+Description: A majority of Inuit beneficiaries voted to accept the terms of the proposed Nunavut Land Claims Agreement. In tandem with theNunavut Act, the land claims agreement led to the creation of the territory of Nunavut.
+--------------------------------------------------------------------------------
+Item 101: The Gwaii Haanas Agreement Was Signed
+Date: January 30, 1993
+Description: The Council of the Haida Nation and the Government of Canada signed the Gwaii Haanas Agreement, which designated Gwaii Haanas, the southernmost Haida Gwaii island, a National Park Reserve and Haida Heritage Site. Clear-cut logging threatened the island, its peoples and their cultural heritage in the late 1970s through 1985. Haida protests stopped the logging, leading to this agreement.
+--------------------------------------------------------------------------------
+Item 102: Nisga'a Land Claim Agreement
+Date: February 15, 1996
+Description: Federal and provincial officials signed an agreement of land claims with the Nishga'a in northwestern British Columbia.The Final Agreement calls for cash payments to the Nisga'a of approximately $190 million over a period of years, and recognizes the communal ownership and self-governance of about 2,000 km2of Nisga’a lands in the Nass River Valley.
+--------------------------------------------------------------------------------
+Item 103: Off-Reserve Voting Rights
+Date: May 20, 1999
+Description: The Supreme Court of Canada ruled unanimously to open Indigenous band elections to off-reserve band members, stating that excluding them violated the Canadian Charter of Rights and Freedoms.
+--------------------------------------------------------------------------------
+Item 104: Treaty to Share Pacific Salmon
+Date: June 30, 1999
+Description: Canada and the US signed a treaty governing the conservation and sharing of Pacific salmon, which migrate between waters of the two nations.
+--------------------------------------------------------------------------------
+Item 105: Nisga'a Treaty Approved
+Date: December 13, 1999
+Description: The House of Commons voted 217-48 in favour of a bill that would give the Nisga'a of northwest BC the right to self-government. The band received 2000 sq km of land and $253 million. In return they agreed to pay taxes and relinquish future claims.
+--------------------------------------------------------------------------------
+Item 106: Nisga'a Treaty
+Date: April 13, 2000
+Description: The Nisga'a Treaty was given royal assent by Governor General Adrienne Clarkson.
+--------------------------------------------------------------------------------
+Item 107: Nuu-chah-nulth Agree to Treaty
+Date: March 10, 2001
+Description: The Nuu-chah-nulth tribal council, the largest Indigenous group in British Columbia, agreed to a treaty with the provincial and federal governments, giving it more autonomy over its territories on Vancouver and Meares islands and a large one-time payment.
+--------------------------------------------------------------------------------
+Item 108: Kluane First Nation Land Claim
+Date: October 18, 2003
+Description: The Kluane First Nation signed a finalized land claims and self-government agreement with the Canadian and Yukon governments. The Kluane First Nation is located at Burwash Landing, a former trading post. Among the Final Agreement’s many objectives was the preservation of Yukon First Nations’ cultural heritage and language.
+--------------------------------------------------------------------------------
+Item 109: Commemorative Fountain in Québec
+Date: July 03, 2007
+Description: The Simons family offered the Tourny Fountain to Québec City for the 400th anniversary celebrations. One of 6 fountains made in the second half of the 19th century to grace opposite ends of Allées de Tourny in Bordeaux, France, the fountain was dismantled and reconstructed in Québec City.
+--------------------------------------------------------------------------------
+Item 110: Indian Residential Schools Settlement Agreement Comes into Effect
+Date: September 01, 2007
+Description: TheIndian Residential Schools Settlement Agreementprovides compensation to Survivors, including the Common Experience Payment, which is based on the number of years they attended residential school. Claims of sexual and physical abuse are assessed through an independent process. The Agreement focuses on funding and supporting Indigenous health and healing services and also establishes funds for theTruth and Reconciliation Commission(TRC).
+--------------------------------------------------------------------------------
+Item 111: 400th Anniversary Celebrations (Que)
+Date: December 31, 2007
+Description: An outdoor show outside of Québec City involving more than 400 performers kicked off celebrations of the 400th anniversary of the city's founding.
+--------------------------------------------------------------------------------
+Item 112: Truth and Reconciliation Commission of Canada is Established
+Date: June 01, 2008
+Description: The Canadian government authorizes theTruth and Reconciliation Commissionof Canada to document the truth of Survivors, families and communities and inform all Canadians about what happened in residential schools. It is funded by the Indian Residential School Settlement Agreement.
+--------------------------------------------------------------------------------
+Item 113: Formal Apology to Former Residential Schools Students
+Date: June 11, 2008
+Description: Prime Minister Stephen Harper, on behalf of the Government of Canada, delivers a formal apology in the House of Commons to former students, their families, and communities for Canada's role in the operation of residential schools. Provincial and territorial apologies follow in the years ahead.
+--------------------------------------------------------------------------------
+Item 114: Tsawwassen Treaty
+Date: April 03, 2009
+Description: The Tsawwassen First Nation treaty in British Columbia legally took effect, providing Indigenous members of the Lower Mainland region financial support to help increase the economic vitality of the area. It is was the first urban treaty ever negotiated in British Columbia.
+--------------------------------------------------------------------------------
+Item 115: First National Truth and Reconciliation Event
+Date: June 16, 2010
+Description: The Truth and Reconciliation Commission of Canada hosts its first national event, in Winnipeg, MB. It explores the history of the residential school system, the experience of former students and their families and the impact such institutions had on Indigenous peoples in Canada. Over the next five years, six more events follow in cities around the country, with a national closing ceremony in Ottawa.
+--------------------------------------------------------------------------------
+Item 116: Eeyou Marine Region Land Claims Agreement
+Date: November 29, 2011
+Description: The Eeyou Marine Region Land Claims Agreement, recognizing the Indigenous rights and title of the Cree of Eeyou Istchee, received assent. The land claims process began in 1974. The Agreement is unusual because it traverses boundaries. For instance, the settlement area includes a section of Northern Québec coastline and offshore islands claimed by Nunavut.
+--------------------------------------------------------------------------------
+Item 117: First Totem Pole Erected in Gwaii Haanas in 130 Years
+Date: August 15, 2013
+Description: The Gwaii Haanas Legacy Pole, carved by a team of Haida craftsmen led by Jaalen Edenshaw, was erected in Gwaii Haanas National Park Reserve and Haida Heritage Site on Haida Gwaii. The totem pole was the first erected on Gwaii Haanas in 130 years. It marked the site of the 1985 standoff over a proposed clear-cut logging operation that led, eight years later, to the 1993 South Moresby Agreement. That agreement created Gwaii Haanas, an ecological and heritage partnership between the Haida Nation and Parks Canada.
+--------------------------------------------------------------------------------
+Item 118: Sioux Valley Dakota Nation Self-Government Agreement
+Date: March 04, 2014
+Description: The Sioux Valley Dakota Nation Self-Government Agreement, the first self-government agreement on the Prairies, received Royal Assent. The Sioux Valley Dakota are located near Brandon, Manitoba. Not a treaty, the self-government protocols give the First Nation more control over governing decisions involving economic development, land management, education, housing and utility management.
+--------------------------------------------------------------------------------
+Item 119: Final National Truth and Reconciliation Event
+Date: March 27, 2014
+Description: The seventh and final national event of the Truth and Reconciliation Commission of Canada (TRC) takes place over three days in Edmonton, Alberta inviting individuals, families, and communities to share their experiences at residential schools.
+--------------------------------------------------------------------------------
+Item 120: National Operational Review on Missing and Murdered Aboriginal Women
+Date: May 16, 2014
+Description: The RCMP released the National Operational Review on Missing and Murdered Aboriginal Women. Research identified 1,181missing and murdered Indigenous women and girlsin Canadian police databases: 164 missing (dating back to 1952) and 1,017 murdered (between 1980 and 2012).
+--------------------------------------------------------------------------------
+Item 121: City of Vancouver Acknowledges the City is on Unceded Aboriginal Territory
+Date: June 25, 2014
+Description: During its Year of Reconciliation, Vancouver city council unanimously voted to acknowledge that the city was built on unceded Indigenous territory. The motion read, in part, “the modern city of Vancouver was founded on the traditional territories of the Musqueam, Squamish and Tsleil-Waututh First Nations […] these territories were never ceded through treaty, war or surrender.”
+--------------------------------------------------------------------------------
+Item 122: National Centre for Truth and Reconciliation Opens
+Date: November 03, 2015
+Description: The National Centre for Truth and Reconciliation, a permanent archive of materials, documents and testimonies onresidential schoolsgathered during theTruth and Reconciliation Commission,opens at theUniversity of ManitobainWinnipeg.
+--------------------------------------------------------------------------------
+Item 123: Ottawa Launches Inquiry into Missing and Murdered Indigenous Women
+Date: August 03, 2016
+Description: Thefederal governmentlaunched theNational Inquiry into Missing and Murdered Indigenous Women and Girls, naming five commissioners and outlining its terms of reference. It committed $53.86 million over two years to the initiative, with the goal of producing recommendations on concrete actions to address the disproportionately high rate of violence towardIndigenous women and girlsin Canada. The inquiry set out with a focus on prevention in addition to tackling issues of systemic and societaldiscrimination.
+--------------------------------------------------------------------------------
+Item 124: Québec Announces Inquiry into Treatment of Indigenous People
+Date: December 21, 2016
+Description: After months of public pressure led by Indigenous leaders,QuébecpremierPhilippe Couillardannounced that the province would undertake a public inquiry into systemicdiscriminationtowardIndigenous people. Calls for the inquiry grew in the wake of an October 2015Radio-Canadainvestigation into the mistreatment and abuse ofIndigenous womenbypoliceofficers inVal-d’Or.
+--------------------------------------------------------------------------------
+Item 125: Former Patients file lawsuit related to Indian Hospitals in Canada
+Date: January 25, 2018
+Description: Former patients ofIndian hospitals in Canadafiled a class-action lawsuit against the federal government relating to their experiences in these institutions. The lawsuit requests financial compensation and acknowledgement of the negligence of the federal government in its operation of these hospitals.
+--------------------------------------------------------------------------------
+Item 126: Agreement Reached in Williams Treaties Dispute
+Date: September 13, 2018
+Description: In 1992, the sevenWilliams TreatiesFirst Nations filed a lawsuit against the federal government asking for financial compensation forland surrendersand loss of rights dictated by the Williams Treaties. Ten years later, a trial began in which Canada and Ontario acknowledged limited off-reservetreaty harvesting rights, but litigation was dropped in favour of out-of-court negotiations. These began in March 2017. A negotiated settlement approved on 13 September 2018 gave financial compensation to the First Nations involved. It recognized their harvesting rights and allowed each First Nation to add up to 4,452 hectares to theirreservesby purchase from willing sellers.
+--------------------------------------------------------------------------------
+Item 127: 200 Possible Unmarked Graves Found on Grounds of Kamloops Residential School
+Date: May 27, 2021
+Description: Embed from Getty ImagesGround disturbances indicating 200 possible unmarked graves were found using ground penetrating radar on the grounds of the former Kamloops Indian Residential School — at one time the largestresidential schoolin the country. Chief Rosanne Casimir of the Tk’emlups te Secwepemc First Nation called the finding an “unthinkable loss that was spoken about but never documented.”
+--------------------------------------------------------------------------------
+Item 128: Hundreds of Possible Unmarked Graves Found at Saskatchewan Residential School
+Date: June 23, 2021
+Description: One month after the discovery of 200 possible unmarked graves at a formerresidential schoolinKamloops,BC, ground-penetrating radar revealed an estimated 751 possible unmarked graves at the site of the former Marieval Indian Residential School in Cowessess First Nation territory, about 150 km east ofRegina. The radar search began on 1 June. The Marieval school was open from 1899 to 1997 and was administered by theCatholic Churchuntil 1968.
+--------------------------------------------------------------------------------

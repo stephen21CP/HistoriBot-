@@ -1,0 +1,756 @@
+Item 1: Reform Victory in Canada
+Date: January 24, 1848
+Description: Election returns resulted in an overwhelming Reform victory in both Canada East and Canada West. Louis LaFontaine became premier, Robert Baldwin co-premier.
+--------------------------------------------------------------------------------
+Item 2: Tilley Defeated in NB
+Date: March 04, 1865
+Description: The New Brunswick government, led by pro-Confederation Leonard Tilley, was defeated in the only election held on the issue of Confederation.
+--------------------------------------------------------------------------------
+Item 3: British North America Act
+Date: March 08, 1867
+Description: TheBritish North America Actwas passed by the British Parliament and given royal assent by Queen Victoria on 29 March. It came into effect on 1 July. The Act joined the colonies of Canada, Nova Scotia and New Brunswick in one federal union. In 1949,Newfoundland becomes Canada’s newest province. In 1999,Nunavutbecomes Canada’s newest territory. Its creation establishes self-governance for the region’s Inuit population.
+--------------------------------------------------------------------------------
+Item 4: John A. Macdonald Becomes First PM
+Date: July 01, 1867
+Description: John A. Macdonald became the first prime minister of Canada.
+--------------------------------------------------------------------------------
+Item 5: Conservatives Win First Majority
+Date: August 07, 1867
+Description: In the first general election afterConfederation, theConservativeswon a majority with 101 seats to theLiberals' 80; Sir John A. Macdonald, who had been chosen prime minister by the Governor General when Canada was created, remained prime minister.
+--------------------------------------------------------------------------------
+Item 6: First Election Post-Confederation
+Date: September 20, 1867
+Description: Sir John A. Macdonaldleads theConservative Partyto victory. Men over the age of 21 who meet property qualifications can vote.
+--------------------------------------------------------------------------------
+Item 7: Chinese Canadians in BC Disenfranchised
+Date: January 01, 1872
+Description: The British Columbia legislature passed a law banning Chinese residents from voting. In the 1860s, every male inhabitant of the province had been allowed to vote for legislative councillors. Prior to the ban, Chinese residents formed the majority of voters in some districts.
+--------------------------------------------------------------------------------
+Item 8: Conservatives Win Second Majority
+Date: July 20, 1872
+Description: In the federal election, the Conservatives won a majority with 103 seats to the Liberals' 97; Sir John A. Macdonald remained prime minister.
+--------------------------------------------------------------------------------
+Item 9: First Liberal Prime Minister
+Date: November 07, 1873
+Description: Alexander Mackenzie became Canada's first Liberal prime minister.
+--------------------------------------------------------------------------------
+Item 10: Liberals Win First Majority
+Date: January 22, 1874
+Description: In the federal election, the Liberals formed their first majority, winning 133 seats. Alexander Mackenzie became the first Liberal prime minister.
+--------------------------------------------------------------------------------
+Item 11: Secret Ballot Introduced
+Date: May 26, 1874
+Description: An Act was passed introducing vote by secret ballot, simultaneous elections and the abolition of property qualifications for Members of Parliament.
+--------------------------------------------------------------------------------
+Item 12: Secret Ballot in Québec
+Date: February 23, 1875
+Description: A new electoral law was instated in Québec, enforcing the secret ballot for the first time.
+--------------------------------------------------------------------------------
+Item 13: Secret Ballot Employed
+Date: January 22, 1878
+Description: The secret ballot and simultaneous voting were employed for the first time in Canada.
+--------------------------------------------------------------------------------
+Item 14: Conservatives Regain Power
+Date: September 17, 1878
+Description: In the federal election, the Conservatives regained power with 137 seats to the Liberals' 69. Sir John A. Macdonald became prime minister again.
+--------------------------------------------------------------------------------
+Item 15: Macdonald Becomes Prime Minister for the Second Time
+Date: October 17, 1878
+Description: Conservative leader Sir John A. Macdonald defeated Liberal leader Alexander Mackenzie and became prime minister of Canada for the second time.
+--------------------------------------------------------------------------------
+Item 16: Conservatives Retain Power 1882
+Date: June 20, 1882
+Description: In the federal election, the Conservatives retained power, winning 139 seats to the Liberals' 71. Macdonald remained prime minister.
+--------------------------------------------------------------------------------
+Item 17: Voters are Male “Persons”
+Date: January 01, 1885
+Description: Under theElectoral Franchise Act, those permitted to vote at the federal level are defined as “male person[s].” The original draft of the bill had attempted to expand thefranchiseto unmarried women and widows with property (and toFirst Nationsliving on reserves), but these groups were dropped from the final legislation.
+--------------------------------------------------------------------------------
+Item 18: Conservatives Retain Power 1887
+Date: February 22, 1887
+Description: In the federal election, the Conservatives retained power with a reduced majority, winning 123 seats to the Liberals' 92. Sir John A. Macdonald remained prime minister.
+--------------------------------------------------------------------------------
+Item 19: Conservatives Retain Power 1891
+Date: March 05, 1891
+Description: In the federal election, the results were identical to those of 1887, with 123 Conservative seats and 92 Liberal. Sir John A. Macdonald won his last election and remained prime minister.
+--------------------------------------------------------------------------------
+Item 20: Death of Sir John A. Macdonald
+Date: June 06, 1891
+Description: SirJohn A. Macdonalddied in Ottawaat the age of 76. Thousands of grieving Canadians viewed his casket on display in the Senate.
+--------------------------------------------------------------------------------
+Item 21: Abbott Chosen Leader
+Date: June 16, 1891
+Description: John Joseph Caldwell Abbott was chosen to succeed Macdonald as leader of the Conservatives and became prime minister.
+--------------------------------------------------------------------------------
+Item 22: Thompson Becomes PM
+Date: November 25, 1892
+Description: John Sparrow David Thompson succeeded J.J.C. Abbott as prime minister.
+--------------------------------------------------------------------------------
+Item 23: Bowell Becomes PM
+Date: December 21, 1894
+Description: Following the death of J.S.D. Thompson on December 12, Mackenzie Bowell became prime minister.
+--------------------------------------------------------------------------------
+Item 24: Japanese Canadians in BC Disenfranchised
+Date: January 01, 1895
+Description: The government of British Columbia amended theProvincial Voters’ Act, disenfranchising Japanese Canadians in the province.
+--------------------------------------------------------------------------------
+Item 25: Tupper Becomes PM
+Date: May 01, 1896
+Description: Sir Charles Tupper became prime minister, succeeding Mackenzie Bowell.
+--------------------------------------------------------------------------------
+Item 26: Liberal Victory, Laurier PM
+Date: June 23, 1896
+Description: In the federal election, the Liberals defeated the Conservatives with 118 seats to 88. Wilfrid Laurier became Canada's first French-Canadian prime minister and marked a turning point in Canadian politics after years of Conservative Party rule.
+--------------------------------------------------------------------------------
+Item 27: Liberals Hold Power 1900
+Date: November 07, 1900
+Description: In the federal election, the Liberals were sustained in power, with 132 seats to the Conservatives' 81. Laurier remained prime minister.
+--------------------------------------------------------------------------------
+Item 28: Japanese Right to Vote
+Date: March 09, 1901
+Description: Naturalized Japanese won the right to vote in their successful appeal of the BC Elections Act.
+--------------------------------------------------------------------------------
+Item 29: Liberals Retain Power 1904
+Date: November 03, 1904
+Description: In a federal election, the Liberals maintained power, with 139 seats to the Conservatives' 75. Laurier remained prime minister.
+--------------------------------------------------------------------------------
+Item 30: Chinese Canadians in Saskatchewan Disenfranchised
+Date: January 01, 1908
+Description: The province of Saskatchewan passed a law disenfranchising Chinese Canadians.
+--------------------------------------------------------------------------------
+Item 31: Liberals Retain Power 1908
+Date: October 26, 1908
+Description: In a federal election, the Liberals remained in power with 133 seats to the Conservatives' 75. Laurier remained prime minister.
+--------------------------------------------------------------------------------
+Item 32: Borden Becomes Prime Minister
+Date: October 11, 1911
+Description: Robert Borden became prime minister, ending Laurier's 15-year rule.
+--------------------------------------------------------------------------------
+Item 33: Manitoba Women Get Vote
+Date: January 28, 1916
+Description: Manitoba was the first province in Canada to grant women the right to vote and to hold political office provincially.
+--------------------------------------------------------------------------------
+Item 34: Saskatchewan Women Get Vote
+Date: March 14, 1916
+Description: Saskatchewan women won the rights to vote and to hold provincial office.
+--------------------------------------------------------------------------------
+Item 35: Alberta Women Get Vote
+Date: April 19, 1916
+Description: Alberta women won the rights to vote and to hold provincial office.
+--------------------------------------------------------------------------------
+Item 36: BC Women Get Vote
+Date: April 05, 1917
+Description: British Columbia women (except Asian and Indigenous women) won the rights to vote and to hold provincial office.
+--------------------------------------------------------------------------------
+Item 37: Women Get Vote in Ontario
+Date: April 12, 1917
+Description: Women were granted the right to vote and hold public office in Ontario.
+--------------------------------------------------------------------------------
+Item 38: First Elected Women
+Date: June 07, 1917
+Description: Louise McKinney and Roberta MacAdams were the first women in Canada elected to a provincial legislature, in Alberta.
+--------------------------------------------------------------------------------
+Item 39: Wartime Elections Act and Military Voters Act
+Date: September 20, 1917
+Description: Parliament passes theWartime Elections Act.The right to vote federally now extends to
+women in thearmed
+forcesand female relatives of military men. However,
+Citizens considered of “enemy alien” birth and somepacifistcommunities are disenfranchised.
+--------------------------------------------------------------------------------
+Item 40: Unionists Win Election
+Date: December 17, 1917
+Description: In a general election, a Unionist coalition of Conservatives and Liberals won 153 seats to the Liberals' 82. Borden remained prime minister.
+--------------------------------------------------------------------------------
+Item 41: First Woman Elected to BC legislature
+Date: January 24, 1918
+Description: Mary Ellen Smith was the first woman elected to the BC legislature; it was the first election in which women could vote in BC.
+--------------------------------------------------------------------------------
+Item 42: Nova Scotia Women Get Vote
+Date: April 26, 1918
+Description: Nova Scotia women won the rights to vote and to hold provincial office.
+--------------------------------------------------------------------------------
+Item 43: New Brunswick Women Get Vote
+Date: April 17, 1919
+Description: New Brunswick women won the right to vote but not to hold provincial office.
+--------------------------------------------------------------------------------
+Item 44: Yukon Women Get Vote
+Date: May 20, 1919
+Description: Yukon women won the right to vote and seek elected office.
+--------------------------------------------------------------------------------
+Item 45: Women Gain Right to Hold Office
+Date: July 01, 1919
+Description: Women became eligible to stand for office in the House of Commons.
+--------------------------------------------------------------------------------
+Item 46: Saskatchewan Elects First Female MLA
+Date: July 29, 1919
+Description: Sarah Ramsland, Saskatchewan’s first femaleMember of the Legislative Assembly, won her seat in a by-election. After her husband, MLA Max Ramsland, died in the 1918 influenza epidemic, Sarah was invited to run in the same district and won. In the first 66 years in which Saskatchewan women could hold provincial office, only 10 were elected.
+--------------------------------------------------------------------------------
+Item 47: United Farmers of Ontario
+Date: October 20, 1919
+Description: In an Ontario general election, the Conservative government was defeated by the United Farmers of Ontario, led by E.C. Drury, who became premier.
+--------------------------------------------------------------------------------
+Item 48: First Woman Elected to Manitoba Legislature
+Date: June 29, 1920
+Description: Edith MacTavish Rogers became the first woman elected to the Legislative Assembly of Manitoba.
+--------------------------------------------------------------------------------
+Item 49: Dominion Elections Act
+Date: July 01, 1920
+Description: TheDominion Elections Actenfranchised many of those who had been disenfranchised during the First World War, such as those originating from countries with which Canada had been at war. However, theActstated that anyone who was disenfranchised by provincial legislation because of race would remain disenfranchised from the federal vote. This included persons of Chinese origin in Saskatchewan, and those of Indigenous, Chinese, Japanese, and South Asian origins in British Columbia.
+--------------------------------------------------------------------------------
+Item 50: Arthur Meighen Becomes PM
+Date: July 10, 1920
+Description: Robert Borden resigned and was succeeded as Conservative prime minister by Arthur Meighen.
+--------------------------------------------------------------------------------
+Item 51: United Farmers of Alberta Win
+Date: July 18, 1921
+Description: The United Farmers of Alberta won the provincial election, forming the government until 1935. They chose Herbert Greenfield as premier.
+--------------------------------------------------------------------------------
+Item 52: Parlby Elected
+Date: July 18, 1921
+Description: Irene Parlbywas elected to the Alberta Legislature, representing Lacombe in the United Farmers of Alberta government. She was subsequently named toCabinet, as minister without portfolio. Parlby was only the second woman in the British Empire to hold ministerial office. She was particularly active on issues related to public health care, improved wages for working women and married women's property rights.
+--------------------------------------------------------------------------------
+Item 53: Liberals Win Minority
+Date: December 06, 1921
+Description: In a federal election, the Liberals won a minority government with 116 seats. The Conservatives took 50, the Progressives 65 (there were 4 other members). Mackenzie King became prime minister.
+--------------------------------------------------------------------------------
+Item 54: King Becomes Prime Minister
+Date: December 29, 1921
+Description: W.L. Mackenzie King became prime minister of Canada for the first time.
+--------------------------------------------------------------------------------
+Item 55: PEI Women Get Vote
+Date: May 03, 1922
+Description: Prince Edward Island women won the rights to vote and to hold provincial office.
+--------------------------------------------------------------------------------
+Item 56: First Nations Veterans Granted Right to Vote
+Date: January 01, 1924
+Description: The federal franchise was extended to Status Indian veterans of the First World War, including those living on reserves.
+--------------------------------------------------------------------------------
+Item 57: Newfoundland and Labrador Women Get Vote
+Date: April 03, 1925
+Description: Women over 25 years of age gained the right to vote and to stand for political office in Newfoundland and Labrador.
+--------------------------------------------------------------------------------
+Item 58: King Hangs on to Minority
+Date: October 29, 1925
+Description: In a federal election the Conservatives won a plurality of seats with 116, but King managed to hold onto power. The Liberals took 99 and the Progressives 24, and there were 6 other members.
+--------------------------------------------------------------------------------
+Item 59: King-Byng Affair
+Date: June 25, 1926
+Description: Mackenzie King's Liberals were defeated on a motion of censure. Governor General Byng refused to grant King's request to dissolve Parliament. Byng asked Arthur Meighen to form a government, which he did, on June 29.
+--------------------------------------------------------------------------------
+Item 60: Meighen Nonconfidence
+Date: July 02, 1926
+Description: The Meighen government was defeated in a nonconfidence motion.
+--------------------------------------------------------------------------------
+Item 61: King Forms Minority
+Date: September 14, 1926
+Description: In a federal  election the Liberals and Conservatives reversed fortunes with the Liberals winning 116 seats and the Conservatives 91. The Progressives won 13 seats and the UFA 11; there were 14 others. King became prime minister again, forming a minority.
+--------------------------------------------------------------------------------
+Item 62: King Prime Minister Again
+Date: September 25, 1926
+Description: Mackenzie King became prime minister again.
+--------------------------------------------------------------------------------
+Item 63: R.B. Bennett Becomes Leader
+Date: October 10, 1927
+Description: Richard Bedford Bennett succeeded Arthur Meighen as Conservative Party leader at a convention held in Winnipeg.
+--------------------------------------------------------------------------------
+Item 64: Conservatives Win BC Election
+Date: July 18, 1928
+Description: After 12 years of Liberal rule in BC, the Conservatives under Simon Tolmie took 35 of the province's 48 seats. Tolmie remained premier until November 1933.
+--------------------------------------------------------------------------------
+Item 65: First Woman Elected to the NL House of Assembly
+Date: May 17, 1930
+Description: Helena Squires became the first woman elected to the Newfoundland and Labrador House of Assembly.
+--------------------------------------------------------------------------------
+Item 66: Conservatives Win Election
+Date: July 28, 1930
+Description: In a federal election, the Conservatives won a majority with 137 seats to the Liberals' 91. The UFA held 10 and the Progressives dropped to 2. R.B. Bennett became prime minister.
+--------------------------------------------------------------------------------
+Item 67: R.B. Bennett Becomes PM
+Date: August 07, 1930
+Description: R.B. Bennett was sworn in as prime minister.
+--------------------------------------------------------------------------------
+Item 68: Japanese Canadian Veterans Given Right to Vote
+Date: January 01, 1931
+Description: The federal government granted the franchise to Japanese Canadian veterans of the First World War. They were the first Japanese Canadians given the right to vote.
+--------------------------------------------------------------------------------
+Item 69: NB Women Gain Right to Hold Office
+Date: March 09, 1934
+Description: New Brunswick women won the right to hold provincial office.
+--------------------------------------------------------------------------------
+Item 70: Liberals Win in Saskatchewan
+Date: June 19, 1934
+Description: The Liberals under James Garfield Gardiner won the Saskatchewan elections.
+--------------------------------------------------------------------------------
+Item 71: Social Credit Victory in Alberta
+Date: August 22, 1935
+Description: Charismatic Bible-thumping William Aberhart led the Social Credit Party to victory in the Alberta provincial elections. He was sworn in on September 3. The party dominated Alberta politics until 1971.
+--------------------------------------------------------------------------------
+Item 72: Liberals Win Election
+Date: October 14, 1935
+Description: In the federal election, the Liberals won a landslide majority, with 171 seats to the Conservatives' 39. The CCF won 7 seats and the Social Credit 17. King became prime minister for the third time.
+--------------------------------------------------------------------------------
+Item 73: King Sworn in as Prime Minister
+Date: October 23, 1935
+Description: Mackenzie King was sworn in as prime minister of Canada again.
+--------------------------------------------------------------------------------
+Item 74: Liberals Win Québec Election
+Date: October 25, 1939
+Description: The Liberals won the Québec provincial elections. Joseph-Adélard Godbout was sworn in as premier on 8 Nov.
+--------------------------------------------------------------------------------
+Item 75: Liberals Win Federal Election
+Date: March 26, 1940
+Description: In the federal election, the Liberals retained power with 178 seats. The Conservatives stayed at 39, the CCF won 8 and the Social Credit 10. King remained prime minister.
+--------------------------------------------------------------------------------
+Item 76: Québec Women Get Vote
+Date: April 25, 1940
+Description: Québec women were the last in Canada to earn the rights to vote and run for office in provincial elections.
+--------------------------------------------------------------------------------
+Item 77: Conservatives Win Ontario
+Date: August 04, 1943
+Description: George Drew's Progressive Conservative Party won the Ontario election, beginning a political dynasty that would last 42 years.
+--------------------------------------------------------------------------------
+Item 78: First Women Elected to Ontario Legislature
+Date: August 04, 1943
+Description: Agnes Macphailand Rae Luckock became the first women elected to the Ontario legislature.
+--------------------------------------------------------------------------------
+Item 79: Status Indian Servicemen and their Spouses Enfranchised
+Date: January 01, 1944
+Description: During the Second World War, the federal government extended the right to vote to Status Indians who served in the war and their spouses.
+--------------------------------------------------------------------------------
+Item 80: Chinese Canadians in Saskatchewan Given Right to Vote
+Date: January 01, 1944
+Description: The government of Saskatchewan restored Chinese Canadian residents’ right to vote, a right that had been denied in 1908.
+--------------------------------------------------------------------------------
+Item 81: Liberals Win Reduced Majority
+Date: June 11, 1945
+Description: In the federal election, the Liberals won with a reduced majority of 125 seats to the Conservatives' 67. The CCF rose to 28 seats. King remained prime minister.
+--------------------------------------------------------------------------------
+Item 82: Chinese and South Asian Canadians Gain Right to Vote Federally and Provincially
+Date: January 01, 1947
+Description: TheCitizenship Actextended the right to vote federally and provincially toChinese CanadianandSouth Asian Canadianmen and women. However, it ignoredIndigenous peoplesandJapanese Canadians.
+--------------------------------------------------------------------------------
+Item 83: Chinese and South Asian Canadians in BC Enfranchised
+Date: January 01, 1947
+Description: The British Columbia legislature removed the wordsChineseandHindusfrom the list of those ineligible to vote.
+--------------------------------------------------------------------------------
+Item 84: Changes toElections ActRegarding Race
+Date: January 01, 1948
+Description: The federalElections Actwas changed so that race was no longer grounds for exclusion from voting in federal elections. While Japanese Canadians were enfranchised, First Nations peoples would not gain that right until 1960.
+--------------------------------------------------------------------------------
+Item 85: King Sets Record for Longevity
+Date: January 08, 1948
+Description: With 7825 days in office, Mackenzie King set a record for being prime minister longer than any other government leader in the British Commonwealth.
+--------------------------------------------------------------------------------
+Item 86: King Resigns
+Date: November 15, 1948
+Description: W.L. Mackenzie King resigned as prime minister. He was succeeded by Louis St. Laurent the same day.
+--------------------------------------------------------------------------------
+Item 87: St-Laurent Becomes Prime Minister
+Date: November 15, 1948
+Description: Louis St-Laurent succeeded Mackenzie King as Liberal leader and became Canada's 12th prime minister.
+--------------------------------------------------------------------------------
+Item 88: First Nations Gain Right to Vote in British Columbia
+Date: January 01, 1949
+Description: Status Indians in British Columbia were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 89: Japanese Canadians Enfranchised
+Date: April 01, 1949
+Description: Japanese Canadianswere given theright to vote, and the legal restrictions used to control the movement of Japanese Canadians were removed. With their freedom reestablished, some moved back toBritish Columbia. But due to the hardships suffered, most Japanese Canadians who were expelled from the coast ordeporteddid not return. With the extension of the federal franchise to Japanese Canadians, the last statutory disenfranchisement of Asians was removed.
+--------------------------------------------------------------------------------
+Item 90: Liberals Win Landslide
+Date: June 27, 1949
+Description: In the federal election, the Liberals won a landslide with 190 seats (the highest by any party to that time) to only 41 seats for the Progressive Conservatives under George Drew. The CCF won 13 and the Social Credit 10. Louis St-Laurent remained PM.
+--------------------------------------------------------------------------------
+Item 91: Inuit Enfranchised
+Date: January 01, 1950
+Description: The Inuit were enfranchised without restrictions. However, the geographic isolation of northern communities meant that many did not have the opportunity to vote until ballot boxes were placed in all Inuit communities for the 1962 federal election.
+--------------------------------------------------------------------------------
+Item 92: Northwest Territories Women Get Vote
+Date: June 12, 1951
+Description: Women in the Northwest Territories won the right to vote and stand for office.
+--------------------------------------------------------------------------------
+Item 93: First Nations Gain Right to Vote in Manitoba
+Date: January 01, 1952
+Description: Status Indians in Manitoba were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 94: Liberals Retain Power
+Date: August 10, 1953
+Description: In the federal election, the Liberals won 171 seats, the Progressive Conservatives 51, the CCF 23 and the Social Credit 15. St. Laurent remained prime minister.
+--------------------------------------------------------------------------------
+Item 95: First Nations Gain Right to Vote in Ontario
+Date: January 01, 1954
+Description: Status Indians in Ontario were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 96: Conservatives Win Nova Scotia
+Date: October 30, 1956
+Description: The Conservatives under Robert Lorne Stanfield won the Nova Scotia election.
+--------------------------------------------------------------------------------
+Item 97: Conservatives Win Minority
+Date: June 10, 1957
+Description: In a federal election, the Progressive Conservatives won a minority government, with 112 seats. The Liberals retained 105, the CCF 25 and the Social Credit 19. John G. Diefenbaker became the first prime minister from western Canada on June 21.
+--------------------------------------------------------------------------------
+Item 98: Diefenbaker Sworn In
+Date: June 21, 1957
+Description: John Diefenbaker was sworn in as prime minister.
+--------------------------------------------------------------------------------
+Item 99: Conservatives Win Majority
+Date: March 31, 1958
+Description: In a federal election, the Progressive Conservatives won a resounding majority, with 208 seats (the highest to that time). The Liberals dropped to only 49 seats and the CCF to 8. Diefenbaker remained prime minister.
+--------------------------------------------------------------------------------
+Item 100: First Nations Gain Right to Vote in Saskatchewan
+Date: January 01, 1960
+Description: Status Indians in Saskatchewan were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 101: First Woman Elected to the Nova Scotia Legislature
+Date: June 07, 1960
+Description: Gladys Porter became the first woman elected to the Nova Scotia legislature.
+--------------------------------------------------------------------------------
+Item 102: Liberals Win Québec
+Date: June 22, 1960
+Description: The Liberals under Jean Lesage won the Québec provincial election, finally breaking the hold of the Union Nationale, and signalling a time for change and reform that has become known as the Quiet Revolution. Lesage was sworn in as premier on 5 Jul.
+--------------------------------------------------------------------------------
+Item 103: Right to Vote for Status Indians
+Date: July 01, 1960
+Description: Status Indiansreceive theright to votein federal elections, no longer losing their status ortreatyrights in the process. (See alsoIndigenous Suffrage in Canada.)
+--------------------------------------------------------------------------------
+Item 104: First Woman Elected to the National Assembly of Québec
+Date: December 14, 1961
+Description: Marie-Claire Kirkland-Casgrainbecame the first woman elected to theNational AssemblyofQuébec.
+--------------------------------------------------------------------------------
+Item 105: Conservatives Win Minority
+Date: June 18, 1962
+Description: In a federal election, the Conservatives were reduced to a minority government, dropping to 116 seats. The Liberals won 99, Social Credit 30 and the NDP 19 seats. Diefenbaker remained prime minister with the support of the Social Credit.
+--------------------------------------------------------------------------------
+Item 106: First Nations Gain Right to Vote in New Brunswick
+Date: January 01, 1963
+Description: Status Indians in New Brunswick were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 107: First Nations Gain Right to Vote in Prince Edward Island
+Date: January 01, 1963
+Description: Status Indians in Prince Edward Island were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 108: Liberals Win a Minority
+Date: April 08, 1963
+Description: In a federal election, the Liberals regained power, but after a vigorous campaign by Diefenbaker their 129 seats were only good for a minority government. The Conservatives held 95 seats, Social Credit 24 seats and the NDP 17. Lester Pearson became PM.
+--------------------------------------------------------------------------------
+Item 109: Pearson Sworn In
+Date: April 22, 1963
+Description: Lester Pearson was sworn in as prime minister.
+--------------------------------------------------------------------------------
+Item 110: Liberals Win in Saskatchewan
+Date: April 22, 1964
+Description: The Liberals under W. Ross Thatcher won the Saskatchewan provincial election, displacing the CCF-NDP after 20 years.
+--------------------------------------------------------------------------------
+Item 111: First Nations Gain Right to Vote in Alberta
+Date: January 01, 1965
+Description: Status Indians in Alberta were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 112: Liberals Keep Minority
+Date: November 08, 1965
+Description: In a general election, the Liberals gained only 2 seats to total 131 seats and maintain a minority government. The Conservatives won 97, the NDP 21, Social Credit 5, Ralliement des créditistes 9, and independents 2. Pearson remained prime minister.
+--------------------------------------------------------------------------------
+Item 113: First Woman Elected to the Yukon Territorial Council
+Date: September 11, 1967
+Description: Jean Gordon became the first woman elected to the Yukon Territorial Council.
+--------------------------------------------------------------------------------
+Item 114: First Woman Elected to the New Brunswick Legislature
+Date: October 23, 1967
+Description: Brenda Robertson became the first woman elected to the New Brunswick legislature.
+--------------------------------------------------------------------------------
+Item 115: Trudeau Sworn In
+Date: April 20, 1968
+Description: Pierre Trudeau was sworn in as Canada's 15th prime minister.
+--------------------------------------------------------------------------------
+Item 116: Trudeaumania Wins Majority
+Date: June 25, 1968
+Description: In a federal election in which Liberal leader Pierre Trudeau's popularity reached "Trudeamania,"  the Liberals won 155 seats and a majority. The Progressive Conservatives won 72 seats, the NDP 22, and the Créditistes 14, with one independent.
+--------------------------------------------------------------------------------
+Item 117: Leonard Marchand Elected to Federal Office
+Date: June 25, 1968
+Description: Leonard Marchand, member of the Okanagan Nation, became the first Indigenous person to be elected to the federal Parliament since Louis Riel.
+--------------------------------------------------------------------------------
+Item 118: First Nations Gain Right to Vote in Québec
+Date: January 01, 1969
+Description: Status Indians in Québec were granted the right to vote in provincial elections.
+--------------------------------------------------------------------------------
+Item 119: Liberals Win Québec
+Date: April 29, 1970
+Description: The Liberal Party led by Robert Bourassa won the Québec provincial election.
+--------------------------------------------------------------------------------
+Item 120: First Woman Elected to the PEI Legislature
+Date: May 11, 1970
+Description: Jean Canfield became the first woman elected to the Prince Edward Island legislature.
+--------------------------------------------------------------------------------
+Item 121: First Woman Elected to the Northwest Territories Council
+Date: December 21, 1970
+Description: Lena Pedersen became the first woman elected to the Northwest Territories Council.
+--------------------------------------------------------------------------------
+Item 122: Conservatives Win Alberta
+Date: August 30, 1971
+Description: Peter Lougheed's Conservatives ended 36 years of Socred government in Alberta by winning a majority government in a general election.
+--------------------------------------------------------------------------------
+Item 123: Rosemary Brown Elected the First Black Female MLA
+Date: August 30, 1972
+Description: Politician Rosemary Brown became Canada's first Black woman member of a provincial legislature when she won a seat in BC's general election as a member of the NDP.
+--------------------------------------------------------------------------------
+Item 124: Liberals Win Minority
+Date: October 30, 1972
+Description: In a federal election, the Liberals lost their majority, winning only 109 seats to the Tories' 107, but Trudeau remained prime minister at the head of a minority government with the support of the NDP (31 seats). The Social Credit won 15 seats.
+--------------------------------------------------------------------------------
+Item 125: Québec Liberals Win
+Date: October 29, 1973
+Description: Robert Bourassa's Parti libéral was re-elected with 30% of the vote.
+--------------------------------------------------------------------------------
+Item 126: Liberals Regain Majority
+Date: July 08, 1974
+Description: In a federal election, the Liberals won back their majority with 141 seats to the Conservatives' 95. The NDP dropped to 16 and the Social Credit to 11. Trudeau remained prime minister.
+--------------------------------------------------------------------------------
+Item 127: Election Expenses Act Passed
+Date: August 01, 1974
+Description: The Election Expenses Act came into force. The law provided for income-tax deductions, for disclosure of the source and amount of donations over $100, and limited the amount of money that could be spent in an election campaign.
+--------------------------------------------------------------------------------
+Item 128: John Turner Resigns
+Date: September 11, 1975
+Description: Future Liberal prime minister John Turner resigned as federal finance minister to return to private life.
+--------------------------------------------------------------------------------
+Item 129: Nunatsiaq Riding Created
+Date: January 01, 1976
+Description: A federal riding was created in the Northwest Territories. Called Nunatsiaq, it represented territory that now comprises Nunavut.
+--------------------------------------------------------------------------------
+Item 130: Conservatives Form Minority
+Date: May 22, 1979
+Description: In a federal election the Conservatives fell short of a majority, winning 136 seats to the Liberals' 114. The NDP won 26 seats and the Social Credit 6. The Conservatives formed a minority government with Joe Clark as PM.
+--------------------------------------------------------------------------------
+Item 131: Joe Clark Sworn In
+Date: June 04, 1979
+Description: Joe Clark was sworn in as the youngest prime minister ever.
+--------------------------------------------------------------------------------
+Item 132: Liberals Return to Power
+Date: February 18, 1980
+Description: In a federal election, the Liberals returned to power, winning 147 seats to the Conservatives' 103. The NDP won 32. Trudeau became prime minister again.
+--------------------------------------------------------------------------------
+Item 133: Trudeau Sworn In Again
+Date: March 03, 1980
+Description: Pierre Elliott Trudeau was sworn in again as prime minister.
+--------------------------------------------------------------------------------
+Item 134: Conservatives Win Saskatchewan
+Date: April 26, 1982
+Description: Grant Devine's PC's won the general election in Saskatchewan.
+--------------------------------------------------------------------------------
+Item 135: Turner Sworn In
+Date: June 30, 1984
+Description: Liberal leader John Turner was sworn in as Canada's 17th prime minister.
+--------------------------------------------------------------------------------
+Item 136: Conservatives Win Huge Majority
+Date: September 04, 1984
+Description: In a federal election, the Conservatives won 211 seats, eclipsing Diefenbaker's record 208. The Liberals under John Turner retained only 40, the NDP 30. Brian Mulroney became prime minister.
+--------------------------------------------------------------------------------
+Item 137: Brian Mulroney Sworn In
+Date: September 17, 1984
+Description: Brian Mulroney was sworn in as prime minister.
+--------------------------------------------------------------------------------
+Item 138: Liberals Win Québec
+Date: December 02, 1985
+Description: Robert Bourassa led the Liberals to a sweeping victory over the Parti Québécois but failed to win his own seat until January 20, 1986.
+--------------------------------------------------------------------------------
+Item 139: Getty's Majority Reduced
+Date: May 08, 1986
+Description: In a worsening economic climate, Premier Don Getty of Alberta saw the Conservative majority reduced from 75 of 79 seats to 61.
+--------------------------------------------------------------------------------
+Item 140: Social Credit Takes BC
+Date: October 22, 1986
+Description: William Vander Zalm led the Social Credit Party to an overwhelming victory in the BC election.
+--------------------------------------------------------------------------------
+Item 141: Conservatives Regain Power
+Date: November 21, 1988
+Description: The Free Trade Agreement became the central issue in the 1988 federal election, and the Conservatives overcame a resurgent Liberal Party around whom opposition to the FTA coalesced.
+--------------------------------------------------------------------------------
+Item 142: First Indigenous Woman Elected to Federal Government
+Date: November 21, 1988
+Description: Ethel Dorothy Blondin-Andrew, member of the Dene Nation, became the first Indigenous woman elected to the House of Commons.
+--------------------------------------------------------------------------------
+Item 143: McLaughlin Elected as First Female Party Leader in Canada
+Date: December 02, 1989
+Description: Yukon MP Audrey McLaughlin was chosen leader of the NDP at a national convention in Winnipeg, succeeding Ed Broadbent. She was the first woman to lead a national Canadian political party. She spent six years as leader before stepping down in 1995 after the NDP fell to nine seats in the 1993 general election and lost its official party status.
+--------------------------------------------------------------------------------
+Item 144: NDP Captures Ontario
+Date: September 06, 1990
+Description: The New Democrats took 74 of 130 seats in Ontario's provincial election, making leader Bob Rae the first NDP premier in Ontario's history.
+--------------------------------------------------------------------------------
+Item 145: Rita Johnston Becomes Canada's First Female Premier
+Date: April 02, 1991
+Description: Social Credit leader Rita Johnston was sworn in as BC's 29th premier, subsequently becoming both Canada and BC's first female premier.
+--------------------------------------------------------------------------------
+Item 146: Cournoyea Elected Premier of NWT
+Date: November 14, 1991
+Description: Nellie J. Cournoyea, of Inupiaq heritage, was elected premier of the Northwest Territories, making her the first Indigenous woman to hold the position of government leader.
+--------------------------------------------------------------------------------
+Item 147: Kim Campbell Becomes First Female PM
+Date: June 25, 1993
+Description: After Prime Minister Brian Mulroney resigned from politics, Kim Campbell was selected as the leader of the Progressive Conservative Party and became Canada’s first female prime minister.
+--------------------------------------------------------------------------------
+Item 148: Liberals Win Federal Election
+Date: October 25, 1993
+Description: In a federal election, the Liberals won 178 seats and a majority. The Conservatives' 154 seats were reduced to 2, while the NDP retained only 9. Reform won 52 seats and the Bloc Québécois became the official opposition with 54.
+--------------------------------------------------------------------------------
+Item 149: Chrétien Sworn In
+Date: November 04, 1993
+Description: Liberal leader Jean Chrétien was sworn in as Canada's 20th prime minister.
+--------------------------------------------------------------------------------
+Item 150: Liberals Win By-elections
+Date: February 13, 1995
+Description: The Liberals won 2 federal by-elections in Québec.
+--------------------------------------------------------------------------------
+Item 151: Liberals Win By-elections
+Date: March 25, 1996
+Description: The federal Liberal Party won 5 by-elections and the Bloc Québécois 1, restoring the Liberals to 177 seats and confirming the BQ as the official opposition.
+--------------------------------------------------------------------------------
+Item 152: Chong and Kwan Elected
+Date: May 28, 1996
+Description: Liberal Ida Chong and the NDP’s Jenny Kwan were elected and became British Columbia’s first Chinese Canadian Members of the Legislative Assembly.
+--------------------------------------------------------------------------------
+Item 153: Conservatives Win PEI
+Date: November 18, 1996
+Description: The Conservative Party was elected in PEI. Patrick Binns, a former bean farmer, became premier.
+--------------------------------------------------------------------------------
+Item 154: 1997 Federal Election Results
+Date: June 02, 1997
+Description: The Liberal Party retained its majority with 155 seats and the Reform Party with 60 seats became the Official Opposition. The Bloc Québécois fell to 44 seats from 54 while the NDP won 21 seats (up from 9) and the Conservatives 20 (up from 2).
+--------------------------------------------------------------------------------
+Item 155: First Inuit MP Elected
+Date: June 02, 1997
+Description: Liberal Nancy Karetak-Lindell was elected the first Member of Parliament for the newly-created riding of Nunavut, and became the first Inuit woman elected to the House of Commons.
+--------------------------------------------------------------------------------
+Item 156: Sophia Leung Elected
+Date: June 02, 1997
+Description: Liberal candidate Sophia Leung was elected to the House of Commons to represent the riding of Vancouver Kingsway, making her the first Chinese Canadian woman to win federal office.
+--------------------------------------------------------------------------------
+Item 157: Yvonne Atwell Elected to NS Legislative Assembly
+Date: March 24, 1998
+Description: Yvonne Atwell, community development advocate and president of the African Canadian Caucus of Nova Scotia, became the first Black Nova Scotian woman elected to the Nova Scotia Legislative Assembly.
+--------------------------------------------------------------------------------
+Item 158: Conservatives Win in NB
+Date: June 07, 1999
+Description: The New Brunswick Progressive Conservative Party won a surprising landslide victory in the provincial election. Thirty-three-year-old Bernard Lord became premier.
+--------------------------------------------------------------------------------
+Item 159: First Female Premier of the Yukon
+Date: April 17, 2000
+Description: Patricia (Pat) Duncan became the Yukon’s first female premier at the head of the territory’s first Liberal government.
+--------------------------------------------------------------------------------
+Item 160: Liberals Win Third Straight
+Date: November 27, 2000
+Description: The Liberal Party won its third straight federal election, increasing the number of seats from 161 to 172. Reform elected 66, The Bloc 38, NDP 13 and Conservatives 12. Chrétien was the first PM since King to win 3 straight elections.
+--------------------------------------------------------------------------------
+Item 161: All Prisoners Granted Right to Vote
+Date: October 31, 2002
+Description: InSauvé v Canada, theSupreme Court of Canadaholds that, under theCharter of Rights and Freedoms, all prisoners have the right to vote.
+--------------------------------------------------------------------------------
+Item 162: Martin Becomes Liberal Leader
+Date: November 14, 2003
+Description: Paul Martin Jr. succeeded Jean Chrétien as Liberal leader, winning the leadership by a large majority (95%).
+--------------------------------------------------------------------------------
+Item 163: Martin Sworn In
+Date: December 12, 2003
+Description: Liberal Party leader Paul Martin was sworn in as Canada's 21st prime minister, leading a minority government.
+--------------------------------------------------------------------------------
+Item 164: Conservatives Win Federal Election
+Date: January 23, 2006
+Description: The Conservative Party of Canada, led by Stephen Harper, defeated the Liberal Party in a federal election, by a margin of 21 seats, ending 13 years of Liberal rule.
+--------------------------------------------------------------------------------
+Item 165: Harper Sworn In
+Date: February 06, 2006
+Description: Conservative leader Stephen Harper became Canada''s 22nd Prime Minister.
+--------------------------------------------------------------------------------
+Item 166: Dion Becomes Liberal Leader
+Date: December 02, 2006
+Description: The Liberal Party of Canada announced Stéphane Dion as the party's new leader, replacing outgoing Paul Martin and defeating front runner Michael Ignatieff.
+--------------------------------------------------------------------------------
+Item 167: Quebec Liberals Win Election
+Date: March 26, 2007
+Description: Jean Charest''s Liberal Party won the provincial election and formed the first minority government in Québec in 130 years. The ADQ unseated the Parti Québécois as  the official opposition, and for the first time in 30 years the PQ formed neither the government nor the opposition.
+--------------------------------------------------------------------------------
+Item 168: Ève-Mary Thaï Thi Lac Elected
+Date: September 17, 2007
+Description: Ève-Mary Thaï Thi Lac became the first Canadian ofVietnameseorigin elected to theHouse of Commons, representing Saint-Hyacinthe–Bagot, Québec, for theBloc Québécois.
+--------------------------------------------------------------------------------
+Item 169: Conservatives Win Second Minority
+Date: October 14, 2008
+Description: The Conservative government, led by Prime Minister Stephen Harper, won a second minority government.
+--------------------------------------------------------------------------------
+Item 170: Aariak Becomes First Female Premier of Nunavut
+Date: November 14, 2008
+Description: Eva Aariak, the MLA for Iqaluit East and Nunavut's former languages commissioner, defeated Paul Okalik to become Nunavut’s second premier and the territory’s first female premier. She was, however, the only woman in the legislature.
+--------------------------------------------------------------------------------
+Item 171: Québec Liberals Win Majority
+Date: December 08, 2008
+Description: Jean Charest''s Liberal party won a majority in Québec, making him the first Québec premier since Maurice Duplessis to win three successive mandates in the province.
+--------------------------------------------------------------------------------
+Item 172: Ignatieff Becomes Leader
+Date: May 02, 2009
+Description: Interim leader Michael Ignatieff became the official leader of the Liberal Party during the party's leadership convention in Vancouver, BC. He had been appointed acting leader on 10 Dec 2008, replacing Stéphane Dion.
+--------------------------------------------------------------------------------
+Item 173: Liberals Win in BC
+Date: May 12, 2009
+Description: Premier Gordon Campbell led the Liberal Party to a third consecutive majority, the first premier in 25 years to do so.
+--------------------------------------------------------------------------------
+Item 174: First Female Premier of NL
+Date: December 03, 2010
+Description: Following the retirement of Premier Danny Williams, Kathy Dunderdale was appointed interim leader of the Progressive Conservative Party and became Newfoundland and Labrador’s first female premier.
+--------------------------------------------------------------------------------
+Item 175: First Female Premier of Québec
+Date: September 04, 2012
+Description: Pauline Marois led the Parti Québécois to a minority government, becoming Québec’s first female premier.
+--------------------------------------------------------------------------------
+Item 176: Trudeau Wins Liberal Leadership
+Date: April 14, 2013
+Description: Justin Trudeauwon 80 per cent of the vote to become the leader of the federalLiberal Party, a position his father,Pierre, held for 16 years.
+--------------------------------------------------------------------------------
+Item 177: Liberal Majority Ends Nine-Year Tory Rule
+Date: October 19, 2015
+Description: At the end of an 11-week campaign— one ofthe longest in Canadian history— voters elected a majorityLiberalgovernment underJustin Trudeau, denyingStephen Harper'sConservativesa fourth federal mandate. The 2015 election marked the end of Harper's nine-year term asprime minister, and following the results he resigned as leader of the Conservative Party.
+--------------------------------------------------------------------------------
+Item 178: Record Number of Women Elected Federally
+Date: October 19, 2015
+Description: Eighty-eight women were elected in the 2015 federal election, the highest number to date. Women made up 33 per cent of the candidates in the five leading parties, and won 26 per cent of the seats in the House.
+--------------------------------------------------------------------------------
+Item 179: Justin Trudeau Sworn In as Prime Minister
+Date: November 04, 2015
+Description: Justin Trudeauwas sworn in as the 23rdprime ministerof Canada at a ceremony inOttawa, followed by the swearing-in of the country's first gender-balancedCabinetof 15 men and 15 women. Trudeau'sLiberal Partywas elected to a majority government in theOctober 2015 federal election, ending nine years ofConservativegovernment under Prime MinisterStephen Harper.
+--------------------------------------------------------------------------------
+Item 180: First Gender-Balanced Federal Cabinet
+Date: November 04, 2015
+Description: Newly electedprime ministerJustin Trudeauappointed 15 women to his 30-memberCabinet—the first time in Canadian history that a federalCabinetincluded an equal number of men and women.
+--------------------------------------------------------------------------------
+Item 181: Liberal Victory in Newfoundland and Labrador
+Date: November 30, 2015
+Description: Liberalcandidate Dwight Ball was electedpremierofNewfoundland and Labradorin the province's 20th general provincial election. The Liberals won by a landslide, taking 31 of the province's 40 seats. TheConservatives, who had governed for the preceding 12 years, won seven seats and theNDPtook two.
+--------------------------------------------------------------------------------
+Item 182: Supreme Court Guarantees Expat Voting Rights
+Date: January 11, 2019
+Description: In a 5–2 decision, theSupreme Courtruled that expat Canadians can vote infederal electionsregardless of how long they’ve lived outside the country. The ruling, which came a month after theLiberalgovernment passed similar legislation, reversed a 1993 law and will likely prevent any future legislation from infringing on expatvoting rights.
+--------------------------------------------------------------------------------
+Item 183: Trudeau Shuffles Cabinet
+Date: January 14, 2019
+Description: In anticipation of the federalelectionin the fall,Prime MinisterJustin Trudeaushuffled hisCabinet, movingJody Wilson-Raybouldfromjusticetoveterans affairs, and naming Jane Philpott President of theTreasury Boardand Minister of Digital Government. Trudeau called Philpott a “natural choice” for her new role and attempted to dispel the notion that Wilson-Raybould’s move was a demotion, saying, “She is extraordinarily capable of delivering on this file that is one of the core delivery mandates that the federal government has.”
+--------------------------------------------------------------------------------
+Item 184: BC’s Minority NDP Government Wins Crucial Byelection
+Date: January 30, 2019
+Description: The provincialNDPmaintained its fragile hold on power inBCwhen Sheila Malcolmson won a critical byelection inNanaimo, beating BC Liberal candidate Tony Harris by ten points. The victory allowed the NDP-Green Partycoalitionto maintain control of 44 seats in thelegislature, compared to 42 for the opposition BC Liberals.
+--------------------------------------------------------------------------------
+Item 185: Jagmeet Singh Wins Burnaby South Byelection
+Date: February 25, 2019
+Description: NDPleaderJagmeet Singhsecured a seat in theHouse of Commonsby winning a byelection in Burnaby South with 39 per cent of the vote, bestingLiberalcandidate Richard T. Lee’s (26 per cent) andConservativecandidate Jay Shin (22 per cent). Singh had accusedPrime MinisterJustin Trudeauof delaying the hotly contested election, which Singh needed to win in order to lead his party from withinParliament.
+--------------------------------------------------------------------------------
+Item 186: Progressive Conservatives Score Upset Victory in Nova Scotia Election
+Date: August 17, 2021
+Description: Tim Houston led theProgressive Conservativesto an upset victory over the governingLiberals. The PCs took 38.44 per cent of the popular vote and increased their seat total in the 55-seat legislature from 17 to 31. The party took advantage of early campaign stumbles by the Liberals while tacking hard to the left, promising $553 million inhealth carespending. It was the sixthprovincialorterritorialelectionin Canada since the start of the COVID-19 pandemic and the first in which the incumbent party lost.
+--------------------------------------------------------------------------------
+Item 187: Trudeau and Liberals Win Third Term, Second Consecutive Minority
+Date: September 20, 2021
+Description: Embed from Getty ImagesThe 36-day election campaign that began on 15 August finished in much the same way as the previous federal election in 2019 — with similar seat counts for allpartiesand aLiberalminority government.Erin O’Tooleand theConservativeshad been in a statistical dead heat with the Liberals in late August and went on to narrowly win the popular vote for the second consecutive election. However, the bad press generated by an unfolding health crisis inAlbertaunder conservativepremierJason Kenneycombined with the successful efforts ofMaxime Bernier’sPeople’s Party of Canadato eat into the Conservatives’ vote share tipped the scales toward a Liberal victory. Following
+ the election, many questioned the efficacy of spending more than $600 million on an election that replicated the status quo.
+--------------------------------------------------------------------------------
+Item 188: Death of Brian Mulroney
+Date: February 29, 2024
+Description: One of Canada’s most consequentialprime ministers, formerProgressive Conservative PartyleaderBrian Mulroneydied in Palm Beach, Florida, at the age of 84. TheCanadian Press Newsmaker of the Yearin 1983, 1984 and 1991, Mulroney signed a landmarkfree tradedeal with the United States and Mexico (NAFTA) and oversaw passage of theGoods and Services Tax(GST). His body was laid in state in Ottawa for two days before a state funeral was held at Montreal’sNotre-Dame Basilicaon 23 March 2024.
+--------------------------------------------------------------------------------

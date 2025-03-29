@@ -1,0 +1,527 @@
+Item 1: Earthquake Hits Trois-Rivières
+Date: June 11, 1638
+Description: An earthquake was recorded near Trois-Rivières.
+--------------------------------------------------------------------------------
+Item 2: Earthquake Hits Québec
+Date: February 05, 1663
+Description: An earthquake struck Québec, opening fissures in the snow, rocking houses and diverting streams.
+--------------------------------------------------------------------------------
+Item 3: Fire Destroys Québec
+Date: August 05, 1682
+Description: A fire reduced the public square of Québec to rubble.
+--------------------------------------------------------------------------------
+Item 4: Naval Disaster on St Lawrence
+Date: August 23, 1711
+Description: A British fleet under Admiral Sir Hovenden Walker, sailing to attack Québec, blundered onto the rocks of Ile-aux-Oeufs. The 19 warships and 41 other ships carried over 11 000 men; 7 transports and a supply ship were lost with as many as 950 men.
+--------------------------------------------------------------------------------
+Item 5: Miramichi Fire
+Date: October 05, 1825
+Description: The Miramichi fire began after a dry summer, devastating timberland and destroying Douglastown and Newcastle. Some 200 to 500 people were killed.
+--------------------------------------------------------------------------------
+Item 6: Red River Flood, 1826
+Date: May 22, 1826
+Description: The greatest known flood of the Red River in Manitoba destroyed the Red River Colony. The water crested on May 22, two and a half weeks after the flood began.
+--------------------------------------------------------------------------------
+Item 7: Fire Destroys Château
+Date: January 23, 1834
+Description: Fire destroyed the famous Château Saint-Louis at Québec.
+--------------------------------------------------------------------------------
+Item 8: Fire at Saint-Jean (Que)
+Date: June 28, 1845
+Description: Fire struck Saint-Jean, Qué, jumping from house to house and destroying 1300 homes. In total, more than 18 000 people were left homeless.
+--------------------------------------------------------------------------------
+Item 9: Fire Destroys St. John's, 1846
+Date: June 09, 1846
+Description: A fire in St John's, Newfoundland, levelled most of the city.
+--------------------------------------------------------------------------------
+Item 10: Parliament Buildings Burned
+Date: April 25, 1849
+Description: The Parliament Buildings in Montréal were burned down in riots protesting Lord Elgin's signing of the Rebellion Losses Bill. The seat of government was removed from Montréal and the Parliament met alternatively in Toronto and Québec City.
+--------------------------------------------------------------------------------
+Item 11: Fire Damages Library
+Date: December 24, 1851
+Description: Fire damaged the Library of Congress in the Capitol at Washington, destroying two-thirds of the collection acquired from Thomas Jefferson in 1814 along with thousands of other volumes.
+--------------------------------------------------------------------------------
+Item 12: Rail Disaster at Chatham
+Date: October 27, 1854
+Description: At Baptiste Creek, 24 km west of Chatham, Ont, a gravel train was hit by an express train that was running 7 hours late. The accident killed 52 and injured 48 others, the worst rail disaster in North America to that time.
+--------------------------------------------------------------------------------
+Item 13: Heroine of Long Point
+Date: November 24, 1854
+Description: During a vicious storm on Lake Erie, the schooner Conductor foundered. The crew clung to the frozen rigging all night. Next morning Abigail Becker waded shoulder-high into the surf and coaxed the men ashore.
+--------------------------------------------------------------------------------
+Item 14: Desjardins Canal Train Disaster
+Date: March 12, 1857
+Description: A Great Western Railway passenger train crashed through the rotting timber bridge over the Desjardins Canal, near Hamilton, Ont, killing 59 people.
+--------------------------------------------------------------------------------
+Item 15: St Lawrence River Flood
+Date: April 14, 1861
+Description: The St Lawrence River flooded, inundating Montréal.
+--------------------------------------------------------------------------------
+Item 16: Rail Disaster at St Hilaire
+Date: June 29, 1864
+Description: A Grand Trunk Railway train plunged off the Beloeil Bridge into the Richelieu River at St-Hilaire, Qué, killing 99 people and injuring another 100. It was Canada's worst train wreck.
+--------------------------------------------------------------------------------
+Item 17: Jackman's Heroism
+Date: October 09, 1867
+Description: In one of the greatest stories of heroism ever recorded, William Jackman threw himself into the icy water off Labrador and rescued 11 of the 27 crew of a foundered ship unassisted. With the help of others he swam out 16 more times.
+--------------------------------------------------------------------------------
+Item 18: Wreck of the SSAtlantic
+Date: April 01, 1873
+Description: The passenger shipAtlantic, bound for New York, foundered on a reef off Peggy's Point, Nova Scotia. More than 500 people were killed.
+--------------------------------------------------------------------------------
+Item 19: Mine Disaster at Westville
+Date: May 13, 1873
+Description: The first mine disaster occurred at Westville, NS. An explosion ripped through the tunnels, and two years passed before the last of the 60 bodies was recovered.
+--------------------------------------------------------------------------------
+Item 20: Fire Destroys Saint John
+Date: June 20, 1877
+Description: Fire destroyed a large area of Saint John, NB. It destroyed most of the wharf-side structures, the schooners docked in the slip and much of the city core. Eleven lives were lost.
+--------------------------------------------------------------------------------
+Item 21: NB Legislature Burned
+Date: February 25, 1880
+Description: The New Brunswick legislature in Fredericton was destroyed by fire.
+--------------------------------------------------------------------------------
+Item 22: Fire Devastates Vancouver
+Date: June 13, 1886
+Description: A devastating fire swept through the city of Vancouver, leaving only Hasting Mills and  a few isolated structures in the downtown core standing.
+--------------------------------------------------------------------------------
+Item 23: Mine Disaster at Nanaimo
+Date: May 03, 1887
+Description: An explosion and fire at a Nanaimo, BC, coal mine killed 150 men, the worst mining 
+disaster in BC history.
+--------------------------------------------------------------------------------
+Item 24: Rockslide in Québec
+Date: September 19, 1889
+Description: A massive rockslide smashed much of Champlain Street in Québec City, killing 45.
+--------------------------------------------------------------------------------
+Item 25: Springhill Mine Disaster, 1891
+Date: February 21, 1891
+Description: One hundred and twenty-five miners were killed in a coal mine disaster in Springhill, NS.
+--------------------------------------------------------------------------------
+Item 26: Fire Destroys St. John's, 1892
+Date: July 08, 1892
+Description: A fire broke out in a barn on Long's Hill and swept through St John's. Some 12,000 people were left homeless after two-thirds of the city was destroyed.
+--------------------------------------------------------------------------------
+Item 27: Point Ellice Bridge Disaster
+Date: May 26, 1896
+Description: During celebrations for Queen Victoria's birthday, a span of the bridge at Point Ellice in the harbour of Victoria, BC, fell out. A loaded streetcar fell with it and 55 people were killed, the worst streetcar accident in North American history.
+--------------------------------------------------------------------------------
+Item 28: New Westminster Burns
+Date: September 11, 1898
+Description: The city of New Westminster, BC, was destroyed by fire.
+--------------------------------------------------------------------------------
+Item 29: Fire at Académie de musique de Québec
+Date: March 17, 1900
+Description: The 1600 seat theatre of the Académie de musique de Québec was destroyed by fire.
+--------------------------------------------------------------------------------
+Item 30: Fire in Hull
+Date: April 26, 1900
+Description: Some 15 000 people lost their homes and several died as the worst fire in Canadian history destroyed two-thirds of Hull, Québec.
+--------------------------------------------------------------------------------
+Item 31: Frank Slide
+Date: April 29, 1903
+Description: A rockslide (commonly called the Frank Slide) from Turtle Mountain, NWT (Alta), onto the town of Frank killed at least 70 people, the most disastrous rockfall in Canadian history.
+--------------------------------------------------------------------------------
+Item 32: Toronto on Fire
+Date: April 19, 1904
+Description: Fire broke out on Wellington Street and spread across downtown Toronto, destroying 98 buildings over 7.7 hectares. Firefighters arrived from as far away as Buffalo, New York.
+--------------------------------------------------------------------------------
+Item 33: Québec Bridge Disaster, 1907
+Date: August 29, 1907
+Description: Part of the Québec Bridge, the longest cantilever bridge in the world, collapsed, killing 75 workmen. Blame for the collapse was placed on the American engineer Theodore Cooper and faulty we plates.
+--------------------------------------------------------------------------------
+Item 34: Sudbury Train Disaster
+Date: January 21, 1910
+Description: A broken rail caused derailment of a CPR passenger train west of Sudbury, killing 43.
+--------------------------------------------------------------------------------
+Item 35: Avalanche at Rogers Pass
+Date: March 04, 1910
+Description: An avalanche at Bear Creek in the Rogers Pass engulfed a work crew that had been clearing snow from an earlier slide across the CPR main line. One man survived, 62 were killed, many of them frozen in position by the flash of ice.
+--------------------------------------------------------------------------------
+Item 36: Bellevue Mine Explosion Kills 31
+Date: December 09, 1910
+Description: An explosion in a coal mine at Bellevue, Alta, killed 31 men. It was caused in part by the negligence of the coal company.
+--------------------------------------------------------------------------------
+Item 37: South Porcupine Fire
+Date: July 11, 1911
+Description: A forest fire swept into the Northern Ontario town, killing about 50 people and burning the town to the ground.
+--------------------------------------------------------------------------------
+Item 38: TitanicSinks
+Date: April 14, 1912
+Description: TheTitanicstruck an iceberg 590 km east of Newfoundland on the fifth day of its maiden voyage. It sank in 2 hrs, 40 mins with the loss of 1,522 lives, including the captain and Canadian railway tycoon Charles Melville Hays.
+--------------------------------------------------------------------------------
+Item 39: Tornado Strikes Regina
+Date: June 30, 1912
+Description: A tornado struck the heart of Regina, killing 28 persons and causing millions in damages.
+--------------------------------------------------------------------------------
+Item 40: Great Lakes Gale
+Date: November 07, 1913
+Description: A November storm rose over the Great Lakes and over the next 4 days sank more than 34 ships with a loss of hundreds of lives.
+--------------------------------------------------------------------------------
+Item 41: Empress of IrelandSinks
+Date: May 29, 1914
+Description: The CP steamerEmpress of Irelandcollided with the Norwegian shipStorstadin fog in the Gulf of St Lawrence near Rimouski, Qué. TheEmpresssank in only 14 minutes and 1014 died.
+--------------------------------------------------------------------------------
+Item 42: Hillcrest Mine Explosion
+Date: June 19, 1914
+Description: An explosion of methane gas at Hillcrest, Alta, killed 189 men in Canada's worst mining disaster.
+--------------------------------------------------------------------------------
+Item 43: Parliament Buildings Burn
+Date: February 03, 1916
+Description: Most of the original Parliament Buildings in Ottawa were destroyed by fire, killing 7 people. Only the Parliamentary Library survived intact.
+--------------------------------------------------------------------------------
+Item 44: Cochrane and Matheson Burn
+Date: July 29, 1916
+Description: Fires started by lightning and locomotive sparks combined into a firestorm that struck Cochrane and Matheson, Ont, burning both towns and killing at least 233 people.
+--------------------------------------------------------------------------------
+Item 45: Québec Bridge Disaster, 1916
+Date: September 11, 1916
+Description: A new centre span of the Québec Bridge fell into the river as it was being hoisted into position, killing 13 men.
+--------------------------------------------------------------------------------
+Item 46: Halifax Explosion
+Date: December 06, 1917
+Description: At Halifax, the French munitions shipMont Blanccollided with the Belgian relief shipImo. The resulting explosion, the largest before the advent of the atomic bomb, killed more than 1,600 people and injured 9,000 in Canada's worst disaster.
+--------------------------------------------------------------------------------
+Item 47: Stellarton Mine Disaster
+Date: January 23, 1918
+Description: Eighty-eight men died in a mine explosion in the Allan Shaft at Stellarton, NS.
+--------------------------------------------------------------------------------
+Item 48: Laurier Palace Fire
+Date: January 09, 1927
+Description: At a fire that broke out in the Laurier Palace Theatre, Montréal, 76 people died in the panic to escape an overcrowded building.
+--------------------------------------------------------------------------------
+Item 49: Rail Disaster in Yale
+Date: September 21, 1927
+Description: Ten railway cars carrying a valuable cargo of silk went off the rails east of Yale, BC. Five of them ended up in the Fraser River.
+--------------------------------------------------------------------------------
+Item 50: BC Airways Plane Crashes
+Date: August 25, 1928
+Description: What has been called Canada's 1st major air disaster occurred when bad weather caused a BC Airways Ford Trimotor plane to crash in Puget Sound, Washington.
+--------------------------------------------------------------------------------
+Item 51: St. John's Fire Disaster
+Date: December 12, 1942
+Description: A fire at the Knights of Columbus Hall in St John's, Newfoundland, claimed 99 lives within 7 terrifying minutes. The hall's auditorium was packed with military personnel and civilians for the radio broadcast of "Uncle Tim's Barn Dance."
+--------------------------------------------------------------------------------
+Item 52: HMCSVille de QuebecSinks U-Boat
+Date: January 13, 1943
+Description: HMCS Ville de Quebecsank the German submarine U-224 in the western Mediterranean Sea.
+--------------------------------------------------------------------------------
+Item 53: HMCS Camrose Sinks U-boat
+Date: January 08, 1944
+Description: HMCSCamroseand HMSBayntunsank the German submarine U-757 in the North Atlantic.
+--------------------------------------------------------------------------------
+Item 54: Clayoquot Torpedoed
+Date: December 24, 1944
+Description: HMCS Clayoquot was torpedoed by U-boat 806 and sinks in the Halifax approaches.
+--------------------------------------------------------------------------------
+Item 55: HMCS St. Thomas Sinks U-boat
+Date: December 27, 1944
+Description: HMCS St. Thomas sank the German submarine U-877 in the North Atlantic.
+--------------------------------------------------------------------------------
+Item 56: World's Largest Marine Disaster
+Date: January 30, 1945
+Description: About 7700 people were killed when the German passenger ship Wilhelm Gustloff, carrying Germans fleeing Poland in the face of advancing Russian troops, was torpedoed in the Baltic by a Soviet submarine. It was the world's largest marine disaster.
+--------------------------------------------------------------------------------
+Item 57: Bedford Magazine Explosion
+Date: July 18, 1945
+Description: An ammunition barge blew up at the naval magazine jetty on Bedford Basin, Halifax harbour. A chain reaction of fire, explosion and concussion rocked Halifax for a day.
+--------------------------------------------------------------------------------
+Item 58: BluenoseSinks
+Date: January 31, 1946
+Description: The once-famous schoonerBluenosehit a reef and sank off the coast of Haiti. The crew of 8 men was rescued.
+--------------------------------------------------------------------------------
+Item 59: Floods in BC
+Date: May 28, 1948
+Description: BC's worst flood on record caused 10 deaths and $300 million in damage along the lower 
+Fraser River.Two hundred families were left homeless, rail service was disrupted for two weeks, and more than 80 bridges washed away.
+--------------------------------------------------------------------------------
+Item 60: Canada's Largest Recorded Earthquake
+Date: August 22, 1949
+Description: The largest earthquake in Canada since 1700 shook  the West Coast at a magnitude of 8.1. The epicentre of the quake was located on the Queen Charlotte Fault directly below Haida Gwaii. Shaking was so intense that cows on the islands were knocked off their feet. Standing on the mainland in Terrace, BC, was described as "like being on the heaving deck of a ship at sea." Shockwaves were felt north of Whitehorse, YT, and south of Seattle, Washington.
+--------------------------------------------------------------------------------
+Item 61: Airliner Sabotaged
+Date: September 09, 1949
+Description: Twenty-three people were killed when a Québec Airways DC-3 was sabotaged with a bomb and exploded and crashed near St-Joachim, Québec. J.A. Guay and two accomplices were convicted and hanged for the crime.
+--------------------------------------------------------------------------------
+Item 62: Noronic Burns
+Date: September 17, 1949
+Description: The burning of the cruise ship Noronic in Toronto harbour claimed 118 lives.
+--------------------------------------------------------------------------------
+Item 63: Red River Flood, 1950
+Date: May 05, 1950
+Description: A flood of the Red River in Manitoba killed one person, forced 100 000 Winnipeg inhabitants to flee their homes and caused $100 million in damage.
+--------------------------------------------------------------------------------
+Item 64: Hurricane Hazel
+Date: October 15, 1954
+Description: Hurricane Hazel, beginning in the Caribbean on October 6, struck Toronto with 124 km/h winds and 10.1 cm of rain in 12 hours; 81 people died and there was extensive property damage.
+--------------------------------------------------------------------------------
+Item 65: Springhill Mine Disaster, 1956
+Date: November 01, 1956
+Description: A mine disaster at Springhill, NS, killed 39 men. Another 88 trapped men were later rescued.
+--------------------------------------------------------------------------------
+Item 66: First Civilian Air Disaster
+Date: August 11, 1957
+Description: The first major civilian air disaster in Canada occurred during a violent thunderstorm over Issoudun, 40 km southwest of Québec City, when a chartered Maritime Central Airways DC-4 crashed, killing all 79 aboard.
+--------------------------------------------------------------------------------
+Item 67: Second Narrows Bridge Collapse
+Date: June 17, 1958
+Description: The fourth and fifth spans of the Second Narrows Bridge in Vancouver collapsed as a result of an engineering miscalculation. Eighteen workers were killed.
+--------------------------------------------------------------------------------
+Item 68: Typhoon Freda Hits Vancouver
+Date: October 12, 1962
+Description: Typhoon Freda hit Vancouver around midnight, with winds greater than 100 kph. The storm lasted about 4 hours, killing 7 people and blowing down a fifth of all the trees in Stanley Park.
+--------------------------------------------------------------------------------
+Item 69: Airliner Crashes in Québec
+Date: November 29, 1963
+Description: A TCA airliner with 111 passengers and a crew of 7 crashed after take-off near Ste-Thérèse-de-Blainville, Qué, killing all 118 persons aboard.
+--------------------------------------------------------------------------------
+Item 70: Avalanche on Hope-Princeton Highway
+Date: January 09, 1965
+Description: An avalanche of rock buried a 3-km stretch of the Hope-Princeton highway, killing 4 motorists.
+--------------------------------------------------------------------------------
+Item 71: CP Airliner Explodes
+Date: July 08, 1965
+Description: A Canadian Pacific airliner crashed into Gustafsen Lake, BC, after the explosion of a bomb on board, killing 52 people.
+--------------------------------------------------------------------------------
+Item 72: ArrowRuns Aground
+Date: February 04, 1970
+Description: The Liberian-registered tankerArrowran aground on Cerebus Rock in Chedabucto Bay, NS, spilling 10,500 metric tons of oil onto the water and beaches and causing catastrophic environmental damage.
+--------------------------------------------------------------------------------
+Item 73: DC-8 Crashes in Toronto
+Date: July 05, 1970
+Description: An Air Canada DC-8 crashed near Toronto International Airport, while en route from Montréal to Los Angeles. All 109 passengers and crew were killed.
+--------------------------------------------------------------------------------
+Item 74: BC Ferry Disaster
+Date: August 02, 1970
+Description: A BC ferry and a Soviet freighter collided in Active Pass. Three passengers on the ferry were killed.
+--------------------------------------------------------------------------------
+Item 75: Arson's Fire Kills 37
+Date: September 01, 1972
+Description: Arsonists set fire to the Blue Bird Club in Montréal. Thirty-seven people were killed, 54 injured.
+--------------------------------------------------------------------------------
+Item 76: Oil Spill on Vancouver Island
+Date: January 25, 1973
+Description: The freighterIrish Stardustran aground north of Vancouver Island, spilling 378,000 L of fuel oil.
+--------------------------------------------------------------------------------
+Item 77: Bus Disaster near Eastman
+Date: August 04, 1978
+Description: The worst single-vehicle accident in Canada (and the worst bus disaster in Canada or the US) occurred near Eastman, Qué, as a chartered bus plunged into Lac d'Argent, killing 41 people.
+--------------------------------------------------------------------------------
+Item 78: Fire at Le Club Opemiska
+Date: December 31, 1979
+Description: Arsonists set fire to Le Club Opemiska in Chapais, Qué, during a New Year's Eve party, killing 42.
+--------------------------------------------------------------------------------
+Item 79: Flooding in Vancouver
+Date: December 26, 1980
+Description: Floods near Vancouver caused $13 million in damage along the Squamish River. Residents were evacuated following a week of heavy rains and flooding.
+--------------------------------------------------------------------------------
+Item 80: Ocean RangerCapsizes
+Date: February 15, 1982
+Description: TheOcean Ranger, the world's largest semi-submersible drill rig, capsized and sank in a storm on the Grand Banks with the loss of all 84 crew members, 56 of whom were Newfoundlanders.
+--------------------------------------------------------------------------------
+Item 81: Plane Fire Kills 23
+Date: June 02, 1983
+Description: Twenty-three passengers were killed in a fire on a DC-9 at Cincinnati, including folk singer Stan Rogers.
+--------------------------------------------------------------------------------
+Item 82: Gas Disaster in Bhopal, India
+Date: December 03, 1984
+Description: A cloud of toxic methyl isocyanate gas escaped from the Union Carbide chemical plant in Bhopal, India, killing 4000 and injuring another 200 000, in the worst industrial disaster in history.
+--------------------------------------------------------------------------------
+Item 83: Air Collision in Edmonton
+Date: March 29, 1985
+Description: Ten airmen were killed when 2 C-130 Hercules transport planes collided in midair and crashed at CFB Edmonton. The planes were flying in formation during a ceremonial flypast at the base.
+--------------------------------------------------------------------------------
+Item 84: Tornado Hits Barrie
+Date: May 31, 1985
+Description: A tornado hit Barrie, Ont, in the worst inland storm since Hurricane Hazel. Some 300 houses were destroyed, at least 8 were killed and thousands were left homeless.
+--------------------------------------------------------------------------------
+Item 85: Air India Disaster
+Date: June 23, 1985
+Description: The worst air disaster associated with Canada and the third worst in history was the explosion, likely from a terrorist bomb, of Air India Flight 182 from Toronto. The plane crashed into the N Atlantic off the coast of Ireland, killing all 329 on board.
+--------------------------------------------------------------------------------
+Item 86: BC Ferry Sinks Boat
+Date: August 12, 1985
+Description: The BC ferryQueen of Cowichancollided with a pleasure craft in Horseshoe Bay, killing 3 in the smaller boat.
+--------------------------------------------------------------------------------
+Item 87: Mexico City Earthquake
+Date: September 19, 1985
+Description: Mexico City was struck by an 8.1 magnitude earthquake which, together with a second major quake on the following day, killed as many as 10 000 people.
+--------------------------------------------------------------------------------
+Item 88: Train Disaster at Hinton
+Date: February 23, 1986
+Description: Twenty-three people died in a head-on collision between a CN freight train and a Via Rail passenger train at Hinton, Alta.
+--------------------------------------------------------------------------------
+Item 89: Tornado Hits Edmonton
+Date: July 31, 1987
+Description: A tornado swept through parts of southeast and northeast Edmonton, flattening residences and laying waste to an industrial park and a trailer park. Twenty-seven people were killed.
+--------------------------------------------------------------------------------
+Item 90: Westray Mine Disaster
+Date: May 09, 1992
+Description: Twenty-six miners were killed at Plymouth, NS, when a blast triggered by the ignition of stray methane led to a chain reaction of lethal methane and coal-dust explosions.
+--------------------------------------------------------------------------------
+Item 91: Fire Ravages Windsor Castle
+Date: November 20, 1992
+Description: In Britain, fire ravaged historic Windsor Castle, the queen's second main residence.
+--------------------------------------------------------------------------------
+Item 92: Earthquake Hits California
+Date: January 17, 1994
+Description: A major earthquake hit southern California, killing 57 and leaving 25 000 homeless.
+--------------------------------------------------------------------------------
+Item 93: Earthquake Hits Kobe
+Date: January 17, 1995
+Description: A powerful earthquake hit Kobe, Japan, killing over 4000 people and leaving 275 000 homeless.
+--------------------------------------------------------------------------------
+Item 94: Floods in Medicine Hat
+Date: June 09, 1995
+Description: Floods in Medicine Hat, Alta, forced some 5000 people from their homes.
+--------------------------------------------------------------------------------
+Item 95: Toronto Subway Disaster
+Date: August 11, 1995
+Description: Subway trains collided in Toronto, killing 3 passengers and injuring 36 in the worst accident in the system's history.
+--------------------------------------------------------------------------------
+Item 96: Trial Ordered in Westray Blast
+Date: December 01, 1995
+Description: A Canadian Court of Appeal in Halifax ordered 2 men to stand trial in connection with the Westray mine blast.
+--------------------------------------------------------------------------------
+Item 97: Saguenay Flooding
+Date: July 19, 1996
+Description: Flooding caused by torrential rains killed 10 people, destroyed 22 488 homes and left thousands homeless in the Saguenay region of Québec. An inquiry later reported that the region's system of dams was poorly maintained.
+--------------------------------------------------------------------------------
+Item 98: Floods Hit Québec
+Date: July 20, 1996
+Description: Devastating floods hit the Charlevoix and Lower North Shore regions of Québec after 277 mm of rain fell in a short time onto already saturated earth. The floods killed 7, left 10 000 homeless and destroyed the area's industry.
+--------------------------------------------------------------------------------
+Item 99: Red River Flood, 1997
+Date: May 01, 1997
+Description: The water crested on the worst flood since 1950 in southern Manitoba. The new floodway and 6.5 million sand bags protected Winnipeg but a number of other communities were inundated.
+--------------------------------------------------------------------------------
+Item 100: Worst Bus Crash in Canada
+Date: October 13, 1997
+Description: A bus crashed into a ravine near Saint-Joseph-de-la-Rive, Québec, killing 43 people, leaving only 5 survivors. It was the worst crash in Canadian history.
+--------------------------------------------------------------------------------
+Item 101: Ice Storm Hits East
+Date: January 04, 1998
+Description: A severe winter ice storm raged across eastern Canada causing an estimated $2 billion damage and leaving 25 dead and 3 million without electric power.
+--------------------------------------------------------------------------------
+Item 102: Swissair Flight Crashes
+Date: September 02, 1998
+Description: Swissair Flight 111 en route from New York to Geneva crashed off Peggy's Cove, NS, killing all 229 people on board.
+--------------------------------------------------------------------------------
+Item 103: Chernobyl Virus Attack
+Date: April 26, 1999
+Description: A computer virus called Chernobyl damaged computers around the world on the anniversary of the nuclear disaster in Chernobyl, Ukraine, in 1986.
+--------------------------------------------------------------------------------
+Item 104: Earthquake Hits Turkey
+Date: August 17, 1999
+Description: A major earthquake struck northwest Turkey devastating several large cities and killing an estimated 35 000 people.
+--------------------------------------------------------------------------------
+Item 105: BC Ferries' Collide
+Date: February 06, 2000
+Description: A high-speed catamaran,The Royal Vancouver, collided with the BC Ferries'Queen of Saanichin the fog in Active Pass, injuring 23 catamaran passengers.
+--------------------------------------------------------------------------------
+Item 106: Tornado Kills Eleven
+Date: July 14, 2000
+Description: A tornado struck an Alberta campsite near Pine Lake, killing 11 people and injuring 130 others. Winds reached 300 km/hr.
+--------------------------------------------------------------------------------
+Item 107: BC Ferry Collides with Powerboat
+Date: September 14, 2000
+Description: BC Ferries'Spirit of Vancouver Islandcollided with a powerboat near the Swartz Bay ferry terminal at Victoria, killing two in the powerboat.
+--------------------------------------------------------------------------------
+Item 108: ShuttleColumbiaDisaster
+Date: February 01, 2003
+Description: Space shuttleColumbiadisintegrated over Tyler, Texas, killing all seven people on board, including the first Israeli astronaut, Ilan Ramon, and Kalpana Chawla of India.  First clues pointed to failure of the heat-shielding tiles.
+--------------------------------------------------------------------------------
+Item 109: Avalanche Kills Seven
+Date: February 01, 2003
+Description: Six boys and one girl, all students of Strathcona-Tweedsmuir school in Calgary, died when they were caught in an avalanche in the Connaught Creek Valley, near the Rogers Pass in Glacier National Park, BC.
+--------------------------------------------------------------------------------
+Item 110: Earthquake and Tsunami in the Indian Ocean
+Date: December 26, 2004
+Description: A giant earthquake struck about 150 kilometres off the west coast of northern Sumatra Island (Indonesia) generating a catastrophic tsunami that caused devastation in eleven countries around the Indian Ocean. The tsunami waves killed people more than 2,000 kilometers away, as far as the Seychelles and Somalia By February 2005, the global death toll was estimated as 226,566, with many unreported deaths. The Government of Canada donated some $425 million to relief and reconstruction in the affected region.
+--------------------------------------------------------------------------------
+Item 111: BC Ferry Sinks
+Date: March 22, 2006
+Description: BC Ferries'Queen of the Northhit a rock near Gil Island and sank while traveling south from Prince Rupert. Two of the 101 passengers were never found.
+--------------------------------------------------------------------------------
+Item 112: BC Ferries Report
+Date: June 05, 2006
+Description: The Transportation Safety Board declared that human error caused BC Ferries'Queen of 
+the Northto sink on 22 March 2006, killing 2.
+--------------------------------------------------------------------------------
+Item 113: Helicopter Crash Near Nfld
+Date: March 01, 2009
+Description: A Cougar Helicopters chopper went down off the coast of Newfoundland after issuing a mayday about technical problems. Officials recovered two life-rafts but no one was aboard. Seventeen of the 18 passengers and crew were lost at sea.
+--------------------------------------------------------------------------------
+Item 114: Earthquake Strikes Haiti
+Date: January 12, 2010
+Description: A devastating 7.0-magnitude earthquake struck Haiti. Though estimates vary, over 230,000 people died, including 58 Canadians who were in the country working with NGOs and United Nations programs. Canada responded immediately, evacuating thousands and sending 2,000 troops and millions in relief funds. Canada–Haiti relations date back to 1954 and are bolstered by the considerable number of Haitians who call Canada home.
+--------------------------------------------------------------------------------
+Item 115: Earthquake Near Ottawa
+Date: June 23, 2010
+Description: An earthquake measuring 5.0 on the Richter Scale hit 60 km north of Ottawa, causing tremors that shook central Ontario and part of Québec. Though no lives were lost and only minimal damage occurred, the quake was unique in that it was felt as far away as New York.
+--------------------------------------------------------------------------------
+Item 116: Earthquake and Tsunami in Japan
+Date: March 11, 2011
+Description: A massive earthquake caused a catastrophic tsunami to strike the coast of Japan causing devastation in the coastal towns, tens of thousands of deaths and a lingering nuclear crisis.
+--------------------------------------------------------------------------------
+Item 117: Flooding of the Montérégie Region of Québec
+Date: April 30, 2011
+Description: Major flooding began in the Montérégie region as rapid snowmelt and heavy rains caused water levels to rise in Lake Champlain and the Richelieu River. All bordering municipalities would be affected, with nearly 3000 homes and much arable land flooded. In early May, Premier Jean Charest requested assistance from the Canadian Forces.
+--------------------------------------------------------------------------------
+Item 118: Slave Lake Burns
+Date: May 15, 2011
+Description: Wildfires, propelled by strong winds, swept through the town of Slave Lake, AB, destroying 30 percent of the town.
+--------------------------------------------------------------------------------
+Item 119: Alberta Flood Begins
+Date: June 08, 2013
+Description: Torrential rains in both northern and southern Alberta flood the landscape and mire cities and townships. As many as 75,000 people are evacuated from Calgary as the Bow and Elbow rivers swell. Waters begin to recede a full two weeks after rains began.
+--------------------------------------------------------------------------------
+Item 120: Lac-Mégantic Oil Train Explosion
+Date: July 06, 2013
+Description: A runaway train carrying crude oil exploded inLac-Mégantic,Québec, killing at least 47 people. Approximately 2,000 were evacuated after explosions and subsequent fires destroyed the centre of town.
+--------------------------------------------------------------------------------
+Item 121: Record-Breaking Flash Floods Hit Toronto
+Date: July 08, 2013
+Description: A record-breaking Toronto, ON, storm dropped 126 mm of rain in half a day, causing blackouts, flooding and transit chaos. The previous single-day record was 121.4 mm, set in 1954 during Hurricane Hazel. The flooding shut down sections of highway and the subway. 300,000 households lost power.
+--------------------------------------------------------------------------------
+Item 122: Charges Laid in Lac-Mégantic Oil Train Explosion
+Date: May 13, 2014
+Description: Three employees of the Montreal, Maine and Atlantic Railway were charged with criminal negligence in the 6 July 2013 oil train crash that killed 47 people in the town ofLac-Mégantic,Quebec. An investigation into the disaster determined, among other causes, that the handbrakes on the train were insufficient, causing the train to slide down a sloped length of track, derail and explode in downtown Lac-Mégantic. Following a trial, jurors acquitted the three former employees on 19 January 2018.
+--------------------------------------------------------------------------------
+Item 123: More Charges Laid in Lac-Mégantic Oil Train Explosion
+Date: June 22, 2015
+Description: The Montreal, Maine and Atlantic Railway and six former employees of the railway were charged under theRailway Safety ActandFisheries Actfor their role in the 6 July 2013 oil train crash that killed 47 people in the town ofLac-Mégantic,Quebec. On 5 February 2018, the Montreal, Maine and Atlantic Railway pleaded guilty to violating theFisheries Actand was fined $1 million. The six former employees pleaded guilty to violating theRailway Safety Act. Five of the former employees were fined $50,000 each. The sixth former employee received a conditional sentence of six months in prison, to be served in the community.
+--------------------------------------------------------------------------------
+Item 124: Avalanche Kills Five Near McBride, BC
+Date: January 29, 2016
+Description: Anavalanchekilled fivesnowmobilersnear McBride,British Columbia. Reports stated the disaster was human-triggered, though officials did not suspect any wrongdoing. In total, 17 people were caught in the avalanche.
+--------------------------------------------------------------------------------
+Item 125: Fort McMurray Wildfire
+Date: May 03, 2016
+Description: A ragingforest fire, which had begun southwest ofFort McMurray,Alberta, crossed theAthabasca Rivertoward the city, prompting the evacuation of more than 80,000 residents. The fire eventually covered 500,000 hectares, destroyed 2,400 structures (about 10 per cent of Fort McMurray), and forcedoil sandsproducers to temporarily shut down their operations. It was called the costliest naturaldisasterin Canadian history.
+--------------------------------------------------------------------------------
+Item 126: CPR Crew Dies in BC Train Derailment
+Date: February 04, 2019
+Description: Conductor Dylan Paradis, engineer Andrew Dockrell and trainee Daniel Waldenberger-Bulmer were killed when their 112-car freighttrainderailed at around 1:00 a.m. east of Field, BC, falling about 60 m into theKicking Horse River. The train was reportedly travelling at more than twice the speed limit. It’s believed that cold weather or a mechanical failure may have been a factor. The accident followed a 16-car derailment in the same area on 3 January 2019 (see also:Railway Disasters;Railway Safety).
+--------------------------------------------------------------------------------
+Item 127: Seven Syrian Children Die in Halifax House Fire
+Date: February 20, 2019
+Description: The seven children of Ebraheim and Kawthar Barho,Syrian refugeeswho immigrated to Canada in 2017, were killed in an early morning house fire inHalifax’s Spryfield area. The children’s ages ranged from four months to 15 years. Halifax deputy fire chief Dave Meldrum called the death toll “the largest loss that we have in our memory.” A vigil held the next day was attended by hundreds of people, includingPrime MinisterJustin Trudeau.
+--------------------------------------------------------------------------------
+Item 128: BC Town Destroyed by Fire Days after Setting High Temperature Record
+Date: June 30, 2021
+Description: As a “heat dome” wreaked havoc inBritish Columbia, the town ofLyttonset the Canadian record for highest single-day temperature on 27 June, with 46.6˚C. It was the first temperature above 45˚C ever recorded in Canada. The town of about 250 people broke the record the next day with a temperature of 47.9˚C. Two days later, on 30 June, the town was wiped off the map by awildfirethat forced the evacuation of about 1,000 people and left two people dead.
+--------------------------------------------------------------------------------
+Item 129: 570 Die from Heat in Deadliest Weather Event in Canadian History
+Date: July 01, 2021
+Description: A “heat dome” over much of Western Canada resulted in record-breaking temperatures between 25 June and 1 July, especially inBritish Columbia, where temperatures were routinely above 40˚C. It was estimated that around 570 people in the province died from the heat. Sarah Henderson, a scientific director at the BC Centre for Disease Control, called the heat dome “the most deadly weather event in Canadian history.”
+--------------------------------------------------------------------------------
+Item 130: 300 Active Wildfires in BC
+Date: July 19, 2021
+Description: Twenty evacuation orders were in effect inBritish Columbiadue to about 300wildfiresacross the province. Twelve per cent of the fires were rated as “highly visible or a threat to life or property.” Smoke from the fires was also causing haze and myriad health issues throughout the province.
+--------------------------------------------------------------------------------
+Item 131: “Worst Weather Storm in a Century” Causes Floods, Wipes Out Highways and Kills Five in BC
+Date: November 14, 2021
+Description: A “significant atmospheric river” inundated the Lower Mainland and the southern interior ofBCwith a month’s worth ofrainin less than 48 hours. Many communities recorded more than 100 mm of rain; the town ofHopehad the most with 252 mm. A landscape scarred byforest firesand other effects ofclimate changeresulted in severe mudslides andfloodsin 17 regional districts. Five people were killed in a mudslide on Highway 99 north of Pemberton, and hundreds of people in the province were evacuated byhelicopterafter they were stranded by mudslides onhighways and roads. Stretches of theCoquihalla Highwayand theTrans-Canada Highwaywere badly damaged or destroyed. The town ofMerrittwas flooded, forcing more than 7,000 residents to evacuate. The Sumas Prairie, anagriculturalarea betweenAbbotsfordandChilliwackthat had once been a lake, was flooded, causing hundreds of millions in damages. The storm, which came four and a half months after a heat wave that killed almost 600 people in BC, also took a deadly toll on the region’s livestock. An estimated 628,000poultry, 12,000hogsand 420dairy cowswere killed and 110beehiveswere destroyed.
+--------------------------------------------------------------------------------

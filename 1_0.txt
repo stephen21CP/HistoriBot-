@@ -1,0 +1,341 @@
+Item 1: Champlain's First Trip
+Date: March 15, 1603
+Description: Samuel de Champlain boarded the Bonne-Renommée at Honfleur, France, destined for New France, as a private passenger on Gravé Du Pont's expedition.
+--------------------------------------------------------------------------------
+Item 2: Champlain Arrives at Gaspé
+Date: July 15, 1603
+Description: Samuel de Champlain arrived at Gaspé, where he first heard about Acadia.
+--------------------------------------------------------------------------------
+Item 3: Founding of the Ordre de Bon Temps
+Date: January 01, 1606
+Description: Ordre de Bon Temps("Order of Good Cheer"), was founded atPort-RoyalbySamuel de Champlainto maintain spirits and pass the time. Members took turns providing fresh game and, as chief steward of the day, leading a ceremonial procession to the table.
+--------------------------------------------------------------------------------
+Item 4: Expedition to Massachusetts
+Date: September 05, 1606
+Description: Samuel de Champlain and Jean de Poutrincourt launched another expedition from Port-Royal to explore the coast of Massachusetts, hoping to establish friendly relationships with the Secoudon and Messamouet in the area. Their efforts were met with hostility and soon abandoned.
+--------------------------------------------------------------------------------
+Item 5: Marc Lescarbot's Theatre
+Date: November 14, 1606
+Description: Marc Lescarbot put on the first European theatrical production in Canada, or North America, calledLe Théâtre de Neptune.
+--------------------------------------------------------------------------------
+Item 6: Port-Royal Abandoned
+Date: August 11, 1607
+Description: The Port-Royal settlement was abandoned on orders from France. On Sept 3, after skirting the Straits of Canso and mapping the Atlantic coastline from Cape Breton to the south of Cap Blanc, Samuel de Champlain and the other voyagers headed home to St Malo. Only Poutrincourt would return, in 1610.
+--------------------------------------------------------------------------------
+Item 7: First Black Person in Canada
+Date: January 01, 1608
+Description: The first Black person thought to have set foot on Canadian soil was Mathieu Da Costa, a free man who was hired by Europeans to act as a translator.
+--------------------------------------------------------------------------------
+Item 8: de Monts's Monopoly Renewed
+Date: January 07, 1608
+Description: Henri IV of France renewed de Monts's fur-trade monopoly, temporarily saving the colony at Port-Royal.
+--------------------------------------------------------------------------------
+Item 9: Champlain Leaves on 3rd Voyage
+Date: April 13, 1608
+Description: As lieutenant to the Sieur de Monts, Samuel de Champlain set out on his third voyage to New France. He arrived at Tadoussac on 3 June.
+--------------------------------------------------------------------------------
+Item 10: First Jesuits Arrive in New France
+Date: May 22, 1611
+Description: The first Jesuits to arrive in New France, Pierre Biard and Ennemond Massé, arrived at Port-Royal on May 22, 1611.
+--------------------------------------------------------------------------------
+Item 11: Champlain Becomes Governor
+Date: May 07, 1620
+Description: Louis XIII wrote to Samuel de Champlain, commissioning him to govern New France and to do so in accordance with the laws and customs of France. From that point, Champlain devoted himself almost exclusively to administration and his career as an explorer ended.
+--------------------------------------------------------------------------------
+Item 12: Treaty of Saint-Germain-en-Laye
+Date: March 29, 1632
+Description: France recovered Québec from England in the Treaty of Saint-Germain, along with compensation for goods siezed when Champlain surrendered Québec.
+--------------------------------------------------------------------------------
+Item 13: Isaac de Razilly becomes governor of Acadia
+Date: May 10, 1632
+Description: Isaac de Razillywas selected to lead an expedition to re-establish the colony ofAcadiaafter three years of Scottish occupation. With his headquarters at La Hève and an establishment of some 300 soldiers and colonists, Razilly worked effectively to consolidate the French hold on Acadia until his unexpected death in 1635.
+--------------------------------------------------------------------------------
+Item 14: Champlain Recommended to Lead Colony
+Date: March 01, 1633
+Description: Asked by Cardinal Richelieu to take command of the colony, Isaac de Razilly deferred to Champlain as being more competent in colonial affairs.
+--------------------------------------------------------------------------------
+Item 15: Death of Champlain
+Date: December 25, 1635
+Description: Champlain died at Québec. He had suffered a stroke the previous October and signed his will November 17.
+--------------------------------------------------------------------------------
+Item 16: Attack on Fort La Tour
+Date: April 13, 1645
+Description: D'Aulnay de Charnisay attacked Fort La Tour. La Tour's wife surrendered on the understanding that the garrison would be spared but Charnisay executed all the men but one, who had agreed to be executioner.
+--------------------------------------------------------------------------------
+Item 17: Birth of Sir William Phips
+Date: February 02, 1650
+Description: Sir William Phips, adventurer, was born near Kennebec, Maine.
+--------------------------------------------------------------------------------
+Item 18: La Tour Made Governor
+Date: February 25, 1651
+Description: Charles de La Tour was made governor of Acadia.
+--------------------------------------------------------------------------------
+Item 19: Sedgwick Captures Port-Royal
+Date: August 16, 1654
+Description: Robert Sedgwick, commander-in-chief of the New England coast, captured Port-Royal.
+--------------------------------------------------------------------------------
+Item 20: Birth of Daniel de Subercase
+Date: February 12, 1661
+Description: Daniel d’Auger de Subercase, last governor of French Acadia, was born at Orthez, France.
+--------------------------------------------------------------------------------
+Item 21: Treaty of Breda
+Date: July 21, 1667
+Description: The Treaty of Breda provided for French restoration of the English part of the island of St Christopher's, West Indies, in exchange for Acadia, captured from the French in 1654.
+--------------------------------------------------------------------------------
+Item 22: Phips Plunders Port-Royal
+Date: May 19, 1690
+Description: Sir William Phips captured and plundered Port-Royal.
+--------------------------------------------------------------------------------
+Item 23: Treaty of Ryswick
+Date: September 30, 1697
+Description: The Treaty of Ryswick between England and France provided for the restoration of all Hudson's Bay Co posts seized by Pierre le Moyne d'Iberville.
+--------------------------------------------------------------------------------
+Item 24: England Declares War on France
+Date: May 15, 1702
+Description: England declared war on France, beginning the War of the Spanish Succession; it lasted until 1713.
+--------------------------------------------------------------------------------
+Item 25: Nicholson Captures Port-Royal
+Date: October 05, 1710
+Description: Francis Nicholson and an English force of 2000 men captured Port-Royal.
+--------------------------------------------------------------------------------
+Item 26: Treaty of Utrecht Signed
+Date: April 11, 1713
+Description: The Treaty of Utrecht was signed, ending the War of the Spanish Succession. It recognized the claim of the Hudson's Bay Co to Rupert's Land, and Acadia became a permanent English possession.
+--------------------------------------------------------------------------------
+Item 27: Contract for Construction of Louisbourg
+Date: March 07, 1719
+Description: A contract was signed for the building of the King’s Bastion and citadel barracks of Louisbourg. Contractor Michel-Philippe Isabeau became known for his speedy work but also for his poor bookkeeping, exploitation of contract loopholes and habit of paying workers in goods (especially liquor). Isabeau died in 1724, and the work was carried on by others for another 20 years before the great fortress was finally complete.
+--------------------------------------------------------------------------------
+Item 28: War of the Austrian Succession
+Date: October 19, 1744
+Description: Britain declared war on Spain, opening the hostilities that led to the War of the Austrian Succession, called King George's War in the colonies.
+--------------------------------------------------------------------------------
+Item 29: Louisbourg Surrenders
+Date: June 17, 1745
+Description: The fortress of Louisbourg surrendered to the English.
+--------------------------------------------------------------------------------
+Item 30: Ramezay's Attack on Grand Pré
+Date: February 11, 1747
+Description: Claude de Ramezay, guided by Acadians, attacked the British position at Grand Pré.
+--------------------------------------------------------------------------------
+Item 31: Treaty of Aix-la-Chapelle
+Date: October 18, 1748
+Description: The Treaty of Aix-la-Chapelle ended the War of the Austrian Succession. PEI, Cape Breton Island and Louisbourg were returned to France.
+--------------------------------------------------------------------------------
+Item 32: Expulsion of the Acadians
+Date: July 28, 1755
+Description: Between 1755 and 1763, approximately 10,000 Acadians aredeportedafter delegates refuse to take an oath of allegiance to Britain.Acadians, the first French community in Canada, are allies of theMi’kmaqand
+		possess a distinctiveculture. Following theAcadian Expulsion, thousands die of disease or starvation.
+--------------------------------------------------------------------------------
+Item 33: Louisbourg Surrenders
+Date: July 26, 1758
+Description: The fortress of Louisbourg surrendered for the last time. The French inhabitants were returned to France.
+--------------------------------------------------------------------------------
+Item 34: Andrew Rollo Captures Île Saint-Jean
+Date: August 08, 1759
+Description: Brigadier-General Andrew Rollo, the 5th Lord Rollo, captured Île Saint-Jean (now Prince Edward Island) from the French at the height of the Seven Years'' War. Roughly 3,500 Acadians were swiftly repatriated to France whilst Rollo constructed Fort Amherst in honour of, and on orders from, General Jeffrey Amherst.
+--------------------------------------------------------------------------------
+Item 35: Treaty of Paris 1763
+Date: February 10, 1763
+Description: The Treaty of Paris was signed, ending the Seven Years' War. France ceded to Britain all North American possessions except Saint-Pierre and Miquelon off Nfld, and Louisiana (sold in 1803). The treaty authorized freedom of religion in the colony.
+--------------------------------------------------------------------------------
+Item 36: Royal Proclamation
+Date: October 07, 1763
+Description: The Royal Proclamation was issued by King George III, setting the western boundary of British settlement following the Seven Years War. Historic, foundational, flawed, the Proclamation stated that Aboriginal title had existed and continued to exist. All land was considered Aboriginal land until ceded by treaty, which could only be annexed by the Crown.
+--------------------------------------------------------------------------------
+Item 37: New Brunswick Separates
+Date: August 16, 1784
+Description: New Brunswick was established as a separate colony from Nova Scotia.
+--------------------------------------------------------------------------------
+Item 38: Birth of Edward Barron Chandler
+Date: August 22, 1800
+Description: Edward Barron Chandler was born in Amherst, Nova Scotia. Popular in New Brunswick’s political circles, Chandler served in the House of Assembly. A Father of Confederation, he attended the major Confederation conferences, though he did not support Sir John A. Macdonald’s push for centralization.
+--------------------------------------------------------------------------------
+Item 39: Aroostook War
+Date: February 08, 1839
+Description: New Brunswick and Maine clashed over lumbering in what became known as the Aroostook War (sometimes called the Pork and Beans War), over the undefined border.
+--------------------------------------------------------------------------------
+Item 40: Birth of Sir Pierre-Amand Landry
+Date: May 01, 1846
+Description: Sir Pierre-Amand Landry, lawyer, politician, judge, first NB Acadian Cabinet minister and Supreme Court judge, and the only knighted Acadian, born at Memramcook, NB.
+--------------------------------------------------------------------------------
+Item 41: Publication in Boston of Evangeline, A Tale of Acadia
+Date: October 20, 1847
+Description: Evangelineis a narrative poem (1847) by Henry Wadsworth Longfellow inspired by theexpulsion of the Acadiansin 1755. The poem tells of the love and wanderings of two young Acadians, Évangéline Bellefontaine and Gabriel Lajeunesse, who, the day after their betrothal, were deported fromGrand Pré, NS, on different Louisiana-bound ships. The pair are reunited years later in a Philadelphia almshouse where she, now a Sister of Mercy, finds him destitute and dying.
+--------------------------------------------------------------------------------
+Item 42: Birth of Pascal Poirier
+Date: February 15, 1852
+Description: Pascal Poirier, one of the leading figures of the Acadian Renaissance, was born in Shediac, NB. In 1885, he became the first Acadian appointed to the Senate.
+--------------------------------------------------------------------------------
+Item 43: Stanislas Poirier (Perry) elected to the PEI Assembly
+Date: June 20, 1854
+Description: Stanislas-François Poirier (Perry) became the first Acadian elected to the House of Assembly of Prince Edward Island. Twenty years later, in 1874, he became the first Acadian Member of Parliament.
+--------------------------------------------------------------------------------
+Item 44: Birth of Peter John Veniot
+Date: October 04, 1863
+Description: Born in Richibucto, NB,Peter John Veniot, "Pierre," is the first Acadian NB premier from 1923 to 1925 (non-elected). He succeededW.E. Fosteras premier in 1923 and supported public ownership of the provincial hydro system and theMaritime Rights Movement. He was recognized as the leader of Acadian Liberalism. Following the defeat of his party in 1925, he ran successfully as MP for Gloucester and was appointed postmaster general by PMKing. He sat as an MP until his death in 1936.
+--------------------------------------------------------------------------------
+Item 45: Collège Saint-Joseph de Memramcook founded in NB
+Date: October 10, 1864
+Description: Father Camille Lefebvre, member of the congregation of the Fathers of Sainte-Croix, founded the Collège Saint-Joseph in Memramcook,New Brunswick. The establishment of this institution was significant because the graduates quickly began to play active roles in the Acadian community and, with the help of the clergy, started questioning their own identity and asserting their aspirations as francophones in an anglophone environment. Collège Saint-Joseph was one of three colleges that merged in 1963 to become theUniversité de Moncton.
+--------------------------------------------------------------------------------
+Item 46: Le Moniteur Acadienfounded
+Date: March 05, 1867
+Description: The first Acadian newspaper,Le Moniteur Acadien, was founded by Israël Landry in Shediac, New Brunswick. The paper, whose first issue appeared on 8 July 1867, marked the beginning of the Acadian Renaissance.
+--------------------------------------------------------------------------------
+Item 47: Birth of Aubin-Edmond Arsenault
+Date: July 28, 1870
+Description: Premier of PEI Aubin-Edmond Arsenault was born at Egmont Bay, PEI. Arsenault was the first Acadian premier of any Canadian province.
+--------------------------------------------------------------------------------
+Item 48: New Brunswick Schools
+Date: May 17, 1871
+Description: The New Brunswick government passed the Common Schools Act to strengthen and reform the school system. At the same time, it abandoned an informal system of separate schools that had grown up since the 1850s.
+--------------------------------------------------------------------------------
+Item 49: Stanislas Poirier (Perry) elected to the House of Commons
+Date: January 22, 1874
+Description: Stanislas-François Poirier (Perry) became the first Acadian Member of Parliament, twenty years after becoming the first Acadian elected to the House of Assembly of Prince Edward Island.
+--------------------------------------------------------------------------------
+Item 50: Death of Edward Barron Chandler
+Date: February 06, 1880
+Description: Edward Barron Chandler, a Father of Confederation, died in Fredericton, NB. Born to a prominent family, Chandler was deeply involved in the region’s politics. He was interested in constructing a Maritime rail line to Québec City and developing ties with the United States. Chandler also fought for Acadian language and cultural rights.
+--------------------------------------------------------------------------------
+Item 51: First National Acadian Convention
+Date: July 20, 1881
+Description: The first National Acadian Convention was held in Memramcook, New Brunswick. Chaired by MPPierre-Amand Landry, the convention drew over 5,000 people and saw the establishment of National Acadian Day on 15 August, Assumption Day.
+--------------------------------------------------------------------------------
+Item 52: Flag of Acadia adopted
+Date: August 15, 1884
+Description: In 1884, Miscouche hosted the historic secondConvention nationale acadienne(National Acadian Convention), during the course of which delegates adopted all the national symbols Acadians use today: the flag (the French tricolour with a yellow star in the blue stripe), the national anthem (Ave Maris Stella), the motto (“L’Union fait la force” or “Unity makes strength”) and the crest.
+--------------------------------------------------------------------------------
+Item 53: Pascal Poirier appointed to the Senate
+Date: March 09, 1885
+Description: A leading figure of the Acadian Renaissance, Pascal Poirier, of Shediac, NB, became the first Acadian appointed to the Senate.
+--------------------------------------------------------------------------------
+Item 54: Launch of theL’Évangéline
+Date: November 23, 1887
+Description: Established by Valentin Landry in Digby, Nova Scotia, this Acadian newspaper was moved to Moncton, New Brunswick in 1905 and published until 1982.
+--------------------------------------------------------------------------------
+Item 55: College Sainte-Anne, NS is founded
+Date: September 01, 1890
+Description: College Sainte Anne (todayUniversité Sainte-Anne) was founded at Church Point, Nova Scotia by the Eudist Fathers and offered instruction in French.
+--------------------------------------------------------------------------------
+Item 56: Édouard-A. LeBlanc becomes the first Acadian Bishop
+Date: December 10, 1912
+Description: After decades of petitions from Acadians, the Vatican appointed the first bishop of Acadian origin to the Episcopal seat of Saint John, New Brunswick.
+--------------------------------------------------------------------------------
+Item 57: Birth of Gilbert Finn
+Date: September 03, 1920
+Description: Born in Inkerman Ferry, NB,Gilbert Finnis an Acadian businessman. After working 37 years at the Assumption Mutual Life Assurance Co, he served on the Atlantic Provinces Economic Council and theEconomic Council of Canada, was president of theUniversité de Monctonand was active in Acadian andNew Brunswickcommunity groups. His service to his people and province was rewarded with membership in theOrder of Canada. Upon his retirement in 1987 he was appointedlieutenant-governorof New Brunswick, the second person of Acadian descent to be so honoured. He served in this capacity until 1994.
+--------------------------------------------------------------------------------
+Item 58: Peter John Veniot becomes NB premier
+Date: February 28, 1923
+Description: Born in Richibucto, NB,Peter John Veniot, "Pierre," was the first Acadian NB premier and served from 1923 to 1925. He succeededW.E. Fosteras premier in 1923 and supported public ownership of the provincial hydro system and theMaritime Rights Movement. He was recognized as the leader of Acadian Liberalism. Following the defeat of his party in 1925, he ran successfully as MP for Gloucester and was appointed postmaster general by Prime Minister W.L. MackenzieKing. He sat as an MP until his death in 1936.
+--------------------------------------------------------------------------------
+Item 59: Birth of Antonine Maillet
+Date: May 10, 1929
+Description: Celebrated Acadian novelist Antonine Maillet was born at Bouctouche, NB.
+--------------------------------------------------------------------------------
+Item 60: Birth of Angèle Arsenault
+Date: October 01, 1943
+Description: Angèle Arsenaultwas a pioneeringAcadiansinger-songwriter. She was renowned for her catchy, upbeat melodies, playful social commentary and distinctive humour. She was perhaps best known for the songs “Évangéline, Acadian Queen,” “Je veux toute la vivre ma vie,” and the Acadian anthem “Grand-Pré.” An Officer of theOrder of Canadaand a Member of theOrder of Prince Edward Island, she received the Ordre de la Pléiade from the Association of French-Speaking Parliamentarians for her role in promoting French language and culture.
+--------------------------------------------------------------------------------
+Item 61: Birth of Jacques Savoie
+Date: February 03, 1951
+Description: Jacques Savoie, Acadian musician, author, screenwriter (born 3 February 1951 inEdmundston,NB). Savoie has left his mark on French-Canadian literature, television and film. A founding member of the Acadian musical group Beausoleil Broussard, he is also the author of close to 20 novels, includingRaconte-moi MassabielleandLes Portes tournantes, both of which have garnered many international awards and been made into films.
+--------------------------------------------------------------------------------
+Item 62: Birth of Raymonde April
+Date: June 23, 1953
+Description: Photographer Raymonde April, whose practice has influenced the development of photography in Québec and Canada, was born at Moncton, NB.
+--------------------------------------------------------------------------------
+Item 63: Louis J. Robichaud becomes premier of NB
+Date: July 12, 1960
+Description: Elected leader of the NB Liberal Party in 1958,Louis Joseph Robichaudled it to victory overHugh J. Flemmingin 1960, served as attorney general between 1960 and 1965, and as minister of youth in 1968. The first Acadian elected premier of NB, he introduced far-reaching social reforms through the centralizing Programme of Equal Opportunity. His government passed an Official Languages Act, establishedUniversité de Moncton, increased Acadian administrative influence, and encouraged the mining and forestry industries.
+--------------------------------------------------------------------------------
+Item 64: Birth of Roch Voisine
+Date: March 26, 1963
+Description: Roch Voisine, popular award winning Quebec singer, was born at St Basile, NB.
+--------------------------------------------------------------------------------
+Item 65: Université de Moncton is founded
+Date: June 19, 1963
+Description: Université de Monctonwas founded by the New Brunswick legislature in accordance with the recommendations of a royal commission. Université de Moncton began with the amalgamation of three institutions which agreed to suspend their charters in order to become affiliated colleges: Saint-Joseph (founded 1864), Sacré-Coeur (1899) and Saint-Louis (1946). As amended in 1977, the university's charter authorized campuses in each of New Brunswick's three francophone regions: Moncton, Edmundston and Shippagan.
+--------------------------------------------------------------------------------
+Item 66: ​Kouchibouguac National Park Established
+Date: January 01, 1969
+Description: Kouchibouguac National Parkwas established. Situatedon the eastern New Brunswick shore ofNorthumberland Strait, the park is a delicate blend of beaches, sand dunes and salt marshes. A 25 km long barrier-island system shelters lagoons from the often violent sea.Several rivers flowing across the park inspired its Mi'kmaq name "river of the long tides."
+--------------------------------------------------------------------------------
+Item 67: New Brunswick's Bilingual Acts
+Date: May 23, 1974
+Description: New Brunswick became the first province to draft statutes in both official languages.
+--------------------------------------------------------------------------------
+Item 68: Acadian Historical Village Opens
+Date: August 15, 1977
+Description: TheAcadian Historical Village(Village historique acadien) is an ambitious living history site located on the Rivière-du-Nord nearCaraquet,NB, in the heart of the Acadian Peninsula. It presents the rich tangible and intangible cultural heritage of the large Acadian population who settled in this province.
+--------------------------------------------------------------------------------
+Item 69: Opening of the first Jeux de l’Acadie
+Date: August 29, 1979
+Description: The first Acadian Games (Jeux de l’Acadie) were held in Moncton from 29 August to 1 September 1979.
+--------------------------------------------------------------------------------
+Item 70: Antonine Maillet wins Prix Goncourt
+Date: November 20, 1979
+Description: For her novelPélagie-la-Charrette, Acadian writer Antonine Maillet became the first non-French citizen to win France's most prestigious literary prize, the Prix Goncourt.
+--------------------------------------------------------------------------------
+Item 71: First Congrès mondial acadien
+Date: August 12, 1994
+Description: The first Congrès mondial acadien (World Acadian Congress) was held in Moncton and various communities of southeastern New Brunswick from 12 August to 22 August 1994.
+--------------------------------------------------------------------------------
+Item 72: Rose-Marie Losier-Cool appointed to the Senate
+Date: March 21, 1995
+Description: Born in Tracadie-Sheila, NB, Rose-Marie Losier-Cool became the first Acadian woman appointed to the Senate.
+--------------------------------------------------------------------------------
+Item 73: Bastarache Named New Supreme Court Justice
+Date: October 01, 1997
+Description: PM Jean Chrétien named Justice Michel Bastarache to fill the vacancy left on the Supreme Court by Gerard LaForest. He became the first Acadian appointed to the Supreme Court of Canada.
+--------------------------------------------------------------------------------
+Item 74: Thériault Becomes Premier
+Date: May 02, 1998
+Description: Camille Henri Thériault was sworn in as premier of New Brunswick.
+--------------------------------------------------------------------------------
+Item 75: Conservatives Win in NB
+Date: June 07, 1999
+Description: The New Brunswick Progressive Conservative Party won a surprising landslide victory in the provincial election. Thirty-three-year-old Bernard Lord became premier.
+--------------------------------------------------------------------------------
+Item 76: Moncton becomes a bilingual city
+Date: August 06, 2002
+Description: Moncton, NB, became the first officially bilingual Canadian city.
+--------------------------------------------------------------------------------
+Item 77: Herménégilde Chiasson is installed as New Brunswick's lieutenant-governor
+Date: August 29, 2003
+Description: Herménégilde Chiassonwas born 7 April 1946 in Saint-Simon, NB. He is an artist, poet, playwright, film director and lieutenant-governor of New Brunswick. An Officer of the Order of Canada, winner of the Governor General’s Literary Award, and New Brunswick's 29th lieutenant-governor, Chiasson is considered the father of Acadian modernism and is one of Canada's foremost advocates of Acadian culture and the arts. He is also notable for his insistence upon Acadian culture being a living culture rather than a persecuted and exiled one.
+--------------------------------------------------------------------------------
+Item 78: Crown acknowledges deportation of the Acadian people
+Date: December 06, 2003
+Description: In a royal proclamation, Governor GeneralAdrienne Clarksonrecognized the responsibility of the British Crown in the decision to deport the Acadian people in 1755 and its tragic consequences. Since 2005, 28 July has been designated Day of Commemoration of the Great Upheaval.
+--------------------------------------------------------------------------------
+Item 79: Day of Commemoration of the Great Upheaval
+Date: July 28, 2005
+Description: To mark the 250th anniversary of the deportation of the Acadian people in 1755, 28 July officially became Canada's Day of Commemoration of the Great Upheaval, as set by the Royal Proclamation of 6 December 2003.
+--------------------------------------------------------------------------------
+Item 80: Edith Butler receives the Governor General’s Performing Arts Award for Lifetime Achievement
+Date: May 08, 2009
+Description: Born in 1942 in Paquetville, NB,Édith Butlerhas popularized a number of traditional Acadian songs.
+--------------------------------------------------------------------------------
+Item 81: Death of Roméo A. LeBlanc
+Date: June 24, 2009
+Description: A fluently bilingual Acadian, LeBlanc was selected by PMJean Chrétienin 1994 to succeedRay Hnatyshynas Governor General of Canada.Roméo LeBlancwas the first Maritimer and first Canadian of Acadian descent to hold the vice-regal office.
+--------------------------------------------------------------------------------
+Item 82: France Daigle wins the Governor General’s Literary Award
+Date: November 13, 2012
+Description: France Daigle, an Acadian author born 18 November 1953 inDieppe, a suburb ofMoncton,New Brunswick, is the leading representative of postmodernAcadian literature. Her work has sparked a great deal of interest inQuébec, English Canada, and other parts of theFrancophonie. She won theGovernor General’s Literary Awardfor her masterpiece entitledPour sûr(2011).
+--------------------------------------------------------------------------------
+Item 83: Death of Angèle Arsenault
+Date: February 24, 2014
+Description: Angèle Arsenaultwas a pioneeringAcadiansinger-songwriter. She was renowned for her catchy, upbeat melodies, playful social commentary and distinctive humour. She was perhaps best known for the songs “Évangéline, Acadian Queen,” “Je veux toute la vivre ma vie,” and the Acadian anthem “Grand-Pré.” An Officer of theOrder of Canadaand a Member of theOrder of Prince Edward Island, she received the Ordre de la Pléiade from the Association of French-Speaking Parliamentarians for her role in promoting French language and culture.
+--------------------------------------------------------------------------------
+Item 84: Brian Gallant elected premier of New Brunswick
+Date: September 23, 2014
+Description: Brian Alexander Gallantwas born 27 April 1982 in the Acadian community ofShediacBridge, New Brunswick. He was a lawyer and leader of the New Brunswick Liberal Party. At 32 years of age, he became the country’s youngestpremier. Gallant is the son of Pierre Gallant, who is of Acadian heritage, and Marilyn Scholten, the daughter ofDutchimmigrants.
+--------------------------------------------------------------------------------
+Item 85: Death of Gilbert Finn
+Date: January 07, 2015
+Description: Born 3 September 1920 in Inkerman Ferry, NB,Gilbert Finnis an Acadian businessman. After working 37 years at the Assumption Mutual Life Assurance Co, he served on the Atlantic Provinces Economic Council and theEconomic Council of Canada, was president of theUniversité de Monctonand was active in Acadian andNew Brunswickcommunity groups. His service to his people and province was rewarded with membership in theOrder of Canada. Upon his retirement in 1987 he was appointedlieutenant-governorof New Brunswick, the second person of Acadian descent to be so honoured. He served in this capacity until 1994.
+--------------------------------------------------------------------------------

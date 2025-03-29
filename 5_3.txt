@@ -1,0 +1,168 @@
+Item 1: Champlain's First Trip
+Date: March 15, 1603
+Description: Samuel de Champlain boarded the Bonne-Renommée at Honfleur, France, destined for New France, as a private passenger on Gravé Du Pont's expedition.
+--------------------------------------------------------------------------------
+Item 2: Champlain Reaches Tadoussac
+Date: May 26, 1603
+Description: Samuel de Champlain reached Tadoussac on the north shore of the St Lawrence River and set foot for the first time in New France.
+--------------------------------------------------------------------------------
+Item 3: Champlain Learns of Hudson Bay
+Date: June 11, 1603
+Description: Samuel de Champlain travelled nearly 60 km up the Saguenay River, and learned from the Montagnais tribe that a large saltwater body existed to the north (the Hudson Bay).
+--------------------------------------------------------------------------------
+Item 4: Champlain Reaches Montréal
+Date: July 04, 1603
+Description: Samuel de Champlain explored the Saguenay River and journeyed up the St Lawrence River, reaching the Lachine Rapids and the future site of Montréal on July 4.
+--------------------------------------------------------------------------------
+Item 5: Champlain Arrives at Gaspé
+Date: July 15, 1603
+Description: Samuel de Champlain arrived at Gaspé, where he first heard about Acadia.
+--------------------------------------------------------------------------------
+Item 6: Champlain Explores Bay of Fundy
+Date: September 02, 1604
+Description: Samuel de Champlain began exploring the Bay of Fundy to seek an ideal site for a permanent settlement, becoming the first European to create a geographical description of the area.
+--------------------------------------------------------------------------------
+Item 7: Expedition to Massachusetts
+Date: September 05, 1606
+Description: Samuel de Champlain and Jean de Poutrincourt launched another expedition from Port-Royal to explore the coast of Massachusetts, hoping to establish friendly relationships with the Secoudon and Messamouet in the area. Their efforts were met with hostility and soon abandoned.
+--------------------------------------------------------------------------------
+Item 8: Port-Royal Abandoned
+Date: August 11, 1607
+Description: The Port-Royal settlement was abandoned on orders from France. On Sept 3, after skirting the Straits of Canso and mapping the Atlantic coastline from Cape Breton to the south of Cap Blanc, Samuel de Champlain and the other voyagers headed home to St Malo. Only Poutrincourt would return, in 1610.
+--------------------------------------------------------------------------------
+Item 9: Champlain Leaves on 3rd Voyage
+Date: April 13, 1608
+Description: As lieutenant to the Sieur de Monts, Samuel de Champlain set out on his third voyage to New France. He arrived at Tadoussac on 3 June.
+--------------------------------------------------------------------------------
+Item 10: Founding of Québec
+Date: July 03, 1608
+Description: Samuel de Champlain established a fortified trading post at Québec, the perfect location to foster the fur trade and to serve as the base for its founder's idea of colonizing the remote country.
+--------------------------------------------------------------------------------
+Item 11: Champlain Explores Haudenosaunee Country
+Date: June 28, 1609
+Description: Samuel de Champlain explored Haudenosaunee country, entering the Rivière des Iroquois (Richelieu), paddling upriver and reaching a great lake that would later bear his name.
+--------------------------------------------------------------------------------
+Item 12: Champlain Battles the Haudenosaunee
+Date: July 30, 1609
+Description: Champlain and his First Nations allies battled the Haudenosaunee on Lake Champlain, beginning 150 years of war between Iroquois and French. Champlain's musket kills three and astonishes the enemy.
+--------------------------------------------------------------------------------
+Item 13: Champlain Returns to France
+Date: October 13, 1609
+Description: Samuel de Champlain arrived back in France, ready to report to the king on the success of New France and extol the virtues of the Québec habitation as a warehouse for the fur trade.
+--------------------------------------------------------------------------------
+Item 14: Champlain Sets Sail for France
+Date: August 08, 1610
+Description: After a disastrous year for the fur trade, Samuel de Champlain set sail for France, leaving behind 16 men under the command of Jean de Godet Du Parc.
+--------------------------------------------------------------------------------
+Item 15: Champlain Marries
+Date: December 27, 1610
+Description: At the approximate age of 40, Samuel de Champlain entered into an elaborate marriage contract with Hélène Bouellé, aged 12, who brought a large dowry. They were married in Paris on December 30; the marriage came into effect two years later.
+--------------------------------------------------------------------------------
+Item 16: Champlain Leaves for Lachine
+Date: May 28, 1611
+Description: Samuel de Champlain left Québec and arrived at Lachine and named the island in the middle of the St Lawrence River St. Hélène for his wife.
+--------------------------------------------------------------------------------
+Item 17: Champlain Shoots Rapids
+Date: June 13, 1611
+Description: Samuel de Champlain impressed his native allies by shooting the dangerous Lachine Rapids in a canoe.
+--------------------------------------------------------------------------------
+Item 18: Bourbon Named Lieutenant-General of New France
+Date: October 08, 1612
+Description: Louis XIII named Charles de Bourbon, Comte de Soissons, as his lieutenant-general in New France. Bourbon chose Samuel de Champlain as his lieutenant on Oct 15.
+--------------------------------------------------------------------------------
+Item 19: Champlain PublishesVoyages
+Date: January 09, 1613
+Description: Samuel de Champlain published hisLes Voyages du Sieur de Champlain, describing his adventures in New France.
+--------------------------------------------------------------------------------
+Item 20: Champlain Reaches Ottawa River
+Date: May 29, 1613
+Description: Champlain reached the mouth of the Ottawa River. On June 4 he noted the mouths of the Gatineau and Rideau rivers at the present site of Ottawa.
+--------------------------------------------------------------------------------
+Item 21: Champlain Promotes New France
+Date: September 26, 1613
+Description: Champlain left for France, where he remained until April 24, 1615 to promote the cause of New France.
+--------------------------------------------------------------------------------
+Item 22: Récollets Arrive
+Date: May 25, 1615
+Description: Four Récollets from France arrived at Tadoussac with Champlain, only to quickly go their separate ways. The best-known Récollet, Gabriel Sagard, later published Le Grand Voyage du pays des Hurons, an indispensable source of knowledge of Huron customs and culture.
+--------------------------------------------------------------------------------
+Item 23: Champlain Visits Huronia
+Date: July 01, 1615
+Description: French explorer Samuel de Champlain reached Huronia, at the southern end of Georgian Bay.
+--------------------------------------------------------------------------------
+Item 24: Champlain Treks Up Ottawa River
+Date: July 09, 1615
+Description: Samuel de Champlain began his journey up the Ottawa River, passing through the Lac des Népissingues (Lake Nipissing), the Rivière des Français (French River) and the great Lac Attigouautau (Lake Huron). He arrived among the Hurons on 1 August.
+--------------------------------------------------------------------------------
+Item 25: Champlain Arrives at Huronia
+Date: August 01, 1615
+Description: Samuel de Champlain completed his journey up the Ottawa River, arriving among the Hurons.
+--------------------------------------------------------------------------------
+Item 26: French Mobilize Forces
+Date: September 01, 1615
+Description: An attack force of 500 First Nations and French moved out from Cahiagué, Huronia, to present-day Orillia. On Sept 8 Champlain sent Etienne Brulé to make contact with the SusQuéhanna.
+--------------------------------------------------------------------------------
+Item 27: Champlain Wounded
+Date: October 11, 1615
+Description: Samuel de Champlain was wounded twice in the leg by arrows when he and his Huron-Wendat allies stumbled upon an Haudenosaunee fort.
+--------------------------------------------------------------------------------
+Item 28: Champlain's Third Battle with the Haudenosaunee
+Date: October 11, 1615
+Description: Champlain and his allies arrived at a Haudenosaunee fort on Lake Onanadaga, just north of present-day Syracuse. The Haudenosaunee routed the invaders, wounding Champlain with two arrows.
+--------------------------------------------------------------------------------
+Item 29: Champlain Leaves Huronia
+Date: January 15, 1616
+Description: Samuel de Champlain left Huronia to visit the Tobacco Nation (south of Nottawasaga Bay), then the Cheveux-Relevés (Ottawas, south of Georgian Bay), extending an invitation to the natives to come to Québec.
+--------------------------------------------------------------------------------
+Item 30: Champlain Returns with Map
+Date: September 10, 1616
+Description: Samuel de Champlain arrived in France, where he would publish an engraved map of New France.
+--------------------------------------------------------------------------------
+Item 31: Louis XIII Initiates Colony
+Date: March 12, 1618
+Description: King Louis XIII instructed Samuel de Champlain and his partners to establish a viable colony in New France.
+--------------------------------------------------------------------------------
+Item 32: VoyagesPublished
+Date: May 18, 1619
+Description: The Voyages and Explorations of Samuel de Champlain, an account of Samuel de Champlain's adventures in New France, was published.
+--------------------------------------------------------------------------------
+Item 33: Champlain Becomes Governor
+Date: May 07, 1620
+Description: Louis XIII wrote to Samuel de Champlain, commissioning him to govern New France and to do so in accordance with the laws and customs of France. From that point, Champlain devoted himself almost exclusively to administration and his career as an explorer ended.
+--------------------------------------------------------------------------------
+Item 34: Champlain Leaves Québec
+Date: August 21, 1624
+Description: With construction of a new habitation well underway, Champlain left Québec with his wife, who would not to return. He landed at Dieppe, France in October.
+--------------------------------------------------------------------------------
+Item 35: Oxen in New France
+Date: April 27, 1628
+Description: Samuel de Champlain recorded in his journal that, for the first time in New France, land had been broken by the plough drawn by oxen, a task typically carried out by human strength.
+--------------------------------------------------------------------------------
+Item 36: Champlain Surrenders Québec
+Date: July 20, 1629
+Description: Champlain wrote the articles of capitulation on July 19 and on the following day surrendered Québec to the English adventurer David Kirke and his brothers. He was captured and taken to England.
+--------------------------------------------------------------------------------
+Item 37: Treaty of Saint-Germain-en-Laye
+Date: March 29, 1632
+Description: France recovered Québec from England in the Treaty of Saint-Germain, along with compensation for goods siezed when Champlain surrendered Québec.
+--------------------------------------------------------------------------------
+Item 38: Champlain Recommended to Lead Colony
+Date: March 01, 1633
+Description: Asked by Cardinal Richelieu to take command of the colony, Isaac de Razilly deferred to Champlain as being more competent in colonial affairs.
+--------------------------------------------------------------------------------
+Item 39: Champlain's Final Voyage
+Date: March 23, 1633
+Description: Samuel de Champlain set sail on his final voyage to Québec at age 63.
+--------------------------------------------------------------------------------
+Item 40: Champlain Returns to Québec
+Date: May 23, 1633
+Description: Champlain returned to Québec and began to rebuild the Habitation from its ruins and to build the church of Notre-Dame-de-la-Recouvrance.
+--------------------------------------------------------------------------------
+Item 41: Champlain's Last Words
+Date: August 18, 1634
+Description: Champlain wrote to Richelieu, his last words on record, reporting that he had rebuilt the ruins of Québec and had built an armed trading post at Trois-Rivières. He also noted that several new families had arrived in the area, giving him renewed hope for the survival of settlement in the area.
+--------------------------------------------------------------------------------
+Item 42: Death of Champlain
+Date: December 25, 1635
+Description: Champlain died at Québec. He had suffered a stroke the previous October and signed his will November 17.
+--------------------------------------------------------------------------------
